@@ -1,0 +1,1550 @@
+<?xml version="1.0"?>
+<dblpperson name="Jan Hidders" pid="h/JanHidders" n="101">
+<person key="homepages/h/JanHidders" mdate="2018-12-10">
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="h/JanHidders">A. J. H. Hidders</author>
+<url>https://wise.vub.ac.be/jan-hidders</url>
+<url>http://www.wis.ewi.tudelft.nl/hidders/</url>
+<url>http://www.adrem.ua.ac.be/~hidders/</url>
+<url>https://scholar.google.com/citations?user=EHD4dXkAAAAJ</url>
+<url>https://twitter.com/jhidders</url>
+<url>https://orcid.org/0000-0002-8865-4329</url>
+<url>https://www.wikidata.org/entity/Q57062132</url>
+<note type="affiliation">Vrije Universiteit Brussel, Department of Computer Science, Belgium</note>
+<note type="affiliation">Delft University of Technology, Software Technology Department, The Netherlands</note>
+<note type="affiliation">University of Antwerp, Belgium</note>
+</person>
+<r><article key="journals/vldb/FangMHLH20" mdate="2020-02-06">
+<author orcid="0000-0002-1077-1859" pid="29/3425-4">Jian Fang 0004</author>
+<author pid="257/4585">Yvo T. B. Mulder</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="62/757">Jinho Lee</author>
+<author pid="67/1067">H. Peter Hofstee</author>
+<title>In-memory database acceleration on FPGAs: a survey.</title>
+<pages>33-59</pages>
+<year>2020</year>
+<volume>29</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1007/s00778-019-00581-w</ee>
+<url>db/journals/vldb/vldb29.html#FangMHLH20</url>
+</article>
+</r>
+<r><inproceedings key="conf/grades/HartigH19" mdate="2019-07-03">
+<author pid="29/3132">Olaf Hartig</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<title>Defining Schemas for Property Graphs by using the GraphQL Schema Definition Language.</title>
+<pages>6:1-6:11</pages>
+<year>2019</year>
+<booktitle>GRADES/NDA@SIGMOD/PODS</booktitle>
+<ee>https://doi.org/10.1145/3327964.3328495</ee>
+<crossref>conf/grades/2019</crossref>
+<url>db/conf/grades/grades2019.html#HartigH19</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/bdt/GutierrezHW19" mdate="2019-02-14">
+<author pid="g/ClaudioGutierrez">Claudio Gutierrez</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Graph Data Models.</title>
+<year>2019</year>
+<booktitle>Encyclopedia of Big Data Technologies</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-63962-8_81-1</ee>
+<crossref>reference/bdt/2019</crossref>
+<url>db/reference/bdt/1.html#GutierrezHW19</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/codes/FangCAHH18" mdate="2019-12-13">
+<author pid="29/3425-4">Jian Fang 0004</author>
+<author pid="75/8639">Jianyu Chen</author>
+<author pid="30/4412">Zaid Al-Ars</author>
+<author pid="67/1067">Peter Hofstee</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<title>A high-bandwidth snappy decompressor in reconfigurable logic: work-in-progress.</title>
+<pages>16</pages>
+<year>2018</year>
+<booktitle>CODES+ISSS</booktitle>
+<ee>https://doi.org/10.1109/CODESISSS.2018.8525953</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3283584</ee>
+<crossref>conf/codes/2018</crossref>
+<url>db/conf/codes/codes2018.html#FangCAHH18</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/18/BonifatiFHI18" mdate="2018-11-18">
+<author pid="b/ABonifati">Angela Bonifati</author>
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="85/2489">Alexandru Iosup</author>
+<title>A Survey of Benchmarks for Graph-Processing Systems.</title>
+<pages>163-186</pages>
+<year>2018</year>
+<booktitle>Graph Data Management</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-96193-4_6</ee>
+<crossref>books/sp/FHL2018</crossref>
+<url>db/books/collections/FHL2018.html#BonifatiFHI18</url>
+</incollection>
+</r>
+<r><book key="books/sp/FHL2018" mdate="2019-05-14">
+<editor pid="f/GeorgeHLFletcher">George H. L. Fletcher</editor>
+<editor pid="h/JanHidders">Jan Hidders</editor>
+<editor pid="03/5767">Josep-Llu&#237;s Larriba-Pey</editor>
+<title>Graph Data Management, Fundamental Issues and Recent Developments.</title>
+<booktitle>Graph Data Management</booktitle>
+<publisher>Springer</publisher>
+<year>2018</year>
+<series href="db/series/dcsa/index.html">Data-Centric Systems and Applications</series>
+<isbn>978-3-319-96192-7</isbn>
+<isbn>978-3-319-96193-4</isbn>
+<ee>https://doi.org/10.1007/978-3-319-96193-4</ee>
+<url>db/booke/collections/FHL2018.html</url>
+</book>
+</r>
+<r><proceedings key="conf/sigmod/2018beyondmr" mdate="2019-05-21">
+<editor pid="a/FotoNAfrati">Foto N. Afrati</editor>
+<editor pid="42/6606">Jacek Sroka</editor>
+<editor pid="43/1219-1">Ke Yi 0001</editor>
+<editor pid="h/JanHidders">Jan Hidders</editor>
+<title>Proceedings of the 5th ACM SIGMOD Workshop on Algorithms and Systems for MapReduce and Beyond, BeyondMR@SIGMOD 2018, Houston, TX, USA, June 15, 2018</title>
+<publisher>ACM</publisher>
+<booktitle>BeyondMR@SIGMOD</booktitle>
+<year>2018</year>
+<ee>http://dl.acm.org/citation.cfm?id=3206333</ee>
+<url>db/conf/sigmod/beyondmr2018.html</url>
+</proceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/HiddersP18" mdate="2019-02-14">
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<title>XPath/XQuery.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_774</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/x2.html#HiddersP18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/snam/HiddersP18" mdate="2019-02-17">
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<title>XPath/XQuery.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Social Network Analysis and Mining. 2nd Ed.</booktitle>
+<ee>https://doi.org/10.1007/978-1-4939-7131-2_135</ee>
+<crossref>reference/snam/2018</crossref>
+<url>db/reference/snam/snam2018.html#HiddersP18</url>
+</incollection>
+</r>
+<r><article key="journals/fuin/SrokaH17" mdate="2018-11-02">
+<author pid="42/6606">Jacek Sroka</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<title>On Determining the AND-OR Hierarchy in Workflow Nets.</title>
+<pages>95-123</pages>
+<year>2017</year>
+<volume>156</volume>
+<journal>Fundam. Inform.</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/FI-2017-1599</ee>
+<url>db/journals/fuin/fuin156.html#SrokaH17</url>
+</article>
+</r>
+<r><article key="journals/isf/DwivediJSRWMHS17" mdate="2019-06-02">
+<author pid="69/996">Yogesh Kumar Dwivedi</author>
+<author orcid="0000-0001-6211-8790" pid="j/MarijnJanssen">Marijn Janssen</author>
+<author orcid="0000-0001-7648-6383" pid="169/2226">Emma L. Slade</author>
+<author orcid="0000-0003-1105-8729" pid="57/10107">Nripendra P. Rana</author>
+<author pid="34/602">Vishanth Weerakkody</author>
+<author pid="51/4609">Jeremy Millard</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="159/0416">Dhoya Snijders</author>
+<title>Driving innovation through big open linked data (BOLD): Exploring antecedents using interpretive structural modelling.</title>
+<pages>197-212</pages>
+<year>2017</year>
+<volume>19</volume>
+<journal>Information Systems Frontiers</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s10796-016-9675-5</ee>
+<ee>https://www.wikidata.org/entity/Q59614791</ee>
+<url>db/journals/isf/isf19.html#DwivediJSRWMHS17</url>
+</article>
+</r>
+<r><article key="journals/sigmod/AfratiHRSU17" mdate="2020-03-06">
+<author pid="a/FotoNAfrati">Foto N. Afrati</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="r/ChristopherRe">Christopher R&#233;</author>
+<author pid="42/6606">Jacek Sroka</author>
+<author pid="u/JeffreyDUllman">Jeffrey D. Ullman</author>
+<title>Report from the third workshop on Algorithms and Systems for MapReduce and Beyond (BeyondMR'16).</title>
+<pages>43-48</pages>
+<year>2017</year>
+<volume>46</volume>
+<journal>SIGMOD Rec.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3137586.3137596</ee>
+<url>db/journals/sigmod/sigmod46.html#AfratiHRSU17</url>
+</article>
+</r>
+<r><article key="journals/sigmod/AfratiHKSU17" mdate="2020-03-06">
+<author pid="a/FotoNAfrati">Foto N. Afrati</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="49/8316">Paraschos Koutris</author>
+<author pid="42/6606">Jacek Sroka</author>
+<author pid="u/JeffreyDUllman">Jeffrey D. Ullman</author>
+<title>Report from the Fourth Workshop on Algorithms andSystems for MapReduce and Beyond (BeyondMR '17).</title>
+<pages>44-48</pages>
+<year>2017</year>
+<volume>46</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3186549.3186561</ee>
+<url>db/journals/sigmod/sigmod46.html#AfratiHKSU17</url>
+</article>
+</r>
+<r><inproceedings key="conf/pods/HiddersPB17" mdate="2018-11-06">
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<author pid="b/JVdBussche">Jan Van den Bussche</author>
+<title>J-Logic: Logical Foundations for JSON Querying.</title>
+<pages>137-149</pages>
+<year>2017</year>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/3034786.3056106</ee>
+<crossref>conf/pods/2017</crossref>
+<url>db/conf/pods/pods2017.html#HiddersPB17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/FangLHH17" mdate="2019-12-13">
+<author pid="29/3425-4">Jian Fang 0004</author>
+<author pid="62/757">Jinho Lee</author>
+<author pid="67/1067">Peter Hofstee</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<title>Analyzing In-Memory Hash Join: Granularity Matters.</title>
+<pages>18-25</pages>
+<year>2017</year>
+<booktitle>ADMS@VLDB</booktitle>
+<ee>http://www.adms-conf.org/2017/camera-ready/Analyzing_In_Memory_Hash_Joins__Granularity_Matters.pdf</ee>
+<crossref>conf/vldb/2017adms</crossref>
+<url>db/conf/vldb/adms2017.html#FangLHH17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/SrokaH17" mdate="2018-08-13">
+<author pid="42/6606">Jacek Sroka</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<title>Finding AND-OR Hierarchies in Workflow Nets.</title>
+<year>2017</year>
+<volume>abs/1701.02199</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1701.02199</ee>
+<url>db/journals/corr/corr1701.html#SrokaH17</url>
+</article>
+</r>
+<r><article key="journals/fuin/HiddersP16" mdate="2018-11-02">
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<title>A Formal and Unified Description of XML Manipulation Languages.</title>
+<pages>429-470</pages>
+<year>2016</year>
+<volume>145</volume>
+<journal>Fundam. Inform.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/FI-2016-1370</ee>
+<url>db/journals/fuin/fuin145.html#HiddersP16</url>
+</article>
+</r>
+<r><article key="journals/jlp/LitakMH16" mdate="2020-02-22">
+<author orcid="0000-0003-2240-3161" pid="81/3169">Tadeusz Litak</author>
+<author pid="m/SzabolcsMikulas">Szabolcs Mikul&#225;s</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<title>Relational lattices: From databases to universal algebra.</title>
+<pages>540-573</pages>
+<year>2016</year>
+<volume>85</volume>
+<journal>J. Log. Algebraic Methods Program.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.jlamp.2015.11.008</ee>
+<url>db/journals/jlp/jlp85.html#LitakMH16</url>
+</article>
+</r>
+<r><inproceedings key="conf/grades/RogalaHS16" mdate="2018-11-06">
+<author pid="180/3325">Marek Rogala</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="42/6606">Jacek Sroka</author>
+<title>DatalogRA: datalog with recursive aggregation in the spark RDD model.</title>
+<pages>3</pages>
+<year>2016</year>
+<booktitle>GRADES</booktitle>
+<ee>https://doi.org/10.1145/2960414.2960417</ee>
+<crossref>conf/grades/2016</crossref>
+<url>db/conf/grades/grades2016.html#RogalaHS16</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigmod/2016beyondmr" mdate="2018-11-06">
+<editor pid="a/FotoNAfrati">Foto N. Afrati</editor>
+<editor pid="42/6606">Jacek Sroka</editor>
+<editor pid="h/JanHidders">Jan Hidders</editor>
+<title>Proceedings of the 3rd ACM SIGMOD Workshop on Algorithms and Systems for MapReduce and Beyond, BeyondMR@SIGMOD 2016, San Francisco, CA, USA, July 1, 2016</title>
+<booktitle>BeyondMR@SIGMOD</booktitle>
+<publisher>ACM</publisher>
+<year>2016</year>
+<isbn>978-1-4503-4311-4</isbn>
+<ee>https://doi.org/10.1145/2926534</ee>
+<url>db/conf/sigmod/beyondmr2016.html</url>
+</proceedings>
+</r>
+<r><article key="journals/fgcs/HiddersMS15" mdate="2020-02-19">
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author orcid="0000-0002-0978-2446" pid="28/1062">Paolo Missier</author>
+<author pid="42/6606">Jacek Sroka</author>
+<title>Recent advances in Scalable Workflow Enactment Engines and Technologies.</title>
+<pages>1-2</pages>
+<year>2015</year>
+<volume>46</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2015.01.003</ee>
+<ee>https://www.wikidata.org/entity/Q59635364</ee>
+<url>db/journals/fgcs/fgcs46.html#HiddersMS15</url>
+</article>
+</r>
+<r><article key="journals/fuin/SrokaCH15" mdate="2018-11-02">
+<author pid="42/6606">Jacek Sroka</author>
+<author pid="63/6779">Piotr Chrzastowski-Wachtel</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<title>On Generating Hierarchical Workflow Nets and their Extensions and Verifying Hierarchicality.</title>
+<pages>367-398</pages>
+<year>2015</year>
+<volume>141</volume>
+<journal>Fundam. Inform.</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/FI-2015-1280</ee>
+<url>db/journals/fuin/fuin141.html#SrokaCH15</url>
+</article>
+</r>
+<r><inproceedings key="conf/dsdis/SrokaRAH15" mdate="2018-11-02">
+<author pid="42/6606">Jacek Sroka</author>
+<author pid="180/3325">Marek Rogala</author>
+<author pid="154/9687">Michal Adamczyk</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<title>A Datalog Engine for Iterative Graph Algorithms on Large Clusters.</title>
+<pages>113-114</pages>
+<year>2015</year>
+<booktitle>DSDIS</booktitle>
+<ee>https://doi.org/10.1109/DSDIS.2015.76</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DSDIS.2015.76</ee>
+<crossref>conf/dsdis/2015</crossref>
+<url>db/conf/dsdis/dsdis2015.html#SrokaRAH15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/i3e/DwivediWJMHSRS15" mdate="2019-10-31">
+<author pid="69/996">Yogesh Kumar Dwivedi</author>
+<author pid="34/602">Vishanth Weerakkody</author>
+<author orcid="0000-0001-6211-8790" pid="j/MarijnJanssen">Marijn Janssen</author>
+<author pid="51/4609">Jeremy Millard</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="159/0416">Dhoya Snijders</author>
+<author orcid="0000-0003-1105-8729" pid="57/10107">Nripendra P. Rana</author>
+<author pid="169/2226">Emma L. Slade</author>
+<title>Driving Innovation Using Big Open Linked Data (BOLD) Panel.</title>
+<pages>3-9</pages>
+<year>2015</year>
+<booktitle>I3E</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-25013-7_1</ee>
+<ee>https://www.wikidata.org/entity/Q62037672</ee>
+<crossref>conf/i3e/2015</crossref>
+<url>db/conf/i3e/i3e2015.html#DwivediWJMHSRS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LuoFHB15" mdate="2018-11-02">
+<author pid="34/11424">Yongming Luo</author>
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="82/5181">Paul De Bra</author>
+<title>Efficient and scalable trie-based algorithms for computing set containment relations.</title>
+<pages>303-314</pages>
+<year>2015</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2015.7113293</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2015.7113293</ee>
+<crossref>conf/icde/2015</crossref>
+<url>db/conf/icde/icde2015.html#LuoFHB15</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/i3e/2015" mdate="2019-10-19">
+<editor orcid="0000-0001-6211-8790" pid="j/MarijnJanssen">Marijn Janssen</editor>
+<editor pid="99/4116">Matti M&#228;ntym&#228;ki</editor>
+<editor orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</editor>
+<editor orcid="0000-0003-1999-743X" pid="29/5649">Bram Klievink</editor>
+<editor pid="l/WLamersdorf">Winfried Lamersdorf</editor>
+<editor pid="16/6168">Bastiaan van Loenen</editor>
+<editor orcid="0000-0002-3552-7289" pid="115/9821">Anneke Zuiderwijk</editor>
+<title>Open and Big Data Management and Innovation - 14th IFIP WG 6.11 Conference on e-Business, e-Services, and e-Society, I3E 2015, Delft, The Netherlands, October 13-15, 2015, Proceedings</title>
+<booktitle>I3E</booktitle>
+<publisher>Springer</publisher>
+<year>2015</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>9373</volume>
+<isbn>978-3-319-25012-0</isbn>
+<ee>https://doi.org/10.1007/978-3-319-25013-7</ee>
+<ee>https://www.wikidata.org/entity/Q62037687</ee>
+<url>db/conf/i3e/i3e2015.html</url>
+</proceedings>
+</r>
+<r><article key="journals/is/SrokaH14" mdate="2018-11-30">
+<author pid="42/6606">Jacek Sroka</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<title>On generating &#8270;-sound nets with substitution.</title>
+<pages>32-46</pages>
+<year>2014</year>
+<volume>40</volume>
+<journal>Inf. Syst.</journal>
+<ee>https://doi.org/10.1016/j.is.2013.10.004</ee>
+<url>db/journals/is/is40.html#SrokaH14</url>
+</article>
+</r>
+<r><inproceedings key="conf/RelMiCS/LitakMH14" mdate="2018-11-02">
+<author orcid="0000-0003-2240-3161" pid="81/3169">Tadeusz Litak</author>
+<author pid="m/SzabolcsMikulas">Szabolcs Mikul&#225;s</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<title>Relational Lattices.</title>
+<pages>327-343</pages>
+<year>2014</year>
+<booktitle>RAMICS</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-06251-8_20</ee>
+<crossref>conf/RelMiCS/2014</crossref>
+<url>db/conf/RelMiCS/ramics2014.html#LitakMH14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccgrid/GhitCHHEI14" mdate="2019-06-02">
+<author pid="69/8814">Bogdan Ghit</author>
+<author orcid="0000-0002-7323-2393" pid="04/8524">Mihai Capota</author>
+<author pid="139/4230">Tim Hegeman</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="e/DickHJEpema">Dick H. J. Epema</author>
+<author orcid="0000-0001-8030-9398" pid="85/2489">Alexandru Iosup</author>
+<title>V for Vicissitude: The Challenge of Scaling Complex Big Data Workflows.</title>
+<pages>927-932</pages>
+<year>2014</year>
+<booktitle>CCGRID</booktitle>
+<ee>https://doi.org/10.1109/CCGrid.2014.97</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CCGrid.2014.97</ee>
+<ee>https://www.wikidata.org/entity/Q60025490</ee>
+<crossref>conf/ccgrid/2014</crossref>
+<url>db/conf/ccgrid/ccgrid2014.html#GhitCHHEI14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/PicalausaFHV14" mdate="2017-05-23">
+<author pid="10/9589">Fran&#231;ois Picalausa</author>
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>Principles of Guarded Structural Indexing.</title>
+<pages>245-256</pages>
+<year>2014</year>
+<booktitle>ICDT</booktitle>
+<ee>https://doi.org/10.5441/002/icdt.2014.26</ee>
+<crossref>conf/icdt/2014</crossref>
+<url>db/conf/icdt/icdt2014.html#PicalausaFHV14</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/snam/HiddersP14" mdate="2017-07-12">
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<title>XPath/XQuery.</title>
+<pages>2425-2432</pages>
+<year>2014</year>
+<booktitle>Encyclopedia of Social Network Analysis and Mining</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-6170-8_135</ee>
+<url>db/reference/snam/snam2014.html#HiddersP14</url>
+</incollection>
+</r>
+<r><article key="journals/fuin/HiddersMSB13" mdate="2018-11-02">
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author orcid="0000-0002-0978-2446" pid="28/1062">Paolo Missier</author>
+<author pid="42/6606">Jacek Sroka</author>
+<author pid="b/JVdBussche">Jan Van den Bussche</author>
+<title>Preface.</title>
+<year>2013</year>
+<volume>128</volume>
+<journal>Fundam. Inform.</journal>
+<number>3</number>
+<ee>https://doi.org/10.3233/FI-2013-945</ee>
+<url>db/journals/fuin/fuin128.html#HiddersMSB13</url>
+</article>
+</r>
+<r><article key="journals/sigmod/SrokaHM13" mdate="2020-03-06">
+<author pid="42/6606">Jacek Sroka</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author orcid="0000-0002-0978-2446" pid="28/1062">Paolo Missier</author>
+<title>Report from the second workshop on scalable workflow enactment engines and technology (SWEET'13).</title>
+<pages>73-77</pages>
+<year>2013</year>
+<volume>42</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2590989.2591003</ee>
+<ee>https://www.wikidata.org/entity/Q59635409</ee>
+<url>db/journals/sigmod/sigmod42.html#SrokaHM13</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/HegemanGCHEI13" mdate="2019-06-02">
+<author pid="139/4230">Tim Hegeman</author>
+<author pid="69/8814">Bogdan Ghit</author>
+<author orcid="0000-0002-7323-2393" pid="04/8524">Mihai Capota</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="e/DickHJEpema">Dick H. J. Epema</author>
+<author orcid="0000-0001-8030-9398" pid="85/2489">Alexandru Iosup</author>
+<title>The BTWorld use case for big data analytics: Description, MapReduce logical workflow, and empirical evaluation.</title>
+<pages>622-630</pages>
+<year>2013</year>
+<booktitle>BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData.2013.6691631</ee>
+<ee>https://www.wikidata.org/entity/Q60025527</ee>
+<crossref>conf/bigdataconf/2013</crossref>
+<url>db/conf/bigdataconf/bigdataconf2013.html#HegemanGCHEI13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bncod/GrabowskiHS13" mdate="2017-06-01">
+<author pid="131/3947">Marek Grabowski</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="42/6606">Jacek Sroka</author>
+<title>Representing MapReduce Optimisations in the Nested Relational Calculus.</title>
+<pages>175-188</pages>
+<year>2013</year>
+<booktitle>BNCOD</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-39467-6_17</ee>
+<crossref>conf/bncod/2013</crossref>
+<url>db/conf/bncod/bncod2013.html#GrabowskiHS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bncod/LuoLFBHW13" mdate="2017-06-01">
+<author pid="34/11424">Yongming Luo</author>
+<author pid="121/4447">Yannick de Lange</author>
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<author pid="82/5181">Paul De Bra</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="20/473">Yuqing Wu</author>
+<title>Bisimulation Reduction of Big Graphs on MapReduce.</title>
+<pages>189-203</pages>
+<year>2013</year>
+<booktitle>BNCOD</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-39467-6_18</ee>
+<crossref>conf/bncod/2013</crossref>
+<url>db/conf/bncod/bncod2013.html#LuoLFBHW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/LuoFHWB13" mdate="2018-11-06">
+<author pid="34/11424">Yongming Luo</author>
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="20/473">Yuqing Wu</author>
+<author pid="82/5181">Paul De Bra</author>
+<title>External memory K-bisimulation reduction of big graphs.</title>
+<pages>919-928</pages>
+<year>2013</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/2505515.2505752</ee>
+<crossref>conf/cikm/2013</crossref>
+<url>db/conf/cikm/cikm2013.html#LuoFHWB13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LuoFHBW13" mdate="2018-11-06">
+<author pid="34/11424">Yongming Luo</author>
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="82/5181">Paul De Bra</author>
+<author pid="20/473">Yuqing Wu</author>
+<title>Regularities and dynamics in bisimulation reductions of big graphs.</title>
+<pages>13</pages>
+<year>2013</year>
+<booktitle>GRADES</booktitle>
+<ee>http://event.cwi.nl/grades2013/13-luo.pdf</ee>
+<ee>https://doi.org/10.1145/2484425.2484438</ee>
+<crossref>conf/sigmod/2013grades</crossref>
+<url>db/conf/sigmod/grades2013.html#LuoFHBW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wikis/SinghHXK13" mdate="2018-11-06">
+<author pid="159/5999">Rina Singh</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author orcid="0000-0002-8324-1859" pid="62/3147">Feng Xia 0001</author>
+<author pid="159/6016">Jialiang Kang</author>
+<title>A graphical user interface for SILK data link discovery framework.</title>
+<pages>24:1-24:2</pages>
+<year>2013</year>
+<booktitle>OpenSym</booktitle>
+<ee>https://doi.org/10.1145/2491055.2491080</ee>
+<crossref>conf/wikis/2013</crossref>
+<url>db/conf/wikis/opensym2013.html#SinghHXK13</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sigmod/2013sweet" mdate="2018-11-06">
+<editor pid="h/JanHidders">Jan Hidders</editor>
+<editor pid="28/1062">Paolo Missier</editor>
+<editor pid="42/6606">Jacek Sroka</editor>
+<title>Proceedings of the 2nd ACM SIGMOD Workshop on Scalable Workflow Execution Engines and Technologies, SWEET@SIGMOD 2013, New York, New York, USA, June 23, 2013</title>
+<booktitle>SWEET@SIGMOD</booktitle>
+<publisher>ACM</publisher>
+<year>2013</year>
+<isbn>978-1-4503-2349-9</isbn>
+<ee>https://doi.org/10.1145/2499896</ee>
+<url>db/conf/sigmod/sweet2013.html</url>
+</proceedings>
+</r>
+<r><article key="journals/mst/BieleckiHPSTB12" mdate="2018-06-26">
+<author pid="64/2454">Michal Bielecki</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<author pid="94/5191">Marc Spielmann</author>
+<author orcid="0000-0003-2858-3124" pid="68/5160">Jerzy Tyszkiewicz</author>
+<author pid="b/JVdBussche">Jan Van den Bussche</author>
+<title>The Navigational Power of Web Browsers.</title>
+<pages>213-240</pages>
+<year>2012</year>
+<volume>50</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.1007/s00224-010-9294-3</ee>
+<url>db/journals/mst/mst50.html#BieleckiHPSTB12</url>
+</article>
+</r>
+<r><article key="journals/sigmod/HiddersSM12" mdate="2020-03-06">
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="42/6606">Jacek Sroka</author>
+<author orcid="0000-0002-0978-2446" pid="28/1062">Paolo Missier</author>
+<title>Report from the first workshop on scalable workflow enactment engines and technology (SWEET'12).</title>
+<pages>60-64</pages>
+<year>2012</year>
+<volume>41</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2430456.2430473</ee>
+<ee>https://www.wikidata.org/entity/Q59635404</ee>
+<url>db/journals/sigmod/sigmod41.html#HiddersSM12</url>
+</article>
+</r>
+<r><inproceedings key="conf/esws/PicalausaLFHV12" mdate="2018-06-26">
+<author pid="10/9589">Fran&#231;ois Picalausa</author>
+<author pid="34/11424">Yongming Luo</author>
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>A Structural Approach to Indexing Triples.</title>
+<pages>406-421</pages>
+<year>2012</year>
+<booktitle>ESWC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-30284-8_34</ee>
+<crossref>conf/esws/2012</crossref>
+<url>db/conf/esws/eswc2012.html#PicalausaLFHV12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webdb/AraujoTDHS12" mdate="2012-11-20">
+<author pid="81/3231">Samur Ara&#250;jo</author>
+<author pid="79/5710">Duc Tran</author>
+<author pid="121/6000">Arjen DeVries</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="s/DanielSchwabe">Daniel Schwabe</author>
+<title>SERIMI: Class-based Disambiguation for Effective Instance Matching over Heterogeneous Web Data.</title>
+<pages>25-30</pages>
+<year>2012</year>
+<booktitle>WebDB</booktitle>
+<ee>http://db.disi.unitn.eu/pages/WebDB2012/papers/p4.pdf</ee>
+<crossref>conf/webdb/2012</crossref>
+<url>db/conf/webdb/webdb2012.html#AraujoTDHS12</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/12/LuoPFHV12" mdate="2018-11-02">
+<author pid="34/11424">Yongming Luo</author>
+<author pid="10/9589">Fran&#231;ois Picalausa</author>
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<title>Storing and Indexing Massive RDF Datasets.</title>
+<pages>31-60</pages>
+<year>2012</year>
+<booktitle>Semantic Search over the Web</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-25008-8_2</ee>
+<crossref>books/sp/VGV2012</crossref>
+<url>db/books/collections/VGV2012.html#LuoPFHV12</url>
+</incollection>
+</r>
+<r><proceedings key="conf/sigmod/2012sweet" mdate="2018-11-06">
+<editor pid="h/JanHidders">Jan Hidders</editor>
+<editor pid="28/1062">Paolo Missier</editor>
+<editor pid="42/6606">Jacek Sroka</editor>
+<title>Proceedings of the 1st ACM SIGMOD Workshop on Scalable Workflow Execution Engines and Technologies, SWEET@SIGMOD 2012, Scottsdale, AZ, USA, May 20, 2012</title>
+<booktitle>SWEET@SIGMOD</booktitle>
+<publisher>ACM</publisher>
+<year>2012</year>
+<isbn>978-1-4503-1876-1</isbn>
+<ee>https://doi.org/10.1145/2443416</ee>
+<url>db/conf/sigmod/sweet2012.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1208-2654" mdate="2018-08-13">
+<author pid="42/6606">Jacek Sroka</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<title>On Generating *-Sound Nets with Substitution</title>
+<ee type="oa">http://arxiv.org/abs/1208.2654</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1208.2654</volume>
+<url>db/journals/corr/corr1208.html#abs-1208-2654</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1210-0748" mdate="2018-08-13">
+<author pid="34/11424">Yongming Luo</author>
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="20/473">Yuqing Wu</author>
+<author pid="82/5181">Paul De Bra</author>
+<title>I/O-efficient algorithms for localized bisimulation partition construction and maintenance on massive graphs</title>
+<ee type="oa">http://arxiv.org/abs/1210.0748</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1210.0748</volume>
+<url>db/journals/corr/corr1210.html#abs-1210-0748</url>
+</article>
+</r>
+<r><article key="journals/bpmj/CheungH11" mdate="2019-06-02">
+<author pid="134/6599">Melissa Cheung</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<title>Round-trip iterative business process modelling between BPA and BPMS tools.</title>
+<pages>461-494</pages>
+<year>2011</year>
+<volume>17</volume>
+<journal>Business Proc. Manag. Journal</journal>
+<number>3</number>
+<ee>https://doi.org/10.1108/14637151111136379</ee>
+<ee>https://www.wikidata.org/entity/Q61044769</ee>
+<url>db/journals/bpmj/bpmj17.html#CheungH11</url>
+</article>
+</r>
+<r><inproceedings key="conf/acsd/SrokaCH11" mdate="2017-05-29">
+<author pid="42/6606">Jacek Sroka</author>
+<author pid="63/6779">Piotr Chrzastowski-Wachtel</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<title>On Generating *-Sound Nets with Substitution.</title>
+<pages>3-12</pages>
+<year>2011</year>
+<booktitle>ACSD</booktitle>
+<ee>https://doi.org/10.1109/ACSD.2011.26</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ACSD.2011.26</ee>
+<crossref>conf/acsd/2011</crossref>
+<url>db/conf/acsd/acsd2011.html#SrokaCH11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbpl/FletcherHVLPB11" mdate="2014-02-10">
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="28/3797">Stijn Vansummeren</author>
+<author pid="34/11424">Yongming Luo</author>
+<author pid="10/9589">Fran&#231;ois Picalausa</author>
+<author pid="82/5181">Paul De Bra</author>
+<title>On guarded simulations and acyclic first-order languages.</title>
+<year>2011</year>
+<booktitle>DBPL</booktitle>
+<crossref>conf/dbpl/2011</crossref>
+<ee>http://www.cs.cornell.edu/conferences/dbpl2011/papers/dbpl11-fletcher.pdf</ee>
+<url>db/conf/dbpl/dbpl2011.html#FletcherHVLPB11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iscram/HuHLC11" mdate="2020-03-06">
+<author pid="61/9168">Beibei Hu</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="259/6272">Marc De Lignie</author>
+<author pid="12/1983">Philipp Cimiano</author>
+<title>A rule-based system for contextualized information delivery.</title>
+<year>2011</year>
+<booktitle>ISCRAM</booktitle>
+<ee>http://idl.iscram.org/files/hu/2011/599_Hu_etal2011.pdf</ee>
+<crossref>conf/iscram/2011</crossref>
+<url>db/conf/iscram/iscram2011.html#HuHLC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iui/HuHC11" mdate="2018-11-06">
+<author pid="61/9168">Beibei Hu</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="12/1983">Philipp Cimiano</author>
+<title>A rule engine for relevance assessment in a contextualized information delivery system.</title>
+<pages>343-346</pages>
+<year>2011</year>
+<booktitle>IUI</booktitle>
+<ee>https://doi.org/10.1145/1943403.1943461</ee>
+<crossref>conf/iui/2011</crossref>
+<url>db/conf/iui/iui2011.html#HuHC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/AraujoHSV11" mdate="2019-05-28">
+<author pid="81/3231">Samur Ara&#250;jo</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="s/DanielSchwabe">Daniel Schwabe</author>
+<author pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<title>SERIMI - resource description similarity, RDF instance matching and interlinking.</title>
+<year>2011</year>
+<booktitle>OM</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-814/om2011_poster6.pdf</ee>
+<crossref>conf/semweb/2011om</crossref>
+<url>db/conf/semweb/om2011.html#AraujoHSV11</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/eis/2011" mdate="2019-05-28">
+<editor pid="d/VDignum">Virginia Dignum</editor>
+<editor pid="h/JanHidders">Jan Hidders</editor>
+<editor pid="05/501">Sietse Overbeek</editor>
+<title>Proceedings of the 6th SIKS Conference on Enterprise Information Systems, EIS 2011, Delft, The Netherlands, October 31, 2011</title>
+<booktitle>EIS</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>800</volume>
+<year>2011</year>
+<ee type="oa">http://ceur-ws.org/Vol-800</ee>
+<url>db/conf/eis/eis2011.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1107-1104" mdate="2018-08-13">
+<author pid="81/3231">Samur Ara&#250;jo</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="s/DanielSchwabe">Daniel Schwabe</author>
+<author pid="v/ArjenPdeVries">Arjen P. de Vries</author>
+<title>SERIMI - Resource Description Similarity, RDF Instance Matching and Interlinking</title>
+<ee type="oa">http://arxiv.org/abs/1107.1104</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1107.1104</volume>
+<url>db/journals/corr/corr1107.html#abs-1107-1104</url>
+</article>
+</r>
+<r><article key="journals/jcss/SrokaHMG10" mdate="2018-11-14">
+<author pid="42/6606">Jacek Sroka</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author orcid="0000-0002-0978-2446" pid="28/1062">Paolo Missier</author>
+<author orcid="0000-0003-1219-2137" pid="g/CaroleAGoble">Carole A. Goble</author>
+<title>A formal semantics for the Taverna 2 workflow model.</title>
+<pages>490-508</pages>
+<year>2010</year>
+<volume>76</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1016/j.jcss.2009.11.009</ee>
+<ee>https://www.wikidata.org/entity/Q56966743</ee>
+<url>db/journals/jcss/jcss76.html#SrokaHMG10</url>
+</article>
+</r>
+<r><article key="journals/topnoc/HeeHHPT10" mdate="2017-06-09">
+<author pid="82/3398">Kees M. van Hee</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="h/GeertJanHouben">Geert-Jan Houben</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<author pid="t/PhilippeThiran">Philippe Thiran</author>
+<title>On-the-Fly Auditing of Business Processes.</title>
+<pages>144-173</pages>
+<year>2010</year>
+<volume>4</volume>
+<journal>Trans. Petri Nets and Other Models of Concurrency</journal>
+<ee>https://doi.org/10.1007/978-3-642-18222-8_7</ee>
+<crossref>journals/topnoc/2010-4</crossref>
+<url>db/journals/topnoc/topnoc4.html#HeeHHPT10</url>
+</article>
+</r>
+<r><inproceedings key="conf/foiks/ParedaensH09" mdate="2017-06-02">
+<author pid="p/JParedaens">Jan Paredaens</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<title>A Simple but Formal Semantics for XML Manipulation Languages.</title>
+<pages>3-5</pages>
+<year>2010</year>
+<booktitle>FoIKS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11829-6_2</ee>
+<crossref>conf/foiks/2009</crossref>
+<url>db/conf/foiks/foiks2009.html#ParedaensH09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwe/LeonardiAHHHH10" mdate="2018-06-26">
+<author pid="l/ErwinLeonardi">Erwin Leonardi</author>
+<author pid="23/5055">Fabian Abel</author>
+<author pid="94/4074">Dominik Heckmann</author>
+<author pid="40/3446">Eelco Herder</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="h/GeertJanHouben">Geert-Jan Houben</author>
+<title>A Flexible Rule-Based Method for Interlinking, Integrating, and Enriching User Data.</title>
+<pages>322-336</pages>
+<year>2010</year>
+<booktitle>ICWE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-13911-6_22</ee>
+<crossref>conf/icwe/2010</crossref>
+<url>db/conf/icwe/icwe2010.html#LeonardiAHHHH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/AraujoHSH10" mdate="2018-06-26">
+<author pid="81/3231">Samur Ara&#250;jo</author>
+<author pid="h/GeertJanHouben">Geert-Jan Houben</author>
+<author orcid="0000-0003-4347-2940" pid="s/DanielSchwabe">Daniel Schwabe</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<title>Fusion - Visually Exploring and Eliciting Relationships in Linked Data.</title>
+<pages>1-15</pages>
+<year>2010</year>
+<booktitle>International Semantic Web Conference (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-17746-0_1</ee>
+<crossref>conf/semweb/2010-1</crossref>
+<url>db/conf/semweb/iswc2010-1.html#AraujoHSH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/AraujoHSH10a" mdate="2019-05-28">
+<author pid="81/3231">Samur Ara&#250;jo</author>
+<author pid="h/GeertJanHouben">Geert-Jan Houben</author>
+<author pid="s/DanielSchwabe">Daniel Schwabe</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<title>Building Linked Data Applications with Fusion: A Visual Interface for Exploration and Mapping.</title>
+<year>2010</year>
+<booktitle>ISWC Posters&#38;Demos</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-658/paper515.pdf</ee>
+<crossref>conf/semweb/2010pd</crossref>
+<url>db/conf/semweb/pd2010.html#AraujoHSH10a</url>
+</inproceedings>
+</r>
+<r><article key="journals/fuin/SrokaH09" mdate="2017-06-06">
+<author pid="42/6606">Jacek Sroka</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<title>Towards a Formal Semantics for the Process Model of the Taverna Workbench. Part I.</title>
+<pages>279-299</pages>
+<year>2009</year>
+<volume>92</volume>
+<journal>Fundam. Inform.</journal>
+<number>3</number>
+<ee>https://doi.org/10.3233/FI-2009-0075</ee>
+<url>db/journals/fuin/fuin92.html#SrokaH09</url>
+</article>
+</r>
+<r><article key="journals/fuin/SrokaH09a" mdate="2015-05-19">
+<author pid="42/6606">Jacek Sroka</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<title>Towards a Formal Semantics for the Process Model of the Taverna Workbench. Part II.</title>
+<pages>373-396</pages>
+<year>2009</year>
+<volume>92</volume>
+<journal>Fundam. Inform.</journal>
+<number>4</number>
+<ee>http://content.iospress.com/articles/fundamenta-informaticae/fi92-4-04</ee>
+<url>db/journals/fuin/fuin92.html#SrokaH09a</url>
+</article>
+</r>
+<r><article key="journals/is/HeeHHPT09" mdate="2017-06-06">
+<author pid="82/3398">Kees M. van Hee</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="h/GeertJanHouben">Geert-Jan Houben</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<author pid="t/PhilippeThiran">Philippe Thiran</author>
+<title>On the relationship between workflow models and document types.</title>
+<pages>178-208</pages>
+<year>2009</year>
+<volume>34</volume>
+<journal>Inf. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.is.2008.06.003</ee>
+<url>db/journals/is/is34.html#HeeHHPT09</url>
+</article>
+</r>
+<r><inproceedings key="conf/icwe/NiederhausenSHLHM09" mdate="2018-06-26">
+<author pid="56/7066">Matthias Niederhausen</author>
+<author pid="89/2662">Kees van der Sluijs</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="l/ErwinLeonardi">Erwin Leonardi</author>
+<author pid="h/GeertJanHouben">Geert-Jan Houben</author>
+<author pid="m/KMeissner">Klaus Mei&#223;ner</author>
+<title>Harnessing the Power of Semantics-Based, Aspect-Oriented Adaptation for amacont.</title>
+<pages>106-120</pages>
+<year>2009</year>
+<booktitle>ICWE</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-02818-2_8</ee>
+<crossref>conf/icwe/2009</crossref>
+<url>db/conf/icwe/icwe2009.html#NiederhausenSHLHM09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lwa/AbelHHHHKLS09" mdate="2015-09-29">
+<author pid="23/5055">Fabian Abel</author>
+<author pid="94/4074">Dominikus Heckmann</author>
+<author pid="40/3446">Eelco Herder</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="h/GeertJanHouben">Geert-Jan Houben</author>
+<author pid="22/4988">Daniel Krause</author>
+<author pid="l/ErwinLeonardi">Erwin Leonardi</author>
+<author pid="89/2662">Kees van der Sluijs</author>
+<title>Mashing up user data in the Grapple User Modeling Framework.</title>
+<pages>ABIS:1-2</pages>
+<year>2009</year>
+<booktitle>LWA</booktitle>
+<crossref>conf/lwa/2009</crossref>
+<url>db/conf/lwa/lwa2009.html#AbelHHHHKLS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/um/AbelHHHHKLS09" mdate="2019-05-28">
+<author pid="23/5055">Fabian Abel</author>
+<author pid="94/4074">Dominikus Heckmann</author>
+<author pid="40/3446">Eelco Herder</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="h/GeertJanHouben">Geert-Jan Houben</author>
+<author pid="22/4988">Daniel Krause</author>
+<author pid="l/ErwinLeonardi">Erwin Leonardi</author>
+<author pid="89/2662">Kees van der Sluijs</author>
+<title>A Framework for Flexible User Profile Mashups.</title>
+<year>2009</year>
+<booktitle>AP WEB 2.0@UMAP</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-485/paper1-F.pdf</ee>
+<crossref>conf/um/2009apweb</crossref>
+<url>db/conf/um/apweb2009.html#AbelHHHHKLS09</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/virgilio09/SluijsHLH09" mdate="2018-11-02">
+<author pid="89/2662">Kees van der Sluijs</author>
+<author pid="h/GeertJanHouben">Geert-Jan Houben</author>
+<author pid="l/ErwinLeonardi">Erwin Leonardi</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<title>Hera: Engineering Web Applications Using Semantic Web-based Models.</title>
+<pages>521-544</pages>
+<year>2009</year>
+<booktitle>Semantic Web Information Management</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04329-1_22</ee>
+<crossref>books/sp/Virgilio2009</crossref>
+<url>db/books/collections/Virgilio2009.html#SluijsHLH09</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/HiddersP09" mdate="2017-07-12">
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<title>XPath/XQuery.</title>
+<pages>3659-3665</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_774</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/x.html#HiddersP09</url>
+</incollection>
+</r>
+<r><article key="journals/is/HiddersKSTB08" mdate="2017-11-06">
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="22/6339">Natalia Kwasnikowska</author>
+<author pid="42/6606">Jacek Sroka</author>
+<author orcid="0000-0003-2858-3124" pid="68/5160">Jerzy Tyszkiewicz</author>
+<author pid="b/JVdBussche">Jan Van den Bussche</author>
+<title>DFL: A dataflow language based on Petri nets and nested relational calculus.</title>
+<pages>261-284</pages>
+<year>2008</year>
+<volume>33</volume>
+<journal>Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.is.2007.09.002</ee>
+<url>db/journals/is/is33.html#HiddersKSTB08</url>
+</article>
+</r>
+<r><article key="journals/is/HiddersMPV08" mdate="2017-06-06">
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="14/4797">Stefania Marrara</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<author pid="v/RoelVercammen">Roel Vercammen</author>
+<title>On the expressibility of functions in XQuery fragments.</title>
+<pages>435-455</pages>
+<year>2008</year>
+<volume>33</volume>
+<journal>Inf. Syst.</journal>
+<number>4-5</number>
+<ee>https://doi.org/10.1016/j.is.2008.01.003</ee>
+<url>db/journals/is/is33.html#HiddersMPV08</url>
+</article>
+</r>
+<r><inproceedings key="conf/otm/HiddersS08" mdate="2017-06-05">
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="42/6606">Jacek Sroka</author>
+<title>Towards a Calculus for Collection-Oriented Scientific Workflows with Side Effects.</title>
+<pages>374-391</pages>
+<year>2008</year>
+<booktitle>OTM Conferences (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-88871-0_25</ee>
+<crossref>conf/otm/2008-1</crossref>
+<url>db/conf/otm/otm2008-1.html#HiddersS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dils/HiddersKSTB07" mdate="2017-11-06">
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="22/6339">Natalia Kwasnikowska</author>
+<author pid="42/6606">Jacek Sroka</author>
+<author orcid="0000-0003-2858-3124" pid="68/5160">Jerzy Tyszkiewicz</author>
+<author pid="b/JVdBussche">Jan Van den Bussche</author>
+<title>A Formal Model of Dataflow Repositories.</title>
+<pages>105-121</pages>
+<year>2007</year>
+<crossref>conf/dils/2007</crossref>
+<booktitle>DILS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73255-6_11</ee>
+<url>db/conf/dils/dils2007.html#HiddersKSTB07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/planX/HiddersMS07" mdate="2018-06-27">
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="m/PhilippeMichiels">Philippe Michiels</author>
+<author pid="15/4061">J&#233;r&#244;me Sim&#233;on</author>
+<author pid="v/RoelVercammen">Roel Vercammen</author>
+<title>How to Recognise Different Kinds of Tree Patterns From Quite a Long Way Away.</title>
+<pages>14-24</pages>
+<year>2007</year>
+<crossref>conf/planX/2007</crossref>
+<booktitle>PLAN-X</booktitle>
+<ee>http://www.plan-x-2007.org/plan-x-2007.pdf</ee>
+<url>db/conf/planx/planX2007.html#HiddersMS07</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/icdt/2007erow" mdate="2020-02-12">
+<editor pid="76/6735">Marcelo Arenas</editor>
+<editor pid="h/JanHidders">Jan Hidders</editor>
+<title>Proceedings of the 1st Workshop on Emerging Research Opportunities for Web Data Management (EROW 2007) Collocated with the 11th International Conference on Database Theory (ICDT 2007), Barcelona, Spain, January 13, 2007</title>
+<booktitle>EROW</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>229</volume>
+<year>2007</year>
+<ee type="oa">http://ceur-ws.org/Vol-229</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-229-9</ee>
+<url>db/conf/icdt/erow2007.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/adc/DekeyserHWA06" mdate="2018-11-28">
+<author pid="d/SDekeyser">Stijn Dekeyser</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="w/RichardWatson">Richard Watson</author>
+<author pid="33/6742">Ron Addie</author>
+<title>Peer-to-peer form based web information systems.</title>
+<pages>79-88</pages>
+<year>2006</year>
+<crossref>conf/adc/2006</crossref>
+<booktitle>ADC</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1151745</ee>
+<url>db/conf/adc/adc2006.html#DekeyserHWA06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbtw/VercammenHP06" mdate="2017-05-19">
+<author pid="v/RoelVercammen">Roel Vercammen</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<title>Query Translation for XPath-Based Security Views.</title>
+<pages>250-263</pages>
+<year>2006</year>
+<crossref>conf/edbtw/2006</crossref>
+<booktitle>EDBT Workshops</booktitle>
+<ee>https://doi.org/10.1007/11896548_22</ee>
+<url>db/conf/edbtw/edbtw2006.html#VercammenHP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pods/CaldersDHP06" mdate="2018-11-06">
+<author pid="c/ToonCalders">Toon Calders</author>
+<author pid="d/SDekeyser">Stijn Dekeyser</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<title>Analyzing workflows implied by instance-dependent access rules.</title>
+<pages>100-109</pages>
+<year>2006</year>
+<crossref>conf/pods/2006</crossref>
+<booktitle>PODS</booktitle>
+<ee>https://doi.org/10.1145/1142351.1142365</ee>
+<url>db/conf/pods/pods2006.html#CaldersDHP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/xsym/HiddersPV06" mdate="2017-05-17">
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<author pid="v/RoelVercammen">Roel Vercammen</author>
+<title>On the Expressive Power of XQuery-Based Update Languages.</title>
+<pages>92-106</pages>
+<year>2006</year>
+<crossref>conf/xsym/2006</crossref>
+<booktitle>XSym</booktitle>
+<ee>https://doi.org/10.1007/11841920_7</ee>
+<url>db/conf/xsym/xsym2006.html#HiddersPV06</url>
+</inproceedings>
+</r>
+<r><article key="journals/eatcs/HiddersMV05" mdate="2005-11-14">
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="m/PhilippeMichiels">Philippe Michiels</author>
+<author pid="v/RoelVercammen">Roel Vercammen</author>
+<title>Optimizing Sorting and Duplicate Elimination in XQuery Path Expressions.</title>
+<pages>199-223</pages>
+<year>2005</year>
+<volume>86</volume>
+<journal>Bulletin of the EATCS</journal>
+<url>db/journals/eatcs/eatcs86.html#HiddersMV05</url>
+</article>
+</r>
+<r><article key="journals/sigmod/HiddersMPV05" mdate="2020-03-06">
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="m/PhilippeMichiels">Philippe Michiels</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<author pid="v/RoelVercammen">Roel Vercammen</author>
+<title>LiXQuery: a formal foundation for XQuery research.</title>
+<pages>21-26</pages>
+<year>2005</year>
+<volume>34</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1107499.1107501</ee>
+<url>db/journals/sigmod/sigmod34.html#HiddersMPV05</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/HiddersPTHH05" mdate="2017-05-29">
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<author pid="t/PhilippeThiran">Philippe Thiran</author>
+<author pid="h/GeertJanHouben">Geert-Jan Houben</author>
+<author pid="82/3398">Kees M. van Hee</author>
+<title>Non-destructive Integration of Form-Based Views.</title>
+<pages>74-86</pages>
+<year>2005</year>
+<crossref>conf/adbis/2005</crossref>
+<booktitle>ADBIS</booktitle>
+<ee>https://doi.org/10.1007/11547686_6</ee>
+<url>db/conf/adbis/adbis2005.html#HiddersPTHH05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cats/HiddersDAHV05" mdate="2019-07-25">
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="d/MarlonDumas">Marlon Dumas</author>
+<author pid="a/WilMPvanderAalst">Wil M. P. van der Aalst</author>
+<author pid="h/AHMterHofstede">Arthur H. M. ter Hofstede</author>
+<author pid="78/5163">Jan Verelst</author>
+<title>When are two Workflows the Same?</title>
+<pages>3-11</pages>
+<year>2005</year>
+<crossref>conf/cats/2005</crossref>
+<booktitle>CATS</booktitle>
+<ee>http://crpit.scem.westernsydney.edu.au/abstracts/CRPITV41Hidders.html</ee>
+<url>db/conf/cats/cats2005.html#HiddersDAHV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbpl/HiddersMPV05" mdate="2017-05-25">
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="14/4797">Stefania Marrara</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<author pid="v/RoelVercammen">Roel Vercammen</author>
+<title>On the Expressive Power of XQuery Fragments.</title>
+<pages>154-168</pages>
+<year>2005</year>
+<crossref>conf/dbpl/2005</crossref>
+<booktitle>DBPL</booktitle>
+<ee>https://doi.org/10.1007/11601524_10</ee>
+<url>db/conf/dbpl/dbpl2005.html#HiddersMPV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexa/FernandezHMSV05" mdate="2017-05-26">
+<author pid="f/MaryFFernandez">Mary F. Fern&#225;ndez</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="m/PhilippeMichiels">Philippe Michiels</author>
+<author pid="15/4061">J&#233;r&#244;me Sim&#233;on</author>
+<author pid="v/RoelVercammen">Roel Vercammen</author>
+<title>Optimizing Sorting and Duplicate Elimination in XQuery Path Expressions.</title>
+<pages>554-563</pages>
+<year>2005</year>
+<crossref>conf/dexa/2005</crossref>
+<booktitle>DEXA</booktitle>
+<ee>https://doi.org/10.1007/11546924_54</ee>
+<url>db/conf/dexa/dexa2005.html#FernandezHMSV05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/HiddersKSTB05" mdate="2017-11-06">
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="22/6339">Natalia Kwasnikowska</author>
+<author pid="42/6606">Jacek Sroka</author>
+<author orcid="0000-0003-2858-3124" pid="68/5160">Jerzy Tyszkiewicz</author>
+<author pid="b/JVdBussche">Jan Van den Bussche</author>
+<title>Petri Net + Nested Relational Calculus = Dataflow.</title>
+<pages>220-237</pages>
+<year>2005</year>
+<crossref>conf/otm/2005-3</crossref>
+<booktitle>OTM Conferences (1)</booktitle>
+<ee>https://doi.org/10.1007/11575771_16</ee>
+<url>db/conf/otm/otm2005-1c.html#HiddersKSTB05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webdb/PageHMPV05" mdate="2005-07-06">
+<author pid="15/2602">Wim Le Page</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="m/PhilippeMichiels">Philippe Michiels</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<author pid="v/RoelVercammen">Roel Vercammen</author>
+<title>On the Expressive Power of Node Construction in XQuery.</title>
+<pages>85-90</pages>
+<year>2005</year>
+<crossref>conf/webdb/2005</crossref>
+<booktitle>WebDB</booktitle>
+<url>db/conf/webdb/webdb2005.html#PageHMPV05</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0505074" mdate="2018-08-13">
+<author pid="d/SDekeyser">Stijn Dekeyser</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<author pid="v/RoelVercammen">Roel Vercammen</author>
+<title>Instance-Independent View Serializability for Semistructured Databases</title>
+<ee type="oa">http://arxiv.org/abs/cs/0505074</ee>
+<year>2005</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0505074</volume>
+<url>db/journals/corr/corr0505.html#abs-cs-0505074</url>
+</article>
+</r>
+<r><article key="journals/www/DekeyserHP04" mdate="2017-06-09">
+<author pid="d/SDekeyser">Stijn Dekeyser</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<title>A Transaction Model for XML Databases.</title>
+<pages>29-57</pages>
+<year>2004</year>
+<volume>7</volume>
+<journal>World Wide Web</journal>
+<number>1</number>
+<ee>https://doi.org/10.1023/B:WWWJ.0000015864.75561.98</ee>
+<url>db/journals/www/www7.html#DekeyserHP04</url>
+</article>
+</r>
+<r><inproceedings key="conf/adc/DekeyserH04" mdate="2019-07-25">
+<author pid="d/SDekeyser">Stijn Dekeyser</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<title>Conflict Scheduling of Transactions on XML Documents.</title>
+<pages>93-101</pages>
+<year>2004</year>
+<crossref>conf/adc/2004</crossref>
+<booktitle>ADC</booktitle>
+<ee>http://crpit.scem.westernsydney.edu.au/abstracts/CRPITV27Dekeyser.html</ee>
+<url>db/conf/adc/adc2004.html#DekeyserH04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/xsym/HiddersPVD04" mdate="2017-05-17">
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<author pid="v/RoelVercammen">Roel Vercammen</author>
+<author pid="d/SDemeyer">Serge Demeyer</author>
+<title>A Light but Formal Introduction to XQuery.</title>
+<pages>5-20</pages>
+<ee>https://doi.org/10.1007/978-3-540-30081-6_2</ee>
+<year>2004</year>
+<crossref>conf/xsym/2004</crossref>
+<booktitle>XSym</booktitle>
+<url>db/conf/xsym/xsym2004.html#HiddersPVD04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/apweb/DekeyserH03" mdate="2017-05-26">
+<author pid="d/SDekeyser">Stijn Dekeyser</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<title>A Commit Scheduler for XML Databases.</title>
+<pages>83-88</pages>
+<year>2003</year>
+<crossref>conf/apweb/2003</crossref>
+<booktitle>APWeb</booktitle>
+<ee>https://doi.org/10.1007/3-540-36901-5_8</ee>
+<url>db/conf/apweb/apweb2003.html#DekeyserH03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbpl/Hidders03" mdate="2017-05-25">
+<author pid="h/JanHidders">Jan Hidders</author>
+<title>Satisfiability of XPath Expressions.</title>
+<pages>21-36</pages>
+<ee>https://doi.org/10.1007/978-3-540-24607-7_3</ee>
+<year>2003</year>
+<crossref>conf/dbpl/2003</crossref>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl2003.html#Hidders03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbpl/HiddersM03" mdate="2017-05-25">
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="m/PhilippeMichiels">Philippe Michiels</author>
+<title>Avoiding Unnecessary Ordering Operations in XPath.</title>
+<pages>54-70</pages>
+<ee>https://doi.org/10.1007/978-3-540-24607-7_5</ee>
+<year>2003</year>
+<crossref>conf/dbpl/2003</crossref>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl2003.html#HiddersM03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdt/Hidders03" mdate="2017-05-23">
+<author pid="h/JanHidders">Jan Hidders</author>
+<title>Typing Graph-Manipulation Operations.</title>
+<pages>391-406</pages>
+<year>2003</year>
+<crossref>conf/icdt/2003</crossref>
+<booktitle>ICDT</booktitle>
+<ee>https://doi.org/10.1007/3-540-36285-1_26</ee>
+<url>db/conf/icdt/icdt2003.html#Hidders03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sebd/DekeyserHP03" mdate="2003-10-06">
+<author pid="d/SDekeyser">Stijn Dekeyser</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<title>Instance Independent Concurrency Control for Semistructured Databases.</title>
+<pages>323-334</pages>
+<year>2003</year>
+<crossref>conf/sebd/2003</crossref>
+<booktitle>SEBD</booktitle>
+<url>db/conf/sebd/sebd2003.html#DekeyserHP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/BieleckiHPTB02" mdate="2017-11-06">
+<author pid="64/2454">Michal Bielecki</author>
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<author orcid="0000-0003-2858-3124" pid="68/5160">Jerzy Tyszkiewicz</author>
+<author pid="b/JVdBussche">Jan Van den Bussche</author>
+<title>Navigating with a Browser.</title>
+<pages>764-775</pages>
+<year>2002</year>
+<crossref>conf/icalp/2002</crossref>
+<booktitle>ICALP</booktitle>
+<ee>https://doi.org/10.1007/3-540-45465-9_65</ee>
+<url>db/conf/icalp/icalp2002.html#BieleckiHPTB02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/DekeyserH02" mdate="2018-11-02">
+<author pid="d/SDekeyser">Stijn Dekeyser</author>
+<author orcid="0000-0002-8865-4329" pid="h/JanHidders">Jan Hidders</author>
+<title>Path Locks for XML Document Collaboration.</title>
+<pages>105-114</pages>
+<year>2002</year>
+<crossref>conf/wise/2002-1</crossref>
+<booktitle>WISE</booktitle>
+<ee>https://doi.org/10.1109/WISE.2002.1181648</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WISE.2002.1181648</ee>
+<url>db/conf/wise/wise2002-1.html#DekeyserH02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbpl/Hidders95" mdate="2017-09-08">
+<author pid="h/JanHidders">Jan Hidders</author>
+<title>Union-Types in Object-Oriented Schemes.</title>
+<pages>2</pages>
+<year>1995</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl95.html#Hidders95</url>
+<crossref>conf/dbpl/95</crossref>
+<cdrom>DBPL1995/X03.pdf</cdrom>
+<cite>journals/tods/AbiteboulH87</cite>
+<cite>conf/sigmod/AbiteboulK89</cite>
+<cite>journals/iandc/BarbaneraDL95</cite>
+<cite>...</cite>
+<cite>conf/pods/CalvaneseL94</cite>
+<cite>journals/iandc/Cardelli88</cite>
+<cite>conf/sigmod/ChristophidesACS94</cite>
+<cite>books/fm/GareyJ79</cite>
+<cite>journals/tods/KuperV93</cite>
+<cite>conf/pods/LecluseR89</cite>
+<cite>conf/dexa/LingT93</cite>
+<cite>...</cite>
+<cite>conf/popl/Remy89</cite>
+<cite>...</cite>
+<ee>http://ewic.bcs.org/content/ConWebDoc/5191</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cism/HiddersP93" mdate="2019-08-08">
+<author pid="h/JanHidders">Jan Hidders</author>
+<author pid="p/JParedaens">Jan Paredaens</author>
+<title>GOAL, A Graph-Based Object and Association Language.</title>
+<pages>247-265</pages>
+<year>1993</year>
+<crossref>conf/cism/1993</crossref>
+<booktitle>CISM - Advances in Database Systems</booktitle>
+<url>db/conf/cism/cism347.html#HiddersP93</url>
+</inproceedings>
+</r>
+<coauthors n="96" nc="5">
+<co c="0"><na f="a/Aalst:Wil_M=_P=_van_der" pid="a/WilMPvanderAalst">Wil M. P. van der Aalst</na></co>
+<co c="0"><na f="a/Abel:Fabian" pid="23/5055">Fabian Abel</na></co>
+<co c="0"><na f="a/Adamczyk:Michal" pid="154/9687">Michal Adamczyk</na></co>
+<co c="0"><na f="a/Addie:Ron" pid="33/6742">Ron Addie</na></co>
+<co c="0"><na f="a/Afrati:Foto_N=" pid="a/FotoNAfrati">Foto N. Afrati</na></co>
+<co c="2"><na f="a/Al=Ars:Zaid" pid="30/4412">Zaid Al-Ars</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Samur" pid="81/3231">Samur Ara&#250;jo</na></co>
+<co c="0"><na f="a/Arenas:Marcelo" pid="76/6735">Marcelo Arenas</na></co>
+<co c="0"><na f="b/Bielecki:Michal" pid="64/2454">Michal Bielecki</na></co>
+<co c="0"><na f="b/Bonifati:Angela" pid="b/ABonifati">Angela Bonifati</na></co>
+<co c="0"><na f="b/Bra:Paul_De" pid="82/5181">Paul De Bra</na></co>
+<co c="0"><na f="b/Bussche:Jan_Van_den" pid="b/JVdBussche">Jan Van den Bussche</na></co>
+<co c="0"><na f="c/Calders:Toon" pid="c/ToonCalders">Toon Calders</na></co>
+<co c="0"><na f="c/Capota:Mihai" pid="04/8524">Mihai Capota</na></co>
+<co c="2"><na f="c/Chen:Jianyu" pid="75/8639">Jianyu Chen</na></co>
+<co c="-1"><na f="c/Cheung:Melissa" pid="134/6599">Melissa Cheung</na></co>
+<co c="0"><na f="c/Chrzastowski=Wachtel:Piotr" pid="63/6779">Piotr Chrzastowski-Wachtel</na></co>
+<co c="0"><na f="c/Cimiano:Philipp" pid="12/1983">Philipp Cimiano</na></co>
+<co c="0"><na f="d/Dekeyser:Stijn" pid="d/SDekeyser">Stijn Dekeyser</na></co>
+<co c="0"><na f="d/Demeyer:Serge" pid="d/SDemeyer">Serge Demeyer</na></co>
+<co c="0"><na f="d/DeVries:Arjen" pid="121/6000">Arjen DeVries</na></co>
+<co c="1"><na f="d/Dignum:Virginia" pid="d/VDignum">Virginia Dignum</na></co>
+<co c="0"><na f="d/Dumas:Marlon" pid="d/MarlonDumas">Marlon Dumas</na></co>
+<co c="1"><na f="d/Dwivedi:Yogesh_Kumar" pid="69/996">Yogesh Kumar Dwivedi</na></co>
+<co c="0"><na f="e/Epema:Dick_H=_J=" pid="e/DickHJEpema">Dick H. J. Epema</na></co>
+<co c="2"><na f="f/Fang_0004:Jian" pid="29/3425-4">Jian Fang 0004</na></co>
+<co c="0"><na f="f/Fern=aacute=ndez:Mary_F=" pid="f/MaryFFernandez">Mary F. Fern&#225;ndez</na></co>
+<co c="0"><na f="f/Fletcher:George_H=_L=" pid="f/GeorgeHLFletcher">George H. L. Fletcher</na></co>
+<co c="0"><na f="g/Ghit:Bogdan" pid="69/8814">Bogdan Ghit</na></co>
+<co c="0"><na f="g/Goble:Carole_A=" pid="g/CaroleAGoble">Carole A. Goble</na></co>
+<co c="0"><na f="g/Grabowski:Marek" pid="131/3947">Marek Grabowski</na></co>
+<co c="0"><na f="g/Gutierrez:Claudio" pid="g/ClaudioGutierrez">Claudio Gutierrez</na></co>
+<co c="-1"><na f="h/Hartig:Olaf" pid="29/3132">Olaf Hartig</na></co>
+<co c="0" n="2"><na f="h/Heckmann:Dominik" pid="94/4074">Dominik Heckmann</na><na>Dominikus Heckmann</na></co>
+<co c="0"><na f="h/Hee:Kees_M=_van" pid="82/3398">Kees M. van Hee</na></co>
+<co c="0"><na f="h/Hegeman:Tim" pid="139/4230">Tim Hegeman</na></co>
+<co c="0"><na f="h/Herder:Eelco" pid="40/3446">Eelco Herder</na></co>
+<co c="0"><na f="h/Hofstede:Arthur_H=_M=_ter" pid="h/AHMterHofstede">Arthur H. M. ter Hofstede</na></co>
+<co c="2" n="2"><na f="h/Hofstee:H=_Peter" pid="67/1067">H. Peter Hofstee</na><na>Peter Hofstee</na></co>
+<co c="0"><na f="h/Houben:Geert=Jan" pid="h/GeertJanHouben">Geert-Jan Houben</na></co>
+<co c="0"><na f="h/Hu:Beibei" pid="61/9168">Beibei Hu</na></co>
+<co c="0"><na f="i/Iosup:Alexandru" pid="85/2489">Alexandru Iosup</na></co>
+<co c="1"><na f="j/Janssen:Marijn" pid="j/MarijnJanssen">Marijn Janssen</na></co>
+<co c="3"><na f="k/Kang:Jialiang" pid="159/6016">Jialiang Kang</na></co>
+<co c="1"><na f="k/Klievink:Bram" pid="29/5649">Bram Klievink</na></co>
+<co c="0"><na f="k/Koutris:Paraschos" pid="49/8316">Paraschos Koutris</na></co>
+<co c="0"><na f="k/Krause:Daniel" pid="22/4988">Daniel Krause</na></co>
+<co c="0"><na f="k/Kwasnikowska:Natalia" pid="22/6339">Natalia Kwasnikowska</na></co>
+<co c="1"><na f="l/Lamersdorf:Winfried" pid="l/WLamersdorf">Winfried Lamersdorf</na></co>
+<co c="0"><na f="l/Lange:Yannick_de" pid="121/4447">Yannick de Lange</na></co>
+<co c="0"><na f="l/Larriba=Pey:Josep=Llu=iacute=s" pid="03/5767">Josep-Llu&#237;s Larriba-Pey</na></co>
+<co c="2"><na f="l/Lee:Jinho" pid="62/757">Jinho Lee</na></co>
+<co c="0"><na f="l/Leonardi:Erwin" pid="l/ErwinLeonardi">Erwin Leonardi</na></co>
+<co c="0"><na f="l/Lignie:Marc_De" pid="259/6272">Marc De Lignie</na></co>
+<co c="4"><na f="l/Litak:Tadeusz" pid="81/3169">Tadeusz Litak</na></co>
+<co c="1"><na f="l/Loenen:Bastiaan_van" pid="16/6168">Bastiaan van Loenen</na></co>
+<co c="0"><na f="l/Luo:Yongming" pid="34/11424">Yongming Luo</na></co>
+<co c="1"><na f="m/M=auml=ntym=auml=ki:Matti" pid="99/4116">Matti M&#228;ntym&#228;ki</na></co>
+<co c="0"><na f="m/Marrara:Stefania" pid="14/4797">Stefania Marrara</na></co>
+<co c="0"><na f="m/Mei=szlig=ner:Klaus" pid="m/KMeissner">Klaus Mei&#223;ner</na></co>
+<co c="0"><na f="m/Michiels:Philippe" pid="m/PhilippeMichiels">Philippe Michiels</na></co>
+<co c="4"><na f="m/Mikul=aacute=s:Szabolcs" pid="m/SzabolcsMikulas">Szabolcs Mikul&#225;s</na></co>
+<co c="1"><na f="m/Millard:Jeremy" pid="51/4609">Jeremy Millard</na></co>
+<co c="0"><na f="m/Missier:Paolo" pid="28/1062">Paolo Missier</na></co>
+<co c="2"><na f="m/Mulder:Yvo_T=_B=" pid="257/4585">Yvo T. B. Mulder</na></co>
+<co c="0"><na f="n/Niederhausen:Matthias" pid="56/7066">Matthias Niederhausen</na></co>
+<co c="1" n="2"><na f="o/Overbeek:S=_J=" pid="05/501">S. J. Overbeek</na><na>Sietse Overbeek</na></co>
+<co c="0"><na f="p/Page:Wim_Le" pid="15/2602">Wim Le Page</na></co>
+<co c="0"><na f="p/Paredaens:Jan" pid="p/JParedaens">Jan Paredaens</na></co>
+<co c="0"><na f="p/Picalausa:Fran=ccedil=ois" pid="10/9589">Fran&#231;ois Picalausa</na></co>
+<co c="1"><na f="r/Rana:Nripendra_P=" pid="57/10107">Nripendra P. Rana</na></co>
+<co c="0"><na f="r/R=eacute=:Christopher" pid="r/ChristopherRe">Christopher R&#233;</na></co>
+<co c="0"><na f="r/Rogala:Marek" pid="180/3325">Marek Rogala</na></co>
+<co c="0"><na f="s/Schwabe:Daniel" pid="s/DanielSchwabe">Daniel Schwabe</na></co>
+<co c="0"><na f="s/Sim=eacute=on:J=eacute=r=ocirc=me" pid="15/4061">J&#233;r&#244;me Sim&#233;on</na></co>
+<co c="3"><na f="s/Singh:Rina" pid="159/5999">Rina Singh</na></co>
+<co c="1"><na f="s/Slade:Emma_L=" pid="169/2226">Emma L. Slade</na></co>
+<co c="0"><na f="s/Sluijs:Kees_van_der" pid="89/2662">Kees van der Sluijs</na></co>
+<co c="1"><na f="s/Snijders:Dhoya" pid="159/0416">Dhoya Snijders</na></co>
+<co c="0"><na f="s/Spielmann:Marc" pid="94/5191">Marc Spielmann</na></co>
+<co c="0"><na f="s/Sroka:Jacek" pid="42/6606">Jacek Sroka</na></co>
+<co c="0"><na f="t/Thiran:Philippe" pid="t/PhilippeThiran">Philippe Thiran</na></co>
+<co c="0"><na f="t/Tran:Duc" pid="79/5710">Duc Tran</na></co>
+<co c="0"><na f="t/Tyszkiewicz:Jerzy" pid="68/5160">Jerzy Tyszkiewicz</na></co>
+<co c="0"><na f="u/Ullman:Jeffrey_D=" pid="u/JeffreyDUllman">Jeffrey D. Ullman</na></co>
+<co c="0"><na f="v/Vansummeren:Stijn" pid="28/3797">Stijn Vansummeren</na></co>
+<co c="0"><na f="v/Vercammen:Roel" pid="v/RoelVercammen">Roel Vercammen</na></co>
+<co c="0"><na f="v/Verelst:Jan" pid="78/5163">Jan Verelst</na></co>
+<co c="0"><na f="v/Vries:Arjen_P=_de" pid="v/ArjenPdeVries">Arjen P. de Vries</na></co>
+<co c="0"><na f="w/Watson:Richard" pid="w/RichardWatson">Richard Watson</na></co>
+<co c="1"><na f="w/Weerakkody:Vishanth" pid="34/602">Vishanth Weerakkody</na></co>
+<co c="0"><na f="w/Wood:Peter_T=" pid="w/PeterTWood">Peter T. Wood</na></co>
+<co c="0"><na f="w/Wu:Yuqing" pid="20/473">Yuqing Wu</na></co>
+<co c="3"><na f="x/Xia_0001:Feng" pid="62/3147">Feng Xia 0001</na></co>
+<co c="0"><na f="y/Yi_0001:Ke" pid="43/1219-1">Ke Yi 0001</na></co>
+<co c="1"><na f="z/Zuiderwijk:Anneke" pid="115/9821">Anneke Zuiderwijk</na></co>
+</coauthors>
+</dblpperson>
+

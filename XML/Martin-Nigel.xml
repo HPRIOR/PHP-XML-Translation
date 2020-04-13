@@ -1,0 +1,510 @@
+<?xml version="1.0"?>
+<dblpperson name="Nigel J. Martin 0001" pid="m/NigelJMartin" n="25">
+<person key="homepages/m/NigelJMartin" mdate="2016-01-04">
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<url>http://www.dcs.bbk.ac.uk/~nigel/</url>
+<note type="affiliation">University of London, Birkbeck, School of Computer Science and Information Systems</note>
+</person>
+<homonyms n="2">
+<h f="m/Martin:Nigel_J="><name>Nigel J. Martin</name>
+</h>
+<h f="m/Martin_0002:Nigel_J="><person key="homepages/m/NigelJMartin2" mdate="2016-01-04">
+<author pid="m/NigelJMartin2">Nigel J. Martin 0002</author>
+<note type="affiliation">Australian National University, Canberra, Australia</note>
+</person>
+</h>
+</homonyms>
+<r><proceedings key="conf/bncod/2017" mdate="2019-05-14">
+<editor pid="c/AndreaCali">Andrea Cal&#236;</editor>
+<editor pid="w/PeterTWood">Peter T. Wood</editor>
+<editor pid="m/NigelJMartin">Nigel J. Martin 0001</editor>
+<editor pid="p/APoulovassilis">Alexandra Poulovassilis</editor>
+<title>Data Analytics - 31st British International Conference on Databases, BICOD 2017, London, UK, July 10-12, 2017, Proceedings</title>
+<booktitle>BICOD</booktitle>
+<publisher>Springer</publisher>
+<year>2017</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>10365</volume>
+<isbn>978-3-319-60794-8</isbn>
+<isbn>978-3-319-60795-5</isbn>
+<ee>https://doi.org/10.1007/978-3-319-60795-5</ee>
+<url>db/conf/bncod/bicod2017.html</url>
+</proceedings>
+</r>
+<r><article key="journals/jdiq/0001PW14" mdate="2018-11-06">
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="85/1466">Jianing Wang</author>
+<title>A Methodology and Architecture Embedding Quality Assessment in Data Integration.</title>
+<pages>17:1-17:40</pages>
+<year>2014</year>
+<volume>4</volume>
+<journal>J. Data and Information Quality</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2567663</ee>
+<url>db/journals/jdiq/jdiq4.html#0001PW14</url>
+</article>
+</r>
+<r><article key="journals/bioinformatics/CollMPBPMMC12" mdate="2020-03-02">
+<author pid="121/5153">Francesc Coll</author>
+<author pid="121/5124">Kim Mallard</author>
+<author orcid="0000-0002-6506-3104" pid="121/5410">Mark D. Preston</author>
+<author pid="121/5025">Stephen D. Bentley</author>
+<author orcid="0000-0002-7069-5958" pid="66/2898">Julian Parkhill</author>
+<author orcid="0000-0002-1957-443X" pid="121/5132">Ruth McNerney</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="45/4405">Taane G. Clark</author>
+<title>SpolPred: rapid and accurate prediction of <i>Mycobacterium tuberculosis</i> spoligotypes from short genomic sequences.</title>
+<pages>2991-2993</pages>
+<year>2012</year>
+<volume>28</volume>
+<journal>Bioinform.</journal>
+<number>22</number>
+<ee>https://doi.org/10.1093/bioinformatics/bts544</ee>
+<ee>https://www.wikidata.org/entity/Q38950581</ee>
+<url>db/journals/bioinformatics/bioinformatics28.html#CollMPBPMMC12</url>
+</article>
+</r>
+<r><inproceedings key="conf/bir/WangMP11" mdate="2017-05-25">
+<author pid="85/1466">Jianing Wang</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>An Ontology-Based Quality Framework for Data Integration.</title>
+<pages>196-208</pages>
+<year>2011</year>
+<booktitle>BIR Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-29231-6_16</ee>
+<crossref>conf/bir/2011w</crossref>
+<url>db/conf/bir/bir2011w.html#WangMP11</url>
+</inproceedings>
+</r>
+<r><article key="journals/fgcs/ZamboulisMP10" mdate="2020-02-19">
+<author pid="z/LucasZamboulis">Lucas Zamboulis</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Query performance evaluation of an architecture for fine-grained integration of heterogeneous grid data sources.</title>
+<pages>1073-1091</pages>
+<year>2010</year>
+<volume>26</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/j.future.2010.05.008</ee>
+<url>db/journals/fgcs/fgcs26.html#ZamboulisMP10</url>
+</article>
+</r>
+<r><article key="journals/nar/YeatsLRKMLO08" mdate="2019-10-19">
+<author pid="02/858">Corin Yeats</author>
+<author pid="31/1012">Jonathan G. Lees</author>
+<author pid="16/4918">Adam James Reid</author>
+<author orcid="0000-0003-3166-4734" pid="10/6361">Paul Kellam</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="75/2018">Xinhui Liu</author>
+<author pid="71/4733">Christine A. Orengo</author>
+<title>Gene3D: comprehensive structural and functional annotation of genomes.</title>
+<pages>414-418</pages>
+<year>2008</year>
+<volume>36</volume>
+<journal>Nucleic Acids Research</journal>
+<number>Database-Issue</number>
+<ee type="oa">https://doi.org/10.1093/nar/gkm1019</ee>
+<ee>https://www.wikidata.org/entity/Q33306787</ee>
+<url>db/journals/nar/nar36.html#YeatsLRKMLO08</url>
+</article>
+</r>
+<r><article key="journals/nar/SiepenBSEPGOSZMPJCHPJOH08" mdate="2019-10-19">
+<author pid="92/893">Jennifer A. Siepen</author>
+<author pid="39/3585">Khalid Belhajjame</author>
+<author orcid="0000-0003-4618-6691" pid="45/4143">Julian N. Selley</author>
+<author orcid="0000-0002-3711-0778" pid="e/SMEmbury">Suzanne M. Embury</author>
+<author orcid="0000-0003-2008-6617" pid="p/NWPaton">Norman W. Paton</author>
+<author orcid="0000-0003-1219-2137" pid="g/CaroleAGoble">Carole A. Goble</author>
+<author pid="91/6259">Stephen G. Oliver</author>
+<author pid="s/RobertStevens">Robert Stevens 0001</author>
+<author pid="z/LucasZamboulis">Lucas Zamboulis</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="90/468">Philip Jones</author>
+<author pid="07/2132">Richard G. C&#244;t&#233;</author>
+<author orcid="0000-0001-8479-0262" pid="71/4115">Henning Hermjakob</author>
+<author pid="98/7240">Melissa M. Pentony</author>
+<author pid="08/2122">David T. Jones</author>
+<author pid="71/4733">Christine A. Orengo</author>
+<author orcid="0000-0002-8601-9524" pid="66/4750">Simon J. Hubbard</author>
+<title>ISPIDER Central: an integrated database web-server for proteomics.</title>
+<pages>485-490</pages>
+<year>2008</year>
+<volume>36</volume>
+<journal>Nucleic Acids Research</journal>
+<number>Web-Server-Issue</number>
+<ee type="oa">https://doi.org/10.1093/nar/gkn196</ee>
+<ee>https://www.wikidata.org/entity/Q38390705</ee>
+<url>db/journals/nar/nar36.html#SiepenBSEPGOSZMPJCHPJOH08</url>
+</article>
+</r>
+<r><inproceedings key="conf/dils/ZamboulisMP07" mdate="2017-05-25">
+<author pid="z/LucasZamboulis">Lucas Zamboulis</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Bioinformatics Service Reconciliation by Heterogeneous Schema Transformation.</title>
+<pages>89-104</pages>
+<year>2007</year>
+<crossref>conf/dils/2007</crossref>
+<booktitle>DILS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73255-6_10</ee>
+<url>db/conf/dils/dils2007.html#ZamboulisMP07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/complife/HirschTSMOKL06" mdate="2018-03-12">
+<author orcid="0000-0001-6183-6256" pid="41/4748-3">Michael Hirsch 0003</author>
+<author pid="53/4404">Allan Tucker</author>
+<author pid="93/5842">Stephen Swift</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="71/4733">Christine A. Orengo</author>
+<author pid="10/6361">Paul Kellam</author>
+<author pid="80/98">Xiaohui Liu</author>
+<title>Improved Robustness in Time Series Analysis of Gene Expression Data by Polynomial Model Based Clustering.</title>
+<pages>1-10</pages>
+<year>2006</year>
+<crossref>conf/complife/2006</crossref>
+<booktitle>CompLife</booktitle>
+<ee>https://doi.org/10.1007/11875741_1</ee>
+<url>db/conf/complife/complife2006.html#HirschTSMOKL06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dils/ZamboulisFBSJMPHEP06" mdate="2019-10-19">
+<author pid="z/LucasZamboulis">Lucas Zamboulis</author>
+<author pid="23/2535-1">Hao Fan 0001</author>
+<author pid="39/3585">Khalid Belhajjame</author>
+<author pid="92/893">Jennifer A. Siepen</author>
+<author orcid="0000-0001-6118-9327" pid="60/5207">Andrew R. Jones</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author orcid="0000-0002-8601-9524" pid="66/4750">Simon J. Hubbard</author>
+<author orcid="0000-0002-3711-0778" pid="e/SMEmbury">Suzanne M. Embury</author>
+<author orcid="0000-0003-2008-6617" pid="p/NWPaton">Norman W. Paton</author>
+<title>Data Access and Integration in the ISPIDER Proteomics Grid.</title>
+<pages>3-18</pages>
+<year>2006</year>
+<crossref>conf/dils/2006</crossref>
+<booktitle>DILS</booktitle>
+<ee>https://doi.org/10.1007/11799511_3</ee>
+<ee>https://www.wikidata.org/entity/Q57393526</ee>
+<url>db/conf/dils/dils2006.html#ZamboulisFBSJMPHEP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dils/MaibaumZROMP05" mdate="2017-05-25">
+<author pid="57/5702">Michael Maibaum</author>
+<author pid="z/LucasZamboulis">Lucas Zamboulis</author>
+<author pid="53/2103">Galia Rimon</author>
+<author pid="71/4733">Christine A. Orengo</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Cluster Based Integration of Heterogeneous Biological Databases Using the AutoMed Toolkit.</title>
+<pages>191-207</pages>
+<year>2005</year>
+<crossref>conf/dils/2005</crossref>
+<booktitle>DILS</booktitle>
+<ee>https://doi.org/10.1007/11530084_16</ee>
+<url>db/conf/dils/dils2005.html#MaibaumZROMP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bncod/HamillM04" mdate="2017-05-24">
+<author pid="37/1877">Rachel Hamill</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<title>Database Support for Path Query Functions.</title>
+<pages>84-99</pages>
+<ee>https://doi.org/10.1007/978-3-540-27811-5_8</ee>
+<year>2004</year>
+<crossref>conf/bncod/2004</crossref>
+<booktitle>BNCOD</booktitle>
+<url>db/conf/bncod/bncod2004.html#HamillM04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexaw/MaibaumROMP04" mdate="2017-05-24">
+<author pid="57/5702">Michael Maibaum</author>
+<author pid="53/2103">Galia Rimon</author>
+<author pid="71/4733">Christine A. Orengo</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>BioMap: Gene Family based Integration of Heterogeneous Biological Databases Using AutoMed Metadata.</title>
+<pages>384-388</pages>
+<year>2004</year>
+<crossref>conf/dexaw/2004</crossref>
+<booktitle>DEXA Workshops</booktitle>
+<ee>https://doi.org/10.1109/DEXA.2004.1333504</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DEXA.2004.1333504</ee>
+<url>db/conf/dexaw/dexaw2004.html#MaibaumROMP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jbi/KellamSTVMOL04" mdate="2014-03-04">
+<author pid="10/6361">Paul Kellam</author>
+<author pid="93/5842">Stephen Swift</author>
+<author pid="53/4404">Allan Tucker</author>
+<author pid="86/2258">Veronica Vinciotti</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="71/4733">Christine A. Orengo</author>
+<author pid="80/98">Xiaohui Liu</author>
+<title>Consensus Clustering and Functional Interpretation of Gene Expression Data.</title>
+<pages>6</pages>
+<year>2004</year>
+<crossref>conf/jbi/2004</crossref>
+<booktitle>Spanish Bioinformatics Conference</booktitle>
+<url>db/conf/jbi/jbi2004.html#KellamSTVMOL04</url>
+</inproceedings>
+</r>
+<r><article key="journals/nar/PearlBBHMSSTO03" mdate="2019-10-19">
+<author orcid="0000-0002-8210-4393" pid="77/3241">Frances M. G. Pearl</author>
+<author pid="81/6769">C. F. Bennett</author>
+<author orcid="0000-0003-3554-4254" pid="03/2287">James E. Bray</author>
+<author pid="20/4828">Andrew P. Harrison</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author orcid="0000-0003-0194-8613" pid="40/5534">Adrian J. Shepherd</author>
+<author pid="06/1632">Ian Sillitoe</author>
+<author orcid="0000-0003-0824-4096" pid="82/3324">Janet M. Thornton</author>
+<author pid="71/4733">Christine A. Orengo</author>
+<title>The CATH database: an extended protein family resource for structural and functional genomics.</title>
+<pages>452-455</pages>
+<year>2003</year>
+<volume>31</volume>
+<journal>Nucleic Acids Research</journal>
+<number>1</number>
+<url>db/journals/nar/nar31.html#PearlBBHMSSTO03</url>
+<ee type="oa">https://doi.org/10.1093/nar/gkg062</ee>
+<ee>https://www.wikidata.org/entity/Q30332391</ee>
+</article>
+</r>
+<r><article key="journals/bioinformatics/ShepherdMJKO02" mdate="2020-03-02">
+<author orcid="0000-0003-0194-8613" pid="40/5534">Adrian J. Shepherd</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="56/2745">Roger G. Johnson</author>
+<author orcid="0000-0003-3166-4734" pid="10/6361">Paul Kellam</author>
+<author pid="71/4733">Christine A. Orengo</author>
+<title>PFDB: a generic protein family database integrating the CATH domain structure database with sequence based protein family resources.</title>
+<pages>1666-1672</pages>
+<year>2002</year>
+<volume>18</volume>
+<journal>Bioinform.</journal>
+<number>12</number>
+<url>db/journals/bioinformatics/bioinformatics18.html#ShepherdMJKO02</url>
+<ee>https://doi.org/10.1093/bioinformatics/18.12.1666</ee>
+<ee>https://www.wikidata.org/entity/Q47614677</ee>
+</article>
+</r>
+<r><article key="journals/ida/KellamLMOST02" mdate="2015-05-18">
+<author pid="10/6361">Paul Kellam</author>
+<author pid="80/98">Xiaohui Liu</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="71/4733">Christine A. Orengo</author>
+<author pid="93/5842">Stephen Swift</author>
+<author pid="53/4404">Allan Tucker</author>
+<title>A framework for modelling virus gene expression data.</title>
+<pages>267-279</pages>
+<year>2002</year>
+<volume>6</volume>
+<journal>Intell. Data Anal.</journal>
+<number>3</number>
+<ee>http://content.iospress.com/articles/intelligent-data-analysis/ida00092</ee>
+<url>db/journals/ida/ida6.html#KellamLMOST02</url>
+</article>
+</r>
+<r><article key="journals/kbs/SwiftTML01" mdate="2020-02-25">
+<author orcid="0000-0001-8918-3365" pid="93/5842">Stephen Swift</author>
+<author pid="53/4404">Allan Tucker</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="80/98">Xiaohui Liu</author>
+<title>Grouping multivariate time series variables: applications to chemical process and visual field data.</title>
+<pages>147-154</pages>
+<year>2001</year>
+<volume>14</volume>
+<journal>Knowl. Based Syst.</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1016/S0950-7051(01)00091-0</ee>
+<url>db/journals/kbs/kbs14.html#SwiftTML01</url>
+</article>
+</r>
+<r><article key="journals/nar/AlbaLPSMOK01" mdate="2019-10-19">
+<author pid="39/5100">M. Mar Alb&#224;</author>
+<author pid="37/6546">David A. Lee</author>
+<author pid="77/3241">Frances M. G. Pearl</author>
+<author orcid="0000-0003-0194-8613" pid="40/5534">Adrian J. Shepherd</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="71/4733">Christine A. Orengo</author>
+<author orcid="0000-0003-3166-4734" pid="10/6361">Paul Kellam</author>
+<title>VIDA: a virus database system for the organization of animal virus genome open reading frames.</title>
+<pages>133-136</pages>
+<year>2001</year>
+<volume>29</volume>
+<journal>Nucleic Acids Research</journal>
+<number>1</number>
+<url>db/journals/nar/nar29.html#AlbaLPSMOK01</url>
+<ee type="oa">https://doi.org/10.1093/nar/29.1.133</ee>
+<ee>https://www.wikidata.org/entity/Q38661756</ee>
+</article>
+</r>
+<r><article key="journals/nar/PearlMBBHLRSSTTO01" mdate="2019-10-19">
+<author pid="77/3241">Frances M. G. Pearl</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author orcid="0000-0003-3554-4254" pid="03/2287">James E. Bray</author>
+<author pid="68/1924">Daniel W. A. Buchan</author>
+<author pid="20/4828">Andrew P. Harrison</author>
+<author pid="37/6546">David A. Lee</author>
+<author pid="86/4469">Gabrielle A. Reeves</author>
+<author orcid="0000-0003-0194-8613" pid="40/5534">Adrian J. Shepherd</author>
+<author pid="06/1632">Ian Sillitoe</author>
+<author pid="62/3736">Annabel E. Todd</author>
+<author orcid="0000-0003-0824-4096" pid="82/3324">Janet M. Thornton</author>
+<author pid="71/4733">Christine A. Orengo</author>
+<title>A rapid classification protocol for the CATH Domain Database to support structural genomics.</title>
+<pages>223-227</pages>
+<year>2001</year>
+<volume>29</volume>
+<journal>Nucleic Acids Research</journal>
+<number>1</number>
+<url>db/journals/nar/nar29.html#PearlMBBHLRSSTTO01</url>
+<ee type="oa">https://doi.org/10.1093/nar/29.1.223</ee>
+<ee>https://www.wikidata.org/entity/Q38661201</ee>
+</article>
+</r>
+<r><inproceedings key="conf/ida/KellamLMOST01" mdate="2017-05-23">
+<author pid="10/6361">Paul Kellam</author>
+<author pid="80/98">Xiaohui Liu</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="71/4733">Christine A. Orengo</author>
+<author pid="93/5842">Stephen Swift</author>
+<author pid="53/4404">Allan Tucker</author>
+<title>A Framework for Modelling Short, High-Dimensional Multivariate Time Series: Preliminary Results in Virus Gene Expression Data Analysis.</title>
+<pages>218-227</pages>
+<year>2001</year>
+<crossref>conf/ida/2001</crossref>
+<booktitle>IDA</booktitle>
+<ee>https://doi.org/10.1007/3-540-44816-0_22</ee>
+<url>db/conf/ida/ida2001.html#KellamLMOST01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/advis/KarkalasM00" mdate="2017-05-24">
+<author pid="99/4106">Sokratis Karkalas</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<title>Automatic Semantic Object Discovery and Mapping from Non-normalised Relational Database Systems.</title>
+<pages>92-107</pages>
+<ee>https://doi.org/10.1007/3-540-40888-6_9</ee>
+<year>2000</year>
+<crossref>conf/advis/2000</crossref>
+<booktitle>ADVIS</booktitle>
+<url>db/conf/advis/advis2000.html#KarkalasM00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexaw/ZhaoMJ00" mdate="2017-05-24">
+<author pid="38/6571">X. Zhao</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="56/2745">Roger G. Johnson</author>
+<title>PPS - A Parallel Partition Sort Algorithm for Multiprocessor Database Systems.</title>
+<pages>635-646</pages>
+<year>2000</year>
+<crossref>conf/dexaw/2000</crossref>
+<booktitle>DEXA Workshop</booktitle>
+<ee>https://doi.org/10.1109/DEXA.2000.875091</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DEXA.2000.875091</ee>
+<url>db/conf/dexaw/dexaw2000.html#ZhaoMJ00</url>
+</inproceedings>
+</r>
+<r><article key="journals/is/ZhaoJM94" mdate="2017-05-20">
+<author pid="38/6571">X. Zhao</author>
+<author pid="56/2745">Roger G. Johnson</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<title>DBJ - a Dynamic Balancing Hash Join algorithm in multiprocessor database systems.</title>
+<pages>89-100</pages>
+<year>1994</year>
+<volume>19</volume>
+<journal>Inf. Syst.</journal>
+<number>1</number>
+<url>db/journals/is/is19.html#ZhaoJM94</url>
+<ee>https://doi.org/10.1016/0306-4379(94)90028-0</ee>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/ZhaoJM94" mdate="2017-05-20">
+<author pid="38/6571">X. Zhao</author>
+<author pid="56/2745">Roger G. Johnson</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<title>DBJ - A Dynamic Balancing Hash Join Algorithm in Multiprocessor Database Systems (Extented Abstract).</title>
+<pages>301-308</pages>
+<cdrom>EDBT94/P301.pdf</cdrom>
+<crossref>conf/edbt/94</crossref>
+<year>1994</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt94.html#ZhaoJM94</url>
+<ee>https://doi.org/10.1007/3-540-57818-8_59</ee>
+<cite>conf/vldb/DeWittG85</cite>
+<cite>conf/vldb/DeWittNSS92</cite>
+<cite>conf/vldb/HuaL91</cite>
+<cite>journals/ngc/KitsuregawaTM83</cite>
+<cite>conf/vldb/KitsuregawaO90</cite>
+<cite>conf/vldb/LuTS90</cite>
+<cite>conf/sigmod/SchneiderD89</cite>
+<cite>conf/vldb/WaltonDJ91</cite>
+<cite>journals/cj/Knott75</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigmod/LitwinNS93</cite>
+</inproceedings>
+</r>
+<coauthors n="57" nc="1">
+<co c="0"><na f="a/Alb=agrave=:M=_Mar" pid="39/5100">M. Mar Alb&#224;</na></co>
+<co c="0"><na f="b/Belhajjame:Khalid" pid="39/3585">Khalid Belhajjame</na></co>
+<co c="0"><na f="b/Bennett:C=_F=" pid="81/6769">C. F. Bennett</na></co>
+<co c="0"><na f="b/Bentley:Stephen_D=" pid="121/5025">Stephen D. Bentley</na></co>
+<co c="0"><na f="b/Bray:James_E=" pid="03/2287">James E. Bray</na></co>
+<co c="0"><na f="b/Buchan:Daniel_W=_A=" pid="68/1924">Daniel W. A. Buchan</na></co>
+<co c="0"><na f="c/Cal=igrave=:Andrea" pid="c/AndreaCali">Andrea Cal&#236;</na></co>
+<co c="0"><na f="c/Clark:Taane_G=" pid="45/4405">Taane G. Clark</na></co>
+<co c="0"><na f="c/Coll:Francesc" pid="121/5153">Francesc Coll</na></co>
+<co c="0"><na f="c/C=ocirc=t=eacute=:Richard_G=" pid="07/2132">Richard G. C&#244;t&#233;</na></co>
+<co c="0"><na f="e/Embury:Suzanne_M=" pid="e/SMEmbury">Suzanne M. Embury</na></co>
+<co c="0"><na f="f/Fan_0001:Hao" pid="23/2535-1">Hao Fan 0001</na></co>
+<co c="0"><na f="g/Goble:Carole_A=" pid="g/CaroleAGoble">Carole A. Goble</na></co>
+<co c="-1"><na f="h/Hamill:Rachel" pid="37/1877">Rachel Hamill</na></co>
+<co c="0"><na f="h/Harrison:Andrew_P=" pid="20/4828">Andrew P. Harrison</na></co>
+<co c="0"><na f="h/Hermjakob:Henning" pid="71/4115">Henning Hermjakob</na></co>
+<co c="0"><na f="h/Hirsch_0003:Michael" pid="41/4748-3">Michael Hirsch 0003</na></co>
+<co c="0"><na f="h/Hubbard:Simon_J=" pid="66/4750">Simon J. Hubbard</na></co>
+<co c="0"><na f="j/Johnson:Roger_G=" pid="56/2745">Roger G. Johnson</na></co>
+<co c="0"><na f="j/Jones:Andrew_R=" pid="60/5207">Andrew R. Jones</na></co>
+<co c="0"><na f="j/Jones:David_T=" pid="08/2122">David T. Jones</na></co>
+<co c="0"><na f="j/Jones:Philip" pid="90/468">Philip Jones</na></co>
+<co c="0"><na f="k/Karkalas:Sokratis" pid="99/4106">Sokratis Karkalas</na></co>
+<co c="0"><na f="k/Kellam:Paul" pid="10/6361">Paul Kellam</na></co>
+<co c="0"><na f="l/Lee:David_A=" pid="37/6546">David A. Lee</na></co>
+<co c="0"><na f="l/Lees:Jonathan_G=" pid="31/1012">Jonathan G. Lees</na></co>
+<co c="0"><na f="l/Liu:Xiaohui" pid="80/98">Xiaohui Liu</na></co>
+<co c="0"><na f="l/Liu:Xinhui" pid="75/2018">Xinhui Liu</na></co>
+<co c="0"><na f="m/Maibaum:Michael" pid="57/5702">Michael Maibaum</na></co>
+<co c="0"><na f="m/Mallard:Kim" pid="121/5124">Kim Mallard</na></co>
+<co c="0"><na f="m/McNerney:Ruth" pid="121/5132">Ruth McNerney</na></co>
+<co c="0"><na f="o/Oliver:Stephen_G=" pid="91/6259">Stephen G. Oliver</na></co>
+<co c="0"><na f="o/Orengo:Christine_A=" pid="71/4733">Christine A. Orengo</na></co>
+<co c="0"><na f="p/Parkhill:Julian" pid="66/2898">Julian Parkhill</na></co>
+<co c="0"><na f="p/Paton:Norman_W=" pid="p/NWPaton">Norman W. Paton</na></co>
+<co c="0"><na f="p/Pearl:Frances_M=_G=" pid="77/3241">Frances M. G. Pearl</na></co>
+<co c="0"><na f="p/Pentony:Melissa_M=" pid="98/7240">Melissa M. Pentony</na></co>
+<co c="0"><na f="p/Poulovassilis:Alexandra" pid="p/APoulovassilis">Alexandra Poulovassilis</na></co>
+<co c="0"><na f="p/Preston:Mark_D=" pid="121/5410">Mark D. Preston</na></co>
+<co c="0"><na f="r/Reeves:Gabrielle_A=" pid="86/4469">Gabrielle A. Reeves</na></co>
+<co c="0"><na f="r/Reid:Adam_James" pid="16/4918">Adam James Reid</na></co>
+<co c="0"><na f="r/Rimon:Galia" pid="53/2103">Galia Rimon</na></co>
+<co c="0"><na f="s/Selley:Julian_N=" pid="45/4143">Julian N. Selley</na></co>
+<co c="0"><na f="s/Shepherd:Adrian_J=" pid="40/5534">Adrian J. Shepherd</na></co>
+<co c="0"><na f="s/Siepen:Jennifer_A=" pid="92/893">Jennifer A. Siepen</na></co>
+<co c="0"><na f="s/Sillitoe:Ian" pid="06/1632">Ian Sillitoe</na></co>
+<co c="0"><na f="s/Stevens_0001:Robert" pid="s/RobertStevens">Robert Stevens 0001</na></co>
+<co c="0"><na f="s/Swift:Stephen" pid="93/5842">Stephen Swift</na></co>
+<co c="0"><na f="t/Thornton:Janet_M=" pid="82/3324">Janet M. Thornton</na></co>
+<co c="0"><na f="t/Todd:Annabel_E=" pid="62/3736">Annabel E. Todd</na></co>
+<co c="0"><na f="t/Tucker:Allan" pid="53/4404">Allan Tucker</na></co>
+<co c="0"><na f="v/Vinciotti:Veronica" pid="86/2258">Veronica Vinciotti</na></co>
+<co c="0"><na f="w/Wang:Jianing" pid="85/1466">Jianing Wang</na></co>
+<co c="0"><na f="w/Wood:Peter_T=" pid="w/PeterTWood">Peter T. Wood</na></co>
+<co c="0"><na f="y/Yeats:Corin" pid="02/858">Corin Yeats</na></co>
+<co c="0"><na f="z/Zamboulis:Lucas" pid="z/LucasZamboulis">Lucas Zamboulis</na></co>
+<co c="0"><na f="z/Zhao:X=" pid="38/6571">X. Zhao</na></co>
+</coauthors>
+</dblpperson>
+

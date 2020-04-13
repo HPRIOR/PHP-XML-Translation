@@ -1,0 +1,2641 @@
+<?xml version="1.0"?>
+<dblpperson name="Mark Levene" pid="l/MarkLevene" n="180">
+<person key="homepages/l/MarkLevene" mdate="2016-02-09">
+<author pid="l/MarkLevene">Mark Levene</author>
+<note type="affiliation">Birkbeck, University of London, UK</note>
+<url>http://www.dcs.bbk.ac.uk/~mark/</url>
+</person>
+<r><article key="journals/jd/HarrisLZL20" mdate="2020-01-27">
+<author pid="55/9738">Martyn Harris</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="z/DellZhang">Dell Zhang</author>
+<author pid="155/3004">Dan Levene</author>
+<title>Comparing &#34;parallel passages&#34; in digital archives.</title>
+<pages>271-289</pages>
+<year>2020</year>
+<volume>76</volume>
+<journal>Journal of Documentation</journal>
+<number>1</number>
+<ee>https://doi.org/10.1108/JD-10-2018-0175</ee>
+<url>db/journals/jd/jd76.html#HarrisLZL20</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-06450" mdate="2020-03-02">
+<author pid="259/0996">Manni Singh</author>
+<author pid="38/2181">David J. Weston</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Supervised Phrase-boundary Embeddings.</title>
+<year>2020</year>
+<volume>abs/2002.06450</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.06450</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-06450</url>
+</article>
+</r>
+<r><article key="journals/paapp/LeveneFL19" mdate="2020-03-06">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="f/TrevorIFenner">Trevor I. Fenner</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>Human dynamics with limited complexity.</title>
+<pages>356-363</pages>
+<year>2019</year>
+<volume>34</volume>
+<journal>Int. J. Parallel Emergent Distributed Syst.</journal>
+<number>4</number>
+<ee>https://www.tandfonline.com/doi/full/10.1080/17445760.2019.1578881</ee>
+<url>db/journals/paapp/paapp34.html#LeveneFL19</url>
+</article>
+</r>
+<r><article key="journals/scientometrics/LeveneFB19" mdate="2019-08-08">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="f/TrevorIFenner">Trevor I. Fenner</author>
+<author orcid="0000-0002-8796-5248" pid="b/JudithBarIlan">Judit Bar-Ilan</author>
+<title>Characterisation of the $$\chi$$ &#967; -index and the rec-index.</title>
+<pages>885-896</pages>
+<year>2019</year>
+<volume>120</volume>
+<journal>Scientometrics</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11192-019-03151-7</ee>
+<url>db/journals/scientometrics/scientometrics120.html#LeveneFB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/webi/MeoLP19" mdate="2019-12-05">
+<author pid="94/5332">Pasquale De Meo</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="74/5741">Alessandro Provetti</author>
+<title>Potential gain as a centrality measure.</title>
+<pages>418-422</pages>
+<year>2019</year>
+<booktitle>WI</booktitle>
+<ee>https://doi.org/10.1145/3350546.3352559</ee>
+<ee>http://ieeexplore.ieee.org/document/117545339</ee>
+<crossref>conf/webi/2019</crossref>
+<url>db/conf/webi/webi2019.html#MeoLP19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1903-05440" mdate="2019-03-31">
+<author pid="219/2421">Andrius Mudinas</author>
+<author pid="z/DellZhang">Dell Zhang</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Market Trend Prediction using Sentiment Analysis: Lessons Learned and Paths Forward.</title>
+<year>2019</year>
+<volume>abs/1903.05440</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1903.05440</ee>
+<url>db/journals/corr/corr1903.html#abs-1903-05440</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1906-09822" mdate="2019-06-27">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="f/TrevorIFenner">Trevor I. Fenner</author>
+<author pid="b/JudithBarIlan">Judit Bar-Ilan</author>
+<title>Characterisation of the &#967;-index and the rec-index.</title>
+<year>2019</year>
+<volume>abs/1906.09822</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1906.09822</ee>
+<url>db/journals/corr/corr1906.html#abs-1906-09822</url>
+</article>
+</r>
+<r><article key="journals/aires/KingraniLZ18" mdate="2018-11-14">
+<author pid="89/11205">Suneel Kumar Kingrani</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="z/DellZhang">Dell Zhang</author>
+<title>Estimating the number of clusters using diversity.</title>
+<pages>15-</pages>
+<year>2018</year>
+<volume>7</volume>
+<journal>Artif. Intell. Research</journal>
+<number>1</number>
+<ee>https://doi.org/10.5430/air.v7n1p15</ee>
+<ee>https://www.wikidata.org/entity/Q47116809</ee>
+<url>db/journals/aires/aires7.html#KingraniLZ18</url>
+</article>
+</r>
+<r><article key="journals/jasis/Zhitomirsky-Geffet18" mdate="2020-03-02">
+<author pid="88/2690">Maayan Zhitomirsky-Geffet</author>
+<author pid="b/JudithBarIlan">Judit Bar-Ilan</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Categorical relevance judgment.</title>
+<pages>1084-1094</pages>
+<year>2018</year>
+<volume>69</volume>
+<journal>J. Assoc. Inf. Sci. Technol.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1002/asi.24035</ee>
+<url>db/journals/jasis/jasis69.html#Zhitomirsky-Geffet18</url>
+</article>
+</r>
+<r><article key="journals/jocch/HarrisLZL18" mdate="2018-11-21">
+<author pid="55/9738">Martyn Harris</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="z/DellZhang">Dell Zhang</author>
+<author pid="155/3004">Dan Levene</author>
+<title>Finding Parallel Passages in Cultural Heritage Archives.</title>
+<pages>15:1-15:24</pages>
+<year>2018</year>
+<volume>11</volume>
+<journal>JOCCH</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3195727</ee>
+<url>db/journals/jocch/jocch11.html#HarrisLZL18</url>
+</article>
+</r>
+<r><article key="journals/tacl/MudinasZL18" mdate="2018-05-14">
+<author pid="219/2421">Andrius Mudinas</author>
+<author pid="z/DellZhang">Dell Zhang</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Bootstrap Domain-Specific Sentiment Classifiers from Unlabeled Corpora.</title>
+<pages>269-285</pages>
+<year>2018</year>
+<volume>6</volume>
+<journal>TACL</journal>
+<ee>https://transacl.org/ojs/index.php/tacl/article/view/1351</ee>
+<url>db/journals/tacl/tacl6.html#MudinasZL18</url>
+</article>
+</r>
+<r><inproceedings key="conf/bdc/EldawLR18" mdate="2019-02-05">
+<author pid="134/3143">Muawya Habib Sarnoub Eldaw</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="55/4141">George Roussos</author>
+<title>Presence Analytics: Making Sense of Human Social Presence within a Learning Environment.</title>
+<pages>174-183</pages>
+<year>2018</year>
+<booktitle>BDCAT</booktitle>
+<ee>https://doi.org/10.1109/BDCAT.2018.00029</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/BDCAT.2018.00029</ee>
+<crossref>conf/bdc/2018</crossref>
+<url>db/conf/bdc/bdcat2018.html#EldawLR18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecir/KingraniLZ18" mdate="2018-03-22">
+<author pid="89/11205">Suneel Kumar Kingrani</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="z/DellZhang">Dell Zhang</author>
+<title>A Meta-Evaluation of Evaluation Methods for Diversified Search.</title>
+<pages>550-555</pages>
+<year>2018</year>
+<booktitle>ECIR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-76941-7_43</ee>
+<crossref>conf/ecir/2018</crossref>
+<url>db/conf/ecir/ecir2018.html#KingraniLZ18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-08012" mdate="2019-01-02">
+<author pid="94/5332">Pasquale De Meo</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="82/5887">Fabrizio Messina</author>
+<author pid="74/5741">Alessandro Provetti</author>
+<title>Computing a Score of Navigability in Large Graphs.</title>
+<year>2018</year>
+<volume>abs/1812.08012</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.08012</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-08012</url>
+</article>
+</r>
+<r><article key="journals/jasis/Zhitomirsky-Geffet17b" mdate="2020-03-02">
+<author pid="88/2690">Maayan Zhitomirsky-Geffet</author>
+<author orcid="0000-0002-8796-5248" pid="b/JudithBarIlan">Judit Bar-Ilan</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Analysis of change in users' assessment of search results over time.</title>
+<pages>1137-1148</pages>
+<year>2017</year>
+<volume>68</volume>
+<journal>J. Assoc. Inf. Sci. Technol.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/asi.23745</ee>
+<ee>https://www.wikidata.org/entity/Q57967714</ee>
+<url>db/journals/jasis/jasis68.html#Zhitomirsky-Geffet17b</url>
+</article>
+</r>
+<r><inproceedings key="conf/ida/HasanLW17" mdate="2017-10-20">
+<author pid="140/4580">Abul Hasan</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="38/2181">David J. Weston</author>
+<title>Natural Language Analysis of Online Health Forums.</title>
+<pages>125-137</pages>
+<year>2017</year>
+<booktitle>IDA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-68765-0_11</ee>
+<crossref>conf/ida/2017</crossref>
+<url>db/conf/ida/ida2017.html#HasanLW17</url>
+</inproceedings>
+</r>
+<r><article key="journals/aslib/Zhitomirsky-Geffet16" mdate="2018-11-14">
+<author pid="88/2690">Maayan Zhitomirsky-Geffet</author>
+<author orcid="0000-0002-8796-5248" pid="b/JudithBarIlan">Judit Bar-Ilan</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Testing the stability of &#34;wisdom of crowds&#34; judgments of search results over time and their similarity with the search engine rankings.</title>
+<pages>407-427</pages>
+<year>2016</year>
+<volume>68</volume>
+<journal>Aslib J. Inf. Manag.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1108/AJIM-10-2015-0165</ee>
+<ee>https://www.wikidata.org/entity/Q57967783</ee>
+<url>db/journals/aslib/aslib68.html#Zhitomirsky-Geffet16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icete/EldawLR16" mdate="2019-01-21">
+<author pid="134/3143">Muawya Habib Sarnoub Eldaw</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="55/4141">George Roussos</author>
+<title>Social-DBSCAN: A Presence Analytics Approach for Mobile Users' Social Clustering.</title>
+<pages>381-400</pages>
+<year>2016</year>
+<booktitle>ICETE (Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-67876-4_18</ee>
+<crossref>conf/icete/2016s</crossref>
+<url>db/conf/icete/icete2016.html#EldawLR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iotdcc/EldawLR16" mdate="2019-06-02">
+<author pid="134/3143">Muawya Habib Sarnoub Eldaw</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author orcid="0000-0002-7665-7303" pid="55/4141">George Roussos</author>
+<title>Presence Analytics: Discovering Meaningful Patterns about Human Presence Using WLAN Digital Imprints.</title>
+<pages>53:1-53:7</pages>
+<year>2016</year>
+<booktitle>ICC 2016</booktitle>
+<ee>https://doi.org/10.1145/2896387.2896438</ee>
+<ee>https://www.wikidata.org/entity/Q59586692</ee>
+<crossref>conf/iotdcc/2016</crossref>
+<url>db/conf/iotdcc/iotdcc2016.html#EldawLR16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/winsys/EldawLR16" mdate="2017-05-21">
+<author pid="134/3143">Muawya Habib Sarnoub Eldaw</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="55/4141">George Roussos</author>
+<title>Presence Analytics: Density-based Social Clustering for Mobile Users.</title>
+<pages>52-62</pages>
+<year>2016</year>
+<booktitle>WINSYS</booktitle>
+<ee>https://doi.org/10.5220/0005970200520062</ee>
+<crossref>conf/winsys/2016</crossref>
+<url>db/conf/winsys/winsys2016.html#EldawLR16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/HarrisLZL16" mdate="2018-08-13">
+<author pid="55/9738">Martyn Harris</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="z/DellZhang">Dell Zhang</author>
+<author pid="155/3004">Dan Levene</author>
+<title>The Anatomy of a Search and Mining System for Digital Archives.</title>
+<year>2016</year>
+<volume>abs/1603.07150</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1603.07150</ee>
+<url>db/journals/corr/corr1603.html#HarrisLZL16</url>
+</article>
+</r>
+<r><article key="journals/scientometrics/Bar-IlanL15" mdate="2018-11-14">
+<author orcid="0000-0002-8796-5248" pid="b/JudithBarIlan">Judit Bar-Ilan</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>The hw-rank: an h-index variant for ranking web pages.</title>
+<pages>2247-2253</pages>
+<year>2015</year>
+<volume>102</volume>
+<journal>Scientometrics</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11192-014-1477-2</ee>
+<ee>https://www.wikidata.org/entity/Q57967828</ee>
+<url>db/journals/scientometrics/scientometrics102.html#Bar-IlanL15</url>
+</article>
+</r>
+<r><inproceedings key="conf/asist/Zhitomirsky-Geffet15" mdate="2018-11-30">
+<author pid="88/2690">Maayan Zhitomirsky-Geffet</author>
+<author orcid="0000-0002-8796-5248" pid="b/JudithBarIlan">Judit Bar-Ilan</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>How and why do users change their assessment of search results over time?</title>
+<pages>1-4</pages>
+<year>2015</year>
+<booktitle>ASIST</booktitle>
+<ee>https://doi.org/10.1002/pra2.2015.145052010067</ee>
+<ee>https://www.wikidata.org/entity/Q57967813</ee>
+<crossref>conf/asist/2015</crossref>
+<url>db/conf/asist/asist2015.html#Zhitomirsky-Geffet15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobisys/EldawLR15" mdate="2019-06-02">
+<author pid="134/3143">Muawya Habib Sarnoub Eldaw</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author orcid="0000-0002-7665-7303" pid="55/4141">George Roussos</author>
+<title>Poster: Constructing a Unique Profile for Mobile User Identification in Location Recommendation Systems.</title>
+<pages>479</pages>
+<year>2015</year>
+<booktitle>MobiSys</booktitle>
+<ee>https://doi.org/10.1145/2742647.2745904</ee>
+<ee>https://www.wikidata.org/entity/Q59586699</ee>
+<crossref>conf/mobisys/2015</crossref>
+<url>db/conf/mobisys/mobisys2015.html#EldawLR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/websci/KingraniLZ15" mdate="2018-11-06">
+<author pid="89/11205">Suneel Kumar Kingrani</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="z/DellZhang">Dell Zhang</author>
+<title>Diversity Analysis of Web Search Results.</title>
+<pages>43:1-43:2</pages>
+<year>2015</year>
+<booktitle>WebSci</booktitle>
+<ee>https://doi.org/10.1145/2786451.2786502</ee>
+<crossref>conf/websci/2015</crossref>
+<url>db/conf/websci/websci2015.html#KingraniLZ15</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/FennerLL15" mdate="2018-08-13">
+<author pid="f/TrevorIFenner">Trevor I. Fenner</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>A stochastic evolutionary model generating a mixture of exponential distributions.</title>
+<year>2015</year>
+<volume>abs/1511.08712</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1511.08712</ee>
+<url>db/journals/corr/corr1511.html#FennerLL15</url>
+</article>
+</r>
+<r><inproceedings key="conf/ideas/AlasiryLP14" mdate="2018-11-06">
+<author pid="117/4237">Areej Alasiry</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Mining named entities from search engine query logs.</title>
+<pages>46-56</pages>
+<year>2014</year>
+<booktitle>IDEAS</booktitle>
+<ee>https://doi.org/10.1145/2628194.2628224</ee>
+<crossref>conf/ideas/2014</crossref>
+<url>db/conf/ideas/ideas2014.html#AlasiryLP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jcdl/HarrisLZL14" mdate="2017-05-21">
+<author pid="55/9738">Martyn Harris</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="z/DellZhang">Dell Zhang</author>
+<author pid="155/3004">Dan Levene</author>
+<title>The anatomy of a search and mining system for digital humanities.</title>
+<pages>165-168</pages>
+<year>2014</year>
+<booktitle>JCDL</booktitle>
+<ee>https://doi.org/10.1109/JCDL.2014.6970163</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/JCDL.2014.6970163</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2740796</ee>
+<crossref>conf/jcdl/2014</crossref>
+<url>db/conf/jcdl/jcdl2014.html#HarrisLZL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/airs/ChenZL13" mdate="2018-01-12">
+<author pid="64/5725-8">Long Chen 0008</author>
+<author pid="z/DellZhang">Dell Zhang</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Understanding and Exploiting User's Navigational Intent in Community Question Answering.</title>
+<pages>392-403</pages>
+<year>2013</year>
+<booktitle>AIRS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-45068-6_34</ee>
+<crossref>conf/airs/2013</crossref>
+<url>db/conf/airs/airs2013.html#ChenZL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/huc/EldawLR13" mdate="2019-06-02">
+<author pid="134/3143">Muawya Habib Sarnoub Eldaw</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author orcid="0000-0002-7665-7303" pid="55/4141">George Roussos</author>
+<title>Collective suffix tree-based models for location prediction.</title>
+<pages>441-450</pages>
+<year>2013</year>
+<booktitle>UbiComp (Adjunct Publication)</booktitle>
+<ee>https://doi.org/10.1145/2494091.2495976</ee>
+<ee>https://www.wikidata.org/entity/Q59586709</ee>
+<crossref>conf/huc/2013ap</crossref>
+<url>db/conf/huc/ubicomp2013ap.html#EldawLR13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ida/KlaysriFLLP13" mdate="2019-11-28">
+<author pid="136/6987">Thidawan Klaysri</author>
+<author pid="f/TrevorIFenner">Trevor I. Fenner</author>
+<author pid="06/6269">Oded Lachish</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author orcid="0000-0002-4632-4815" pid="59/3814">Panagiotis Papapetrou</author>
+<title>Analysis of Cluster Structure in Large-Scale English Wikipedia Category Networks.</title>
+<pages>261-272</pages>
+<year>2013</year>
+<booktitle>IDA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41398-8_23</ee>
+<ee>https://www.wikidata.org/entity/Q66710362</ee>
+<crossref>conf/ida/2013</crossref>
+<url>db/conf/ida/ida2013.html#KlaysriFLLP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/ChenZL13" mdate="2018-11-06">
+<author pid="64/5725-8">Long Chen 0008</author>
+<author pid="z/DellZhang">Dell Zhang</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Question retrieval with user intent.</title>
+<pages>973-976</pages>
+<year>2013</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2484028.2484129</ee>
+<crossref>conf/sigir/2013</crossref>
+<url>db/conf/sigir/sigir2013.html#ChenZL13</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1304-6945" mdate="2018-08-13">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="f/TrevorIFenner">Trevor I. Fenner</author>
+<author pid="b/JudithBarIlan">Judit Bar-Ilan</author>
+<title>A bibliometric index based on the complete list of cited publications</title>
+<ee type="oa">http://arxiv.org/abs/1304.6945</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1304.6945</volume>
+<url>db/journals/corr/corr1304.html#abs-1304-6945</url>
+</article>
+</r>
+<r><article key="journals/tciaig/FennerLL12" mdate="2019-02-05">
+<author pid="f/TrevorIFenner">Trevor I. Fenner</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>A Discrete Evolutionary Model for Chess Players' Ratings.</title>
+<pages>84-93</pages>
+<year>2012</year>
+<volume>4</volume>
+<journal>IEEE Trans. Comput. Intellig. and AI in Games</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TCIAIG.2012.2190603</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TCIAIG.2012.2190603</ee>
+<url>db/journals/tciaig/tciaig4.html#FennerLL12</url>
+</article>
+</r>
+<r><inproceedings key="conf/adma/ZhangPLML12" mdate="2019-11-28">
+<author pid="z/DellZhang">Dell Zhang</author>
+<author pid="138/8100">Karl Prior</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="05/272">Robert Mao</author>
+<author pid="138/8120">Diederik van Liere</author>
+<title>Leave or Stay: The Departure Dynamics of Wikipedia Editors.</title>
+<pages>1-14</pages>
+<year>2012</year>
+<booktitle>ADMA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-35527-1_1</ee>
+<ee>https://www.wikidata.org/entity/Q66710530</ee>
+<crossref>conf/adma/2012</crossref>
+<url>db/conf/adma/adma2012.html#ZhangPLML12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/airs/ChenZL12" mdate="2018-01-12">
+<author pid="64/5725-8">Long Chen 0008</author>
+<author pid="z/DellZhang">Dell Zhang</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Identifying Local Questions in Community Question Answering.</title>
+<pages>306-315</pages>
+<year>2012</year>
+<booktitle>AIRS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-35341-3_26</ee>
+<crossref>conf/airs/2012</crossref>
+<url>db/conf/airs/airs2012.html#ChenZL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwe/OSheaL12" mdate="2018-06-26">
+<author pid="60/9797">Martin O'Shea</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>visualRSS: A Platform to Mine and Visualise Social Data from RSS Feeds.</title>
+<pages>121-133</pages>
+<year>2012</year>
+<booktitle>ICWE Workshops</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-35623-0_13</ee>
+<crossref>conf/icwe/2012w</crossref>
+<url>db/conf/icwe/icwe2012w.html#OSheaL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/AlasiryLP12" mdate="2018-11-06">
+<author pid="117/4237">Areej Alasiry</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Detecting candidate named entities in search queries.</title>
+<pages>1049-1050</pages>
+<year>2012</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2348283.2348463</ee>
+<crossref>conf/sigir/2012</crossref>
+<url>db/conf/sigir/sigir2012.html#AlasiryLP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wikis/ZhangPL12" mdate="2019-11-28">
+<author pid="z/DellZhang">Dell Zhang</author>
+<author pid="138/8100">Karl Prior</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>How long do Wikipedia editors keep active?</title>
+<pages>4</pages>
+<year>2012</year>
+<booktitle>WikiSym</booktitle>
+<ee>https://doi.org/10.1145/2462932.2462938</ee>
+<ee>https://www.wikidata.org/entity/Q66709427</ee>
+<crossref>conf/wikis/2012</crossref>
+<url>db/conf/wikis/wikis2012.html#ZhangPL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/AlasiryLP12" mdate="2017-05-25">
+<author pid="117/4237">Areej Alasiry</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Extraction and Evaluation of Candidate Named Entities in Search Engine Queries.</title>
+<pages>483-496</pages>
+<year>2012</year>
+<booktitle>WISE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-35063-4_35</ee>
+<crossref>conf/wise/2012</crossref>
+<url>db/conf/wise/wise2012.html#AlasiryLP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/ChenZM12" mdate="2018-11-06">
+<author pid="64/5725-8">Long Chen 0008</author>
+<author pid="z/DellZhang">Dell Zhang</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Understanding user intent in community question answering.</title>
+<pages>823-828</pages>
+<year>2012</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2187980.2188206</ee>
+<crossref>conf/www/2012c</crossref>
+<url>db/conf/www/www2012c.html#ChenZM12</url>
+</inproceedings>
+</r>
+<r><article key="journals/cj/Levene11" mdate="2017-05-20">
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Search Engines: Information Retrieval in Practice.</title>
+<pages>831-832</pages>
+<year>2011</year>
+<volume>54</volume>
+<journal>Comput. J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1093/comjnl/bxq039</ee>
+<url>db/journals/cj/cj54.html#Levene11</url>
+</article>
+</r>
+<r><article key="journals/cj/Levene11a" mdate="2017-05-20">
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Chess Metaphors, Artificial Intelligence and the Human Mind.</title>
+<pages>1560</pages>
+<year>2011</year>
+<volume>54</volume>
+<journal>Comput. J.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1093/comjnl/bxq080</ee>
+<url>db/journals/cj/cj54.html#Levene11a</url>
+</article>
+</r>
+<r><article key="journals/ijaisc/LeveneF11" mdate="2017-05-26">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="f/TrevorIFenner">Trevor I. Fenner</author>
+<title>A methodology for learning players' styles from game records.</title>
+<pages>272-286</pages>
+<year>2011</year>
+<volume>2</volume>
+<journal>IJAISC</journal>
+<number>4</number>
+<ee>https://doi.org/10.1504/IJAISC.2011.042711</ee>
+<url>db/journals/ijaisc/ijaisc2.html#LeveneF11</url>
+</article>
+</r>
+<r><article key="journals/ijwis/OSheaL11" mdate="2017-05-28">
+<author pid="60/9797">Martin O'Shea</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Mining and visualising information from RSS feeds: a case study.</title>
+<pages>105-129</pages>
+<year>2011</year>
+<volume>7</volume>
+<journal>IJWIS</journal>
+<number>2</number>
+<ee>https://doi.org/10.1108/17440081111141763</ee>
+<url>db/journals/ijwis/ijwis7.html#OSheaL11</url>
+</article>
+</r>
+<r><article key="journals/oir/Bar-IlanL11" mdate="2018-11-14">
+<author orcid="0000-0002-8796-5248" pid="b/JudithBarIlan">Judit Bar-Ilan</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>A Method to Assess Search Engine Results.</title>
+<year>2011</year>
+<volume>35</volume>
+<journal>Online Information Review</journal>
+<number>6</number>
+<ee>https://doi.org/10.1108/14684521111193166</ee>
+<ee>https://www.wikidata.org/entity/Q57967945</ee>
+<url>db/journals/oir/oir35.html#Bar-IlanL11</url>
+<pages>854-868</pages>
+</article>
+</r>
+<r><proceedings key="conf/icdt/2001webdyn" mdate="2019-05-28">
+<editor pid="l/MarkLevene">Mark Levene</editor>
+<editor pid="p/APoulovassilis">Alexandra Poulovassilis</editor>
+<title>Proceedings of the First International Workshop on Web Dynamics, WebDyn@ICDT 2001, London, UK, January 3, 2001</title>
+<booktitle>WebDyn@ICDT</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>701</volume>
+<year>2011</year>
+<ee type="oa">http://ceur-ws.org/Vol-701</ee>
+<url>db/conf/icdt/webdyn2001.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/www/2002webdyn" mdate="2019-05-28">
+<editor pid="l/MarkLevene">Mark Levene</editor>
+<editor pid="p/APoulovassilis">Alexandra Poulovassilis</editor>
+<title>Proceedings of the Second International Workshop on Web Dynamics, WebDyn@WWW 2002, Honululu, HW, USA, May 7, 2002</title>
+<booktitle>WebDyn@WWW</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>702</volume>
+<year>2011</year>
+<ee type="oa">http://ceur-ws.org/Vol-702</ee>
+<url>db/conf/www/webdyn2002.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/www/2004webdyn" mdate="2019-05-28">
+<editor pid="l/MarkLevene">Mark Levene</editor>
+<editor pid="p/APoulovassilis">Alexandra Poulovassilis</editor>
+<title>Proceedings of the Third International Workshop on Web Dynamics, WebDyn@WWW 2004, New York, NY, USA, May 18, 2004</title>
+<booktitle>WebDyn@WWW</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>703</volume>
+<year>2011</year>
+<ee type="oa">http://ceur-ws.org/Vol-703</ee>
+<url>db/conf/www/webdyn2004.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1103-1530" mdate="2018-08-13">
+<author pid="f/TrevorIFenner">Trevor I. Fenner</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>A Discrete Evolutionary Model for Chess Players' Ratings</title>
+<ee type="oa">http://arxiv.org/abs/1103.1530</ee>
+<year>2011</year>
+<journal>CoRR</journal>
+<volume>abs/1103.1530</volume>
+<url>db/journals/corr/corr1103.html#abs-1103-1530</url>
+</article>
+</r>
+<r><book key="books/daglib/0025175" mdate="2011-02-04">
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>An Introduction to Search Engines and Web Navigation (2. ed.).</title>
+<pages>I-XIX, 1-478</pages>
+<publisher>Wiley</publisher>
+<year>2010</year>
+<isbn>978-0-470-52684-2</isbn>
+</book>
+</r>
+<r><article key="journals/cj/Levene10" mdate="2017-05-20">
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Rokach Lior and Maimon Oded: <i>Data Mining with Decision Trees: Theory and Applications</i> World Scientific (2008) ISBN-13 978-981-277-171-1.</title>
+<pages>489</pages>
+<year>2010</year>
+<volume>53</volume>
+<journal>Comput. J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1093/comjnl/bxn066</ee>
+<url>db/journals/cj/cj53.html#Levene10</url>
+</article>
+</r>
+<r><article key="journals/cj/Levene10a" mdate="2017-05-20">
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Social Networks: An Introduction.</title>
+<pages>1129</pages>
+<year>2010</year>
+<volume>53</volume>
+<journal>Comput. J.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1093/comjnl/bxp069</ee>
+<url>db/journals/cj/cj53.html#Levene10a</url>
+</article>
+</r>
+<r><article key="journals/ijitdm/BorgesL10" mdate="2017-06-06">
+<author orcid="0000-0001-9946-5614" pid="196/0896">Jos&#233; Luis Cabral de Moura Borges</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>A Comparison of Scoring Metrics for Predicting the Next Navigation Step with Markov Model-Based Systems.</title>
+<pages>547-573</pages>
+<year>2010</year>
+<volume>9</volume>
+<journal>International Journal of Information Technology and Decision Making</journal>
+<number>4</number>
+<ee>https://doi.org/10.1142/S0219622010003956</ee>
+<url>db/journals/ijitdm/ijitdm9.html#BorgesL10</url>
+</article>
+</r>
+<r><article key="journals/scientometrics/AguilloBLP10" mdate="2018-11-14">
+<author orcid="0000-0001-8927-4873" pid="52/1793">Isidro F. Aguillo</author>
+<author orcid="0000-0002-8796-5248" pid="b/JudithBarIlan">Judit Bar-Ilan</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author orcid="0000-0001-9857-1511" pid="34/6202">Jos&#233; Luis Ortega</author>
+<title>Comparing university rankings.</title>
+<pages>243-256</pages>
+<year>2010</year>
+<volume>85</volume>
+<journal>Scientometrics</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11192-010-0190-z</ee>
+<ee>https://www.wikidata.org/entity/Q57607543</ee>
+<url>db/journals/scientometrics/scientometrics85.html#AguilloBLP10</url>
+</article>
+</r>
+<r><inproceedings key="conf/ic3k/ZhuLC10" mdate="2011-10-27">
+<author pid="29/4319">Zheng Zhu</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="c/IngemarJCox">Ingemar J. Cox</author>
+<title>Ranking Classes of Search Engine Results.</title>
+<pages>294-301</pages>
+<year>2010</year>
+<booktitle>KDIR</booktitle>
+<crossref>conf/ic3k/2010kdir</crossref>
+<url>db/conf/ic3k/kdir2010.html#ZhuLC10</url>
+</inproceedings>
+</r>
+<r><article key="journals/aamas/FerrantiTL09" mdate="2017-05-20">
+<author pid="97/3588">Ettore Ferranti</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Rapid exploration of unknown areas through dynamic deployment of mobile and stationary sensor nodes.</title>
+<pages>210-243</pages>
+<year>2009</year>
+<volume>19</volume>
+<journal>Autonomous Agents and Multi-Agent Systems</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10458-008-9075-4</ee>
+<url>db/journals/aamas/aamas19.html#FerrantiTL09</url>
+</article>
+</r>
+<r><article key="journals/cj/MirkinL09" mdate="2017-06-05">
+<author orcid="0000-0001-5470-8635" pid="m/BorisMirkin">Boris G. Mirkin</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Special Issue on Profiling Expertise and Behaviour.</title>
+<pages>727-728</pages>
+<year>2009</year>
+<volume>52</volume>
+<journal>Comput. J.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1093/comjnl/bxp016</ee>
+<url>db/journals/cj/cj52.html#MirkinL09</url>
+</article>
+</r>
+<r><article key="journals/jasis/Bar-IlanKLY09" mdate="2020-03-02">
+<author orcid="0000-0002-8796-5248" pid="b/JudithBarIlan">Judit Bar-Ilan</author>
+<author pid="41/5459">Kevin Keenoy</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="25/3171">Eti Yaari</author>
+<title>Presentation bias is significant in determining user preference for search results - A user study.</title>
+<pages>135-149</pages>
+<year>2009</year>
+<volume>60</volume>
+<journal>J. Assoc. Inf. Sci. Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/asi.20941</ee>
+<ee>https://www.wikidata.org/entity/Q57968017</ee>
+<url>db/journals/jasis/jasis60.html#Bar-IlanKLY09</url>
+</article>
+</r>
+<r><inproceedings key="conf/asist/Bar-IlanL09" mdate="2018-11-30">
+<author orcid="0000-0002-8796-5248" pid="b/JudithBarIlan">Judit Bar-Ilan</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Users' views on country-specific search engine results.</title>
+<pages>1-12</pages>
+<year>2009</year>
+<booktitle>ASIST</booktitle>
+<ee>https://doi.org/10.1002/meet.2009.1450460246</ee>
+<ee>https://www.wikidata.org/entity/Q57968029</ee>
+<crossref>conf/asist/2009</crossref>
+<url>db/conf/asist/asist2009.html#Bar-IlanL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsdm/Bar-IlanZL09" mdate="2018-11-14">
+<author orcid="0000-0002-8796-5248" pid="b/JudithBarIlan">Judit Bar-Ilan</author>
+<author pid="29/4319">Zheng Zhu</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Topic-specific analysis of search queries.</title>
+<pages>35-42</pages>
+<year>2009</year>
+<booktitle>WSCD@WSDM</booktitle>
+<ee>https://doi.org/10.1145/1507509.1507515</ee>
+<ee>https://www.wikidata.org/entity/Q57968026</ee>
+<crossref>conf/wsdm/2009wscd</crossref>
+<url>db/conf/wsdm/wscd2009.html#Bar-IlanZL09</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/dataware/BorgesL09" mdate="2017-07-12">
+<author pid="196/0896">Jos&#233; Luis Cabral de Moura Borges</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Variable Length Markov Chains for Web Usage Mining.</title>
+<pages>2031-2035</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Data Warehousing and Mining</booktitle>
+<ee>http://www.igi-global.com/Bookstore/Chapter.aspx?TitleId=11098</ee>
+<crossref>reference/dataware/2009</crossref>
+<url>db/reference/dataware/dataware2009.html#BorgesL09</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-0904-2595" mdate="2018-08-13">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="f/TrevorIFenner">Trevor I. Fenner</author>
+<title>A Methodology for Learning Players' Styles from Game Records</title>
+<ee type="oa">http://arxiv.org/abs/0904.2595</ee>
+<year>2009</year>
+<journal>CoRR</journal>
+<volume>abs/0904.2595</volume>
+<url>db/journals/corr/corr0904.html#abs-0904-2595</url>
+</article>
+</r>
+<r><article key="journals/icga/FennerL08" mdate="2010-02-18">
+<author pid="f/TrevorIFenner">Trevor I. Fenner</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Move Generation with Perfect Hash Functions.</title>
+<pages>3-12</pages>
+<year>2008</year>
+<volume>31</volume>
+<journal>ICGA Journal</journal>
+<number>1</number>
+<url>db/journals/icga/icga31.html#FennerL08</url>
+</article>
+</r>
+<r><article key="journals/tcs/FennerLL08" mdate="2017-05-28">
+<author pid="f/TrevorIFenner">Trevor I. Fenner</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>Modelling the navigation potential of a web page.</title>
+<pages>88-96</pages>
+<year>2008</year>
+<volume>396</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-3</number>
+<ee>https://doi.org/10.1016/j.tcs.2008.01.026</ee>
+<url>db/journals/tcs/tcs396.html#FennerLL08</url>
+</article>
+</r>
+<r><inproceedings key="conf/iros/FerrantiTL08" mdate="2017-05-22">
+<author pid="97/3588">Ettore Ferranti</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>HybridExploration: A distributed approach to terrain exploration using mobile and fixed sensor nodes.</title>
+<pages>1280-1286</pages>
+<year>2008</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS.2008.4650699</ee>
+<crossref>conf/iros/2008</crossref>
+<url>db/conf/iros/iros2008.html#FerrantiTL08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nldb/ZhuCL08" mdate="2017-05-19">
+<author pid="29/4319">Zheng Zhu</author>
+<author pid="c/IngemarJCox">Ingemar J. Cox</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Ranked-Listed or Categorized Results in IR: 2 Is Better Than 1.</title>
+<pages>111-123</pages>
+<year>2008</year>
+<booktitle>NLDB</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-69858-6_12</ee>
+<crossref>conf/nldb/2008</crossref>
+<url>db/conf/nldb/nldb2008.html#ZhuCL08</url>
+</inproceedings>
+</r>
+<r><article key="journals/cj/Levene07" mdate="2017-05-20">
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Artificial Intelligence for Games. Series in Interactive 3D Technology.</title>
+<pages>371</pages>
+<year>2007</year>
+<volume>50</volume>
+<journal>Comput. J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1093/comjnl/bxl071</ee>
+<url>db/journals/cj/cj50.html#Levene07</url>
+</article>
+</r>
+<r><article key="journals/cj/LeveneB07" mdate="2018-11-14">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author orcid="0000-0002-8796-5248" pid="b/JudithBarIlan">Judit Bar-Ilan</author>
+<title>Comparing Typical Opening Move Choices Made by Humans and Chess Engines.</title>
+<pages>567-573</pages>
+<year>2007</year>
+<volume>50</volume>
+<journal>Comput. J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1093/comjnl/bxm025</ee>
+<ee>https://www.wikidata.org/entity/Q57968050</ee>
+<url>db/journals/cj/cj50.html#LeveneB07</url>
+</article>
+</r>
+<r><article key="journals/cn/FennerLLR07" mdate="2020-02-19">
+<author pid="f/TrevorIFenner">Trevor I. Fenner</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<author orcid="0000-0002-7665-7303" pid="55/4141">George Roussos</author>
+<title>A stochastic evolutionary growth model for social networks.</title>
+<pages>4586-4595</pages>
+<year>2007</year>
+<volume>51</volume>
+<journal>Comput. Networks</journal>
+<number>16</number>
+<ee>https://doi.org/10.1016/j.comnet.2007.06.013</ee>
+<ee>https://www.wikidata.org/entity/Q59586765</ee>
+<url>db/journals/cn/cn51.html#FennerLLR07</url>
+</article>
+</r>
+<r><article key="journals/dsonline/AdamczykHCBTOHLSKLSKNAMARPL07" mdate="2019-06-02">
+<author pid="91/6165">Piotr D. Adamczyk</author>
+<author pid="17/3711">Kevin Hamilton</author>
+<author orcid="0000-0002-2122-8077" pid="10/1090">Alan Chamberlain</author>
+<author pid="b/SteveBenford">Steve Benford</author>
+<author pid="60/2816">Nick Tandavanitj</author>
+<author pid="89/1966">Amanda Oldroyd</author>
+<author pid="07/7605">Kate Hartman</author>
+<author pid="92/7604">Kati London</author>
+<author pid="03/7605">Sai Sriskandarajah</author>
+<author orcid="0000-0002-1720-0661" pid="60/3411">Eiman Kanjo</author>
+<author pid="32/7419">Peter Landshoff</author>
+<author pid="46/2349">Kaoru Sezaki</author>
+<author pid="k/ShinichiKonomi">Shin'ichi Konomi</author>
+<author orcid="0000-0002-2259-6824" pid="90/7604">Muaz A. Niazi</author>
+<author pid="94/4057">Hafiz Farooq Ahmad</author>
+<author pid="46/7428">Fauzan Mirza</author>
+<author pid="56/6">Arshad Ali</author>
+<author orcid="0000-0002-7665-7303" pid="55/4141">George Roussos</author>
+<author pid="53/3625">Dikaios Papadogkonas</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Urban Computing and Mobile Devices.</title>
+<year>2007</year>
+<volume>8</volume>
+<journal>IEEE Distributed Systems Online</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/MDSO.2007.46</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MDSO.2007.46</ee>
+<ee>https://www.wikidata.org/entity/Q59559451</ee>
+<url>db/journals/dsonline/dsonline8.html#AdamczykHCBTOHLSKLSKNAMARPL07</url>
+</article>
+</r>
+<r><article key="journals/jasis/Bar-IlanKYL07" mdate="2020-03-02">
+<author orcid="0000-0002-8796-5248" pid="b/JudithBarIlan">Judit Bar-Ilan</author>
+<author pid="41/5459">Kevin Keenoy</author>
+<author pid="25/3171">Eti Yaari</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>User rankings of search engine results.</title>
+<pages>1254-1266</pages>
+<year>2007</year>
+<volume>58</volume>
+<journal>J. Assoc. Inf. Sci. Technol.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1002/asi.20608</ee>
+<ee>https://www.wikidata.org/entity/Q57968067</ee>
+<url>db/journals/jasis/jasis58.html#Bar-IlanKYL07</url>
+</article>
+</r>
+<r><article key="journals/joi/Bar-IlanLL07" mdate="2018-11-14">
+<author orcid="0000-0002-8796-5248" pid="b/JudithBarIlan">Judit Bar-Ilan</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="44/7259">Ayelet Lin</author>
+<title>Some measures for comparing citation databases.</title>
+<pages>26-34</pages>
+<year>2007</year>
+<volume>1</volume>
+<journal>J. Informetrics</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.joi.2006.08.001</ee>
+<ee>https://www.wikidata.org/entity/Q57968062</ee>
+<url>db/journals/joi/joi1.html#Bar-IlanLL07</url>
+</article>
+</r>
+<r><article key="journals/socnet/FennerLL07" mdate="2020-02-24">
+<author pid="f/TrevorIFenner">Trevor I. Fenner</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>A model for collaboration networks giving rise to a power-law distribution with an exponential cutoff.</title>
+<pages>70-80</pages>
+<year>2007</year>
+<volume>29</volume>
+<journal>Soc. Networks</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.socnet.2005.12.003</ee>
+<url>db/journals/socnet/socnet29.html#FennerLL07</url>
+</article>
+</r>
+<r><article key="journals/soco/BorgesL07" mdate="2017-06-08">
+<author orcid="0000-0001-9946-5614" pid="196/0896">Jos&#233; Luis Cabral de Moura Borges</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Testing the Predictive Power of Variable History Web Usage.</title>
+<pages>717-727</pages>
+<year>2007</year>
+<volume>11</volume>
+<journal>Soft Comput.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1007/s00500-006-0115-1</ee>
+<url>db/journals/soco/soco11.html#BorgesL07</url>
+</article>
+</r>
+<r><article key="journals/tkde/BorgesL07" mdate="2017-06-08">
+<author orcid="0000-0001-9946-5614" pid="196/0896">Jos&#233; Luis Cabral de Moura Borges</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Evaluating Variable-Length Markov Chain Models for Analysis of User Web Navigation Sessions.</title>
+<pages>441-452</pages>
+<year>2007</year>
+<volume>19</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TKDE.2007.1012</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TKDE.2007.1012</ee>
+<url>db/journals/tkde/tkde19.html#BorgesL07</url>
+</article>
+</r>
+<r><inproceedings key="conf/icra/FerrantiTL07" mdate="2017-05-22">
+<author pid="97/3588">Ettore Ferranti</author>
+<author pid="t/NikiTrigoni">Niki Trigoni</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Brick &#38; Mortar: an on-line multi-agent exploration algorithm.</title>
+<pages>761-767</pages>
+<year>2007</year>
+<crossref>conf/icra/2007</crossref>
+<booktitle>ICRA</booktitle>
+<ee>https://doi.org/10.1109/ROBOT.2007.363078</ee>
+<url>db/conf/icra/icra2007.html#FerrantiTL07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/robocomm/RoussosPTALZ07" mdate="2018-11-27">
+<author pid="55/4141">George Roussos</author>
+<author pid="53/3625">Dikaios Papadogkonas</author>
+<author pid="61/9246">Jenson Taylor</author>
+<author pid="23/3862">Demetrios Airantzis</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="43/2037">Michael Zoumboulakis</author>
+<title>Shared memories: a trail-based coordination server for robot teams.</title>
+<pages>35</pages>
+<year>2007</year>
+<booktitle>ROBOCOMM</booktitle>
+<ee>https://doi.org/10.4108/ICST.ROBOCOMM2007.2047</ee>
+<ee>https://dl.acm.org/citation.cfm?id=1377912</ee>
+<crossref>conf/robocomm/2007</crossref>
+<url>db/conf/robocomm/robocomm2007.html#RoussosPTALZ07</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/portal/GalitskyL07" mdate="2017-07-12">
+<author pid="137/3611">Boris A. Galitsky</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Providing Rating Services and Subscriptions with Web Portal Infrastructures.</title>
+<pages>855-862</pages>
+<year>2007</year>
+<booktitle>Encyclopedia of Portal Technologies and Applications</booktitle>
+<ee>http://www.igi-global.com/Bookstore/Chapter.aspx?TitleId=17976</ee>
+<crossref>reference/portal/2007</crossref>
+<url>db/reference/portal/portal2007.html#GalitskyL07</url>
+</incollection>
+</r>
+<r><article key="journals/cn/LeveneP06" mdate="2020-02-19">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Special issue on Web dynamics.</title>
+<pages>1425-1429</pages>
+<year>2006</year>
+<volume>50</volume>
+<journal>Comput. Networks</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/j.comnet.2005.10.023</ee>
+<url>db/journals/cn/cn50.html#LeveneP06</url>
+</article>
+</r>
+<r><article key="journals/cn/Bar-IlanML06" mdate="2020-02-19">
+<author orcid="0000-0002-8796-5248" pid="b/JudithBarIlan">Judit Bar-Ilan</author>
+<author pid="48/3013">Mazlita Mat-Hassan</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Methods for comparing rankings of search engine results.</title>
+<pages>1448-1463</pages>
+<year>2006</year>
+<volume>50</volume>
+<journal>Comput. Networks</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/j.comnet.2005.10.020</ee>
+<ee>https://www.wikidata.org/entity/Q57968080</ee>
+<url>db/journals/cn/cn50.html#Bar-IlanML06</url>
+</article>
+</r>
+<r><article key="journals/jd/Bar-IlanLM06" mdate="2018-11-14">
+<author orcid="0000-0002-8796-5248" pid="b/JudithBarIlan">Judit Bar-Ilan</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="48/3013">Mazlita Mat-Hassan</author>
+<title>Methods for evaluating dynamic changes in search engine rankings: a case study.</title>
+<pages>708-729</pages>
+<year>2006</year>
+<volume>62</volume>
+<journal>Journal of Documentation</journal>
+<number>6</number>
+<ee>https://doi.org/10.1108/00220410610714930</ee>
+<ee>https://www.wikidata.org/entity/Q57968082</ee>
+<url>db/journals/jd/jd62.html#Bar-IlanLM06</url>
+</article>
+</r>
+<r><article key="journals/kais/NgLWL06" mdate="2017-05-28">
+<author pid="n/WilfredNg">Wilfred Ng</author>
+<author pid="50/1892">Wai Yeung Lam</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>XCQ: A queriable XML compression system.</title>
+<pages>421-452</pages>
+<year>2006</year>
+<volume>10</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10115-006-0012-z</ee>
+<url>db/journals/kais/kais10.html#NgLWL06</url>
+</article>
+</r>
+<r><article key="journals/ml/PampapathiML06" mdate="2020-03-02">
+<author pid="73/507">Rajesh Mysore Pampapathi</author>
+<author orcid="0000-0001-5470-8635" pid="m/BorisMirkin">Boris G. Mirkin</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>A suffix tree approach to anti-spam email filtering.</title>
+<pages>309-338</pages>
+<year>2006</year>
+<volume>65</volume>
+<journal>Mach. Learn.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10994-006-9505-y</ee>
+<url>db/journals/ml/ml65.html#PampapathiML06</url>
+</article>
+</r>
+<r><article key="journals/toit/FennerLL06" mdate="2018-11-06">
+<author pid="f/TrevorIFenner">Trevor I. Fenner</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>A stochastic model for the evolution of the Web allowing link deletion.</title>
+<pages>117-130</pages>
+<year>2006</year>
+<volume>6</volume>
+<journal>ACM Trans. Internet Techn.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/1149121.1149122</ee>
+<url>db/journals/toit/toit6.html#FennerLL06</url>
+</article>
+</r>
+<r><article key="journals/www/BorgesL06" mdate="2017-06-09">
+<author orcid="0000-0001-9946-5614" pid="196/0896">Jos&#233; Luis Cabral de Moura Borges</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Ranking Pages by Topology and Popularity within Web Sites.</title>
+<pages>301-316</pages>
+<year>2006</year>
+<volume>9</volume>
+<journal>World Wide Web</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11280-006-8558-y</ee>
+<url>db/journals/www/www9.html#BorgesL06</url>
+</article>
+</r>
+<r><inproceedings key="conf/spire/HurtadoL06" mdate="2017-05-24">
+<author pid="43/1720">Carlos A. Hurtado</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Discovering Context-Topic Rules in Search Engine Logs.</title>
+<pages>346-353</pages>
+<year>2006</year>
+<crossref>conf/spire/2006</crossref>
+<booktitle>SPIRE</booktitle>
+<ee>https://doi.org/10.1007/11880561_29</ee>
+<url>db/conf/spire/spire2006.html#HurtadoL06</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0606115" mdate="2018-08-13">
+<author pid="196/0896">Jos&#233; Luis Cabral de Moura Borges</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Evaluating Variable Length Markov Chain Models for Analysis of User Web Navigation Sessions</title>
+<ee type="oa">http://arxiv.org/abs/cs/0606115</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0606115</volume>
+<url>db/journals/corr/corr0606.html#abs-cs-0606115</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0610060" mdate="2018-08-13">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="b/JudithBarIlan">Judit Bar-Ilan</author>
+<title>Comparing Typical Opening Move Choices Made by Humans and Chess Engines</title>
+<ee type="oa">http://arxiv.org/abs/cs/0610060</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0610060</volume>
+<url>db/journals/corr/corr0610.html#abs-cs-0610060</url>
+</article>
+</r>
+<r><article key="journals/icga/LeveneB05" mdate="2008-02-19">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="b/JudithBarIlan">Judit Bar-Ilan</author>
+<title>Comparing Move Choices of Chess Search Engines.</title>
+<pages>67-76</pages>
+<year>2005</year>
+<volume>28</volume>
+<journal>ICGA Journal</journal>
+<number>2</number>
+<url>db/journals/icga/icga28.html#LeveneB05</url>
+</article>
+</r>
+<r><article key="journals/jasis/Mat-HassanL05" mdate="2020-03-02">
+<author pid="48/3013">Mazlita Mat-Hassan</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Associating search and navigation behavior through log analysis.</title>
+<pages>913-934</pages>
+<year>2005</year>
+<volume>56</volume>
+<journal>J. Assoc. Inf. Sci. Technol.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1002/asi.20185</ee>
+<url>db/journals/jasis/jasis56.html#Mat-HassanL05</url>
+</article>
+</r>
+<r><article key="journals/jasss/GalitskyL05" mdate="2019-05-23">
+<author pid="137/3611">Boris A. Galitsky</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Simulating the Conflict Between Reputation and Profitability for Online Rating Portals.</title>
+<year>2005</year>
+<volume>8</volume>
+<journal>J. Artificial Societies and Social Simulation</journal>
+<number>2</number>
+<ee type="oa">http://jasss.soc.surrey.ac.uk/8/2/6.html</ee>
+<url>db/journals/jasss/jasss8.html#GalitskyL05</url>
+</article>
+</r>
+<r><inproceedings key="conf/pkdd/BorgesL05" mdate="2018-06-26">
+<author orcid="0000-0001-9946-5614" pid="196/0896">Jos&#233; Luis Cabral de Moura Borges</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Generating Dynamic Higher-Order Markov Models in Web Usage Mining.</title>
+<pages>34-45</pages>
+<year>2005</year>
+<crossref>conf/pkdd/2005</crossref>
+<booktitle>PKDD</booktitle>
+<ee type="oa">https://doi.org/10.1007/11564126_9</ee>
+<url>db/conf/pkdd/pkdd2005.html#BorgesL05</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0503030" mdate="2018-08-13">
+<author pid="73/507">Rajesh Mysore Pampapathi</author>
+<author pid="m/BorisMirkin">Boris G. Mirkin</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>A Suffix Tree Approach to Email Filtering</title>
+<ee type="oa">http://arxiv.org/abs/cs/0503030</ee>
+<year>2005</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0503030</volume>
+<url>db/journals/corr/corr0503.html#abs-cs-0503030</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0505039" mdate="2018-08-13">
+<author pid="b/JudithBarIlan">Judit Bar-Ilan</author>
+<author pid="48/3013">Mazlita Mat-Hassan</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Methods for comparing rankings of search engine results</title>
+<ee type="oa">http://arxiv.org/abs/cs/0505039</ee>
+<year>2005</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0505039</volume>
+<url>db/journals/corr/corr0505.html#abs-cs-0505039</url>
+</article>
+</r>
+<r><article key="journals/firstmonday/GalitskyL04" mdate="2019-07-01">
+<author pid="137/3611">Boris A. Galitsky</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>On the economy of Web links: Simulating the exchange process.</title>
+<year>2004</year>
+<volume>9</volume>
+<journal>First Monday</journal>
+<number>1</number>
+<ee type="oa">https://firstmonday.org/ojs/index.php/fm/article/view/1109</ee>
+<url>db/journals/firstmonday/firstmonday9.html#GalitskyL04</url>
+</article>
+</r>
+<r><article key="journals/ijitdm/BorgesL04" mdate="2017-06-14">
+<author orcid="0000-0001-9946-5614" pid="196/0896">Jos&#233; Luis Cabral de Moura Borges</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>An Average Linear Time Algorithm For Web Usage Mining.</title>
+<pages>307-319</pages>
+<year>2004</year>
+<volume>3</volume>
+<journal>International Journal of Information Technology and Decision Making</journal>
+<number>2</number>
+<ee>https://doi.org/10.1142/S0219622004001021</ee>
+<url>db/journals/ijitdm/ijitdm3.html#BorgesL04</url>
+</article>
+</r>
+<r><article key="journals/sigmod/LeveneP04" mdate="2020-03-06">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Report on the 3rd Web Dynamics Workshop, at WWW'2004.</title>
+<pages>91-95</pages>
+<year>2004</year>
+<volume>33</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1031570.1031591</ee>
+<url>db/journals/sigmod/sigmod33.html#LeveneP04</url>
+</article>
+</r>
+<r><inproceedings key="conf/bncod/WheeldonLK04" mdate="2017-05-24">
+<author pid="74/5055">Richard Wheeldon</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="41/5459">Kevin Keenoy</author>
+<title>DbSurfer: A Search and Navigation Tool for Relational Databases.</title>
+<pages>144-149</pages>
+<ee>https://doi.org/10.1007/978-3-540-27811-5_14</ee>
+<year>2004</year>
+<crossref>conf/bncod/2004</crossref>
+<booktitle>BNCOD</booktitle>
+<url>db/conf/bncod/bncod2004.html#WheeldonLK04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iadis/FreitasL04" mdate="2006-11-07">
+<author pid="30/1126">Sara Freitas</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>An Investigation of the Use of Simulations and Video Gaming for Supporting Exploratory Learning and Developing Higher-Order Cognitive Skills.</title>
+<pages>35-42</pages>
+<year>2004</year>
+<crossref>conf/iadis/2004celda</crossref>
+<booktitle>CELDA</booktitle>
+<url>db/conf/iadis/celda2004.html#FreitasL04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/Bar-IlanLM04" mdate="2019-05-28">
+<author pid="b/JudithBarIlan">Judit Bar-Ilan</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="48/3013">Mazlita Mat-Hassan</author>
+<title>Dynamics of Search Engine Rankings - A Case Study.</title>
+<pages>3-13</pages>
+<year>2004</year>
+<booktitle>WebDyn@WWW</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-703/paper1.pdf</ee>
+<crossref>conf/www/2004webdyn</crossref>
+<url>db/conf/www/webdyn2004.html#Bar-IlanLM04</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/webDyn2004/LeveneP04" mdate="2005-01-03">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Web Dynamics - Setting the Scene.</title>
+<pages>1-18</pages>
+<year>2004</year>
+<crossref>books/sp/webDyn04</crossref>
+<booktitle>Web Dynamics</booktitle>
+<url>db/books/collections/webDyn2004.html#LeveneP04</url>
+</incollection>
+</r>
+<r><incollection key="books/sp/webDyn2004/LeveneW04" mdate="2005-01-03">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="74/5055">Richard Wheeldon</author>
+<title>Navigating the World Wide Web.</title>
+<pages>117-152</pages>
+<year>2004</year>
+<crossref>books/sp/webDyn04</crossref>
+<booktitle>Web Dynamics</booktitle>
+<url>db/books/collections/webDyn2004.html#LeveneW04</url>
+</incollection>
+</r>
+<r><book key="books/sp/webDyn04" mdate="2005-01-03">
+<editor pid="l/MarkLevene">Mark Levene</editor>
+<editor pid="p/APoulovassilis">Alexandra Poulovassilis</editor>
+<title>Web Dynamics - Adapting to Change in Content, Size, Topology and Use</title>
+<publisher>Springer</publisher>
+<year>2004</year>
+<isbn>3-540-40676-X</isbn>
+<url>db/books/collections/webDyn2004.html</url>
+</book>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0412002" mdate="2018-08-13">
+<author pid="196/0896">Jos&#233; Luis Cabral de Moura Borges</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Ranking Pages by Topology and Popularity within Web Sites</title>
+<ee type="oa">http://arxiv.org/abs/cs/0412002</ee>
+<year>2004</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0412002</volume>
+<url>db/journals/corr/corr0412.html#abs-cs-0412002</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-IR-0406032" mdate="2020-01-10">
+<author pid="196/0896">Jos&#233; Luis Cabral de Moura Borges</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>A Dynamic Clustering-Based Markov Model for Web Usage Mining</title>
+<ee type="oa">http://arxiv.org/abs/cs/0406032</ee>
+<year>2004</year>
+<journal>CoRR</journal>
+<volume>cs.IR/0406032</volume>
+<url>db/journals/corr/corr0406.html#cs-IR-0406032</url>
+</article>
+</r>
+<r><article key="journals/ijitdm/LeveneL03" mdate="2017-05-18">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>Computing the Entropy of User Navigation in the Web.</title>
+<pages>459-476</pages>
+<year>2003</year>
+<volume>2</volume>
+<journal>International Journal of Information Technology and Decision Making</journal>
+<number>3</number>
+<ee>https://doi.org/10.1142/S0219622003000768</ee>
+<url>db/journals/ijitdm/ijitdm2.html#LeveneL03</url>
+</article>
+</r>
+<r><article key="journals/is/LeveneL03" mdate="2017-05-20">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>Why is the snowflake schema a good data warehouse design?</title>
+<pages>225-240</pages>
+<year>2003</year>
+<volume>28</volume>
+<journal>Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/S0306-4379(02)00021-2</ee>
+<url>db/journals/is/is28.html#LeveneL03</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcai/KeenoyL03" mdate="2017-05-23">
+<author pid="41/5459">Kevin Keenoy</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Personalisation of Web Search.</title>
+<pages>201-228</pages>
+<year>2003</year>
+<crossref>conf/ijcai/2003itwp</crossref>
+<booktitle>ITWP</booktitle>
+<ee>https://doi.org/10.1007/11577935_11</ee>
+<url>db/conf/ijcai/itwp2003.html#KeenoyL03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/la-web/WheeldonL03" mdate="2017-05-24">
+<author pid="74/5055">Richard Wheeldon</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>The Best Trail Algorithm for Assisted Navigation of Web Sites.</title>
+<pages>166-</pages>
+<year>2003</year>
+<crossref>conf/la-web/2003</crossref>
+<booktitle>LA-WEB</booktitle>
+<ee>https://doi.org/10.1109/LAWEB.2003.1250294</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/LAWEB.2003.1250294</ee>
+<url>db/conf/la-web/la-web2003.html#WheeldonL03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/LamNWL03" mdate="2013-07-17">
+<author pid="50/1892">Wai Yeung Lam</author>
+<author pid="n/WilfredNg">Wilfred Ng</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>XCQ: XML Compression and Querying System.</title>
+<year>2003</year>
+<crossref>conf/www/2003p</crossref>
+<booktitle>WWW (Posters)</booktitle>
+<ee>http://www2003.org/cdrom/papers/poster/p059/WWW2003_Poster_59.html</ee>
+<url>db/conf/www/www2003p.html#LamNWL03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/Mat-HassanL03" mdate="2013-07-17">
+<author pid="48/3013">Mazlita Mat-Hassan</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Understanding Web Searching &#38; Navigation Patterns.</title>
+<year>2003</year>
+<crossref>conf/www/2003p</crossref>
+<booktitle>WWW (Posters)</booktitle>
+<ee>http://www2003.org/cdrom/papers/poster/p061/p61-mathassan.html</ee>
+<url>db/conf/www/www2003p.html#Mat-HassanL03</url>
+</inproceedings>
+</r>
+<r><incollection key="books/idea/siau2003/NgL03" mdate="2019-08-05">
+<author pid="n/WilfredNg">Wilfred Ng</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>The Development of Ordered SQL Packages in Peer-to-Peer Warehousing Environment.</title>
+<pages>72-103</pages>
+<year>2003</year>
+<crossref>books/idea/Siau03</crossref>
+<booktitle>Advanced Topics in Database Research, Vol. 2</booktitle>
+<url>db/books/collections/Siau2003.html#NgL03</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DB-0307073" mdate="2020-01-10">
+<author pid="74/5055">Richard Wheeldon</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="41/5459">Kevin Keenoy</author>
+<title>Search and Navigation in Relational Databases</title>
+<ee type="oa">http://arxiv.org/abs/cs/0307073</ee>
+<year>2003</year>
+<journal>CoRR</journal>
+<volume>cs.DB/0307073</volume>
+<url>db/journals/corr/corr0307.html#cs-DB-0307073</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DS-0306122" mdate="2020-01-10">
+<author pid="74/5055">Richard Wheeldon</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>The Best Trail Algorithm for Assisted Navigation of Web Sites</title>
+<ee type="oa">http://arxiv.org/abs/cs/0306122</ee>
+<year>2003</year>
+<journal>CoRR</journal>
+<volume>cs.DS/0306122</volume>
+<url>db/journals/corr/corr0306.html#cs-DS-0306122</url>
+</article>
+</r>
+<r><article key="journals/cn/LeveneP02" mdate="2020-02-19">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Web Dynamics.</title>
+<pages>221-223</pages>
+<year>2002</year>
+<volume>39</volume>
+<journal>Comput. Networks</journal>
+<number>3</number>
+<url>db/journals/cn/cn39.html#LeveneP02</url>
+<ee>https://doi.org/10.1016/S1389-1286(02)00206-2</ee>
+</article>
+</r>
+<r><article key="journals/cn/LeveneFLW02" mdate="2020-02-19">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="f/TrevorIFenner">Trevor I. Fenner</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<author pid="74/5055">Richard Wheeldon</author>
+<title>A stochastic model for the evolution of the Web.</title>
+<pages>277-287</pages>
+<year>2002</year>
+<volume>39</volume>
+<journal>Comput. Networks</journal>
+<number>3</number>
+<url>db/journals/cn/cn39.html#LeveneFLW02</url>
+<ee>https://doi.org/10.1016/S1389-1286(02)00209-8</ee>
+</article>
+</r>
+<r><article key="journals/sigmod/LeveneP02" mdate="2020-03-06">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Report on the Web Dynamics Workshop at WWW 2002.</title>
+<pages>72-76</pages>
+<year>2002</year>
+<volume>31</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>http://www.acm.org/sigmod/record/issues/0209/r2.webdyn2report.pdf</ee>
+<url>db/journals/sigmod/sigmod31.html#LeveneP02</url>
+</article>
+</r>
+<r><article key="journals/tamm/LeveneL02" mdate="2013-05-16">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>Kemeny's Constant and the Random Surfer.</title>
+<pages>741-745</pages>
+<year>2002</year>
+<volume>109</volume>
+<journal>The American Mathematical Monthly</journal>
+<number>8</number>
+<ee>http://www.jstor.org/stable/3072398</ee>
+<url>db/journals/tamm/tamm109.html#LeveneL02</url>
+</article>
+</r>
+<r><inproceedings key="conf/www/LeveneW02" mdate="2019-05-28">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>XML Structure Compression.</title>
+<pages>56-69</pages>
+<year>2002</year>
+<booktitle>WebDyn@WWW</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-702/paper6.pdf</ee>
+<crossref>conf/www/2002webdyn</crossref>
+<url>db/conf/www/webdyn2002.html#LeveneW02</url>
+</inproceedings>
+</r>
+<r><article key="journals/ai/LeveneF01" mdate="2017-05-27">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="f/TrevorIFenner">Trevor I. Fenner</author>
+<title>The effect of mobility on minimaxing of game trees with random leaf values.</title>
+<pages>1-26</pages>
+<year>2001</year>
+<volume>130</volume>
+<journal>Artif. Intell.</journal>
+<number>1</number>
+<url>db/journals/ai/ai130.html#LeveneF01</url>
+<ee>https://doi.org/10.1016/S0004-3702(01)00072-8</ee>
+</article>
+</r>
+<r><article key="journals/firstmonday/Mat-HassanL01" mdate="2019-07-01">
+<author pid="48/3013">Mazlita Mat-Hassan</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Can Navigational Assistance Improve Search Experience? A User Study.</title>
+<year>2001</year>
+<volume>6</volume>
+<journal>First Monday</journal>
+<number>9</number>
+<ee type="oa">https://firstmonday.org/ojs/index.php/fm/article/view/883</ee>
+<url>db/journals/firstmonday/firstmonday6.html#Mat-HassanL01</url>
+</article>
+</r>
+<r><article key="journals/ita/LeveneL01" mdate="2017-05-28">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>A Generalisation of Entity and Referential Integrity in Relational Databases.</title>
+<pages>113-127</pages>
+<year>2001</year>
+<volume>35</volume>
+<journal>ITA</journal>
+<number>2</number>
+<ee>https://doi.org/10.1051/ita:2001111</ee>
+<url>db/journals/ita/ita35.html#LeveneL01</url>
+</article>
+</r>
+<r><article key="journals/jdm/NgL01" mdate="2017-05-20">
+<author pid="n/WilfredNg">Wilfred Ng</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>The Development of Ordered SQL Packages to Support Data Warehousing.</title>
+<pages>26-39</pages>
+<year>2001</year>
+<volume>12</volume>
+<journal>J. Database Manag.</journal>
+<number>4</number>
+<url>db/journals/jdm/jdm12.html#NgL01</url>
+<ee>https://doi.org/10.4018/jdm.2001100103</ee>
+</article>
+</r>
+<r><article key="journals/kais/LeveneBL01" mdate="2017-06-15">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author orcid="0000-0001-9946-5614" pid="196/0896">Jos&#233; Luis Cabral de Moura Borges</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>Zipf's Law for Web Surfers.</title>
+<pages>120-129</pages>
+<year>2001</year>
+<volume>3</volume>
+<journal>Knowl. Inf. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/PL00011657</ee>
+<url>db/journals/kais/kais3.html#LeveneBL01</url>
+</article>
+</r>
+<r><article key="journals/sofo/LeveneP01" mdate="2017-05-26">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Web dynamics.</title>
+<pages>60-67</pages>
+<year>2001</year>
+<volume>2</volume>
+<journal>Software Focus</journal>
+<number>2</number>
+<url>db/journals/sofo/sofo2.html#LeveneP01</url>
+<ee>https://doi.org/10.1002/swf.30</ee>
+</article>
+</r>
+<r><article key="journals/tcs/LeveneL01" mdate="2017-05-28">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>Guaranteeing no interaction between functional dependencies and tree-like inclusion dependencies.</title>
+<pages>683-690</pages>
+<year>2001</year>
+<volume>254</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs254.html#LeveneL01</url>
+<ee>https://doi.org/10.1016/S0304-3975(00)00394-7</ee>
+</article>
+</r>
+<r><inproceedings key="conf/icdt/LeveneWB01" mdate="2019-05-28">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="74/5055">Richard Wheeldon</author>
+<author pid="229/7593">Jon Bitmead</author>
+<title>A Web Site Navigation Engine.</title>
+<pages>4-5</pages>
+<year>2001</year>
+<booktitle>WebDyn@ICDT</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-701/paper1.pdf</ee>
+<crossref>conf/icdt/2001webdyn</crossref>
+<url>db/conf/icdt/webdyn2001.html#LeveneWB01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/LeveneW01" mdate="2013-07-17">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="74/5055">Richard Wheeldon</author>
+<title>A Web Site Navigation Engine.</title>
+<year>2001</year>
+<crossref>conf/www/2001p</crossref>
+<booktitle>WWW Posters</booktitle>
+<ee>http://www10.org/cdrom/posters/1014.pdf</ee>
+<url>db/conf/www/www2001p.html#LeveneW01</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcm/NgLF00" mdate="2017-05-28">
+<author pid="n/WilfredNg">Wilfred Ng</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="f/TrevorIFenner">Trevor I. Fenner</author>
+<title>On the expressive power of the relational algebra with partially ordered domains.</title>
+<pages>53-62</pages>
+<year>2000</year>
+<volume>74</volume>
+<journal>Int. J. Comput. Math.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1080/00207160008804922</ee>
+<url>db/journals/ijcm/ijcm74.html#NgLF00</url>
+</article>
+</r>
+<r><article key="journals/siamcomp/VincentL00" mdate="2017-05-27">
+<author pid="v/MillistWVincent">Millist W. Vincent</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Restructuring Partitioned Normal Form Relations without Information Loss.</title>
+<pages>1550-1567</pages>
+<year>2000</year>
+<volume>29</volume>
+<journal>SIAM J. Comput.</journal>
+<number>5</number>
+<url>db/journals/siamcomp/siamcomp29.html#VincentL00</url>
+<ee>https://doi.org/10.1137/S0097539797326319</ee>
+</article>
+</r>
+<r><article key="journals/sigkdd/BorgesL00" mdate="2018-11-06">
+<author orcid="0000-0001-9946-5614" pid="196/0896">Jos&#233; Luis Cabral de Moura Borges</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>A Fine Grained Heuristic to Capture Web Navigation Patterns.</title>
+<pages>40-50</pages>
+<year>2000</year>
+<volume>2</volume>
+<journal>SIGKDD Explorations</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/360402.360416</ee>
+<url>db/journals/sigkdd/sigkdd2.html#BorgesL00</url>
+</article>
+</r>
+<r><article key="journals/tkde/LeveneV00" mdate="2017-05-20">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="v/MillistWVincent">Millist W. Vincent</author>
+<title>Justification for Inclusion Dependency Normal Form.</title>
+<pages>281-291</pages>
+<year>2000</year>
+<volume>12</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/69.842267</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/69.842267</ee>
+<url>db/journals/tkde/tkde12.html#LeveneV00</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecweb/BorgesL00" mdate="2017-06-02">
+<author orcid="0000-0001-9946-5614" pid="196/0896">Jos&#233; Luis Cabral de Moura Borges</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>An Heuristic to Capture Longer User Web Navigation Patterns.</title>
+<pages>155-164</pages>
+<ee>https://doi.org/10.1007/3-540-44463-7_14</ee>
+<year>2000</year>
+<crossref>conf/ecweb/2000</crossref>
+<booktitle>EC-Web</booktitle>
+<url>db/conf/ecweb/ecweb2000.html#BorgesL00</url>
+</inproceedings>
+</r>
+<r><book key="books/daglib/0097689" mdate="2011-04-20">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>A guided tour of relational databases and beyond.</title>
+<pages>I-XIV, 1-625</pages>
+<publisher>Springer</publisher>
+<year>1999</year>
+<isbn>978-1-85233-008-8</isbn>
+</book>
+</r>
+<r><article key="journals/ipl/LeveneL99" mdate="2017-05-26">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>How to Prevent Interaction of Functional and Inclusion Dependencies.</title>
+<pages>115-125</pages>
+<year>1999</year>
+<volume>71</volume>
+<journal>Inf. Process. Lett.</journal>
+<number>3-4</number>
+<url>db/journals/ipl/ipl71.html#LeveneL99</url>
+<ee>https://doi.org/10.1016/S0020-0190(99)00095-2</ee>
+</article>
+</r>
+<r><article key="journals/isci/LeveneL99" mdate="2017-05-27">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>A Probabilistic Approach to Navigation in Hypertext.</title>
+<pages>165-186</pages>
+<year>1999</year>
+<volume>114</volume>
+<journal>Inf. Sci.</journal>
+<number>1-4</number>
+<url>db/journals/isci/isci114.html#LeveneL99</url>
+<ee>https://doi.org/10.1016/S0020-0255(98)10055-5</ee>
+</article>
+</r>
+<r><article key="journals/siamcomp/LeveneL99" mdate="2017-05-27">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>Navigation in Hypertext Is Easy Only Sometimes.</title>
+<pages>728-760</pages>
+<year>1999</year>
+<volume>29</volume>
+<journal>SIAM J. Comput.</journal>
+<number>3</number>
+<url>db/journals/siamcomp/siamcomp29.html#LeveneL99</url>
+<ee>https://doi.org/10.1137/S0097539795282730</ee>
+</article>
+</r>
+<r><article key="journals/tods/LeveneL99" mdate="2018-11-06">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>Database Design for Incomplete Relations.</title>
+<pages>80-125</pages>
+<cdrom>TODS24/P080.PDF</cdrom>
+<year>1999</year>
+<volume>24</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/310701.310712</ee>
+<url>db/journals/tods/tods24.html#LeveneL99</url>
+<cite label="Aho et al. 1979">journals/tods/AhoBU79</cite>
+<cite label="Armstrong 1974">conf/ifip/Armstrong74</cite>
+<cite label="Atzeni and Chan 1989">journals/tods/AtzeniC89</cite>
+<cite label="Atzeni and De Antonellis 1993">books/bc/AtzeniA93</cite>
+<cite label="Atzeni and Morfuni 1986">journals/iandc/AtzeniM86</cite>
+<cite label="Beeri and Bernstein 1979">journals/tods/BeeriB79</cite>
+<cite label="Beeri et al. 1983">journals/jacm/BeeriFMY83</cite>
+<cite label="Beeri and Honeyman 1981">journals/siamcomp/BeeriH81</cite>
+<cite label="Beeri and Kifer 1986">journals/tods/BeeriK86</cite>
+<cite label="Biskup et al. 1979">conf/sigmod/BiskupDB79</cite>
+<cite label="Biskup et al. 1991">...</cite>
+<cite label="Codd 1972">persons/Codd71a</cite>
+<cite label="Codd 1979">journals/tods/Codd79</cite>
+<cite label="Date 1995">books/aw/Date95</cite>
+<cite label="Date and Fagin 1992">journals/tods/DateF92</cite>
+<cite label="Demetrovics and Thi 1987">...</cite>
+<cite label="Demetrovics and Thi 1988">...</cite>
+<cite label="Gary and Johnson 1979">books/fm/GareyJ79</cite>
+<cite label="Honeyman 1980">conf/vldb/Honeyman80</cite>
+<cite label="Imielinski and Lipski 1984">journals/jacm/ImielinskiL84</cite>
+<cite label="Jou and Fischer 1982">journals/ipl/JouF82</cite>
+<cite label="Kandzia and Mangelmann 1980">journals/ipl/KandziaM80</cite>
+<cite label="Kundu 1985">conf/pods/Kundu85</cite>
+<cite label="Levene 1995">...</cite>
+<cite label="Levene and Loizou 1997">journals/acta/LeveneL97</cite>
+<cite label="Levene and Loizou 1998">...</cite>
+<cite label="Levene and Loizou 1999">...</cite>
+<cite label="Lien 1982">journals/jacm/Lien82</cite>
+<cite label="Lucchesi and Osborn 1978">journals/jcss/LucchesiO78</cite>
+<cite label="Maier 1980">journals/jacm/Maier80</cite>
+<cite label="Maier 1983">books/cs/Maier83</cite>
+<cite label="Maier et al. 1979">journals/tods/MaierMS79</cite>
+<cite label="Mannila and R&#228;ih&#228; 1983">journals/acta/MannilaR83</cite>
+<cite label="Mannila and R&#228;ih&#228; 1992">books/aw/MannilaR92</cite>
+<cite label="Nummenmaa and Thanisch 1990">conf/icdt/NummenmaaT90</cite>
+<cite label="Osborn 1979">journals/ipl/Osborn79</cite>
+<cite label="Reiter 1978">conf/adbt/Reiter77</cite>
+<cite label="Rissanen 1977">journals/tods/Rissanen77</cite>
+<cite label="Sciore 1981">conf/sigmod/Sciore81</cite>
+<cite label="Sciore 1983">conf/pods/Sciore83a</cite>
+<cite label="Thi 1986">...</cite>
+<cite label="Tsou and Fischer 1982">...</cite>
+<cite label="Ullman 1988">books/cs/Ullman88</cite>
+<cite label="Vardi 1982">conf/focs/Vardi82</cite>
+<cite label="Vardi 1984">journals/ipl/Vardi84</cite>
+<cite label="Vincent 1994">...</cite>
+<cite label="Yuan and &#214;zsoyoglu 1992">journals/jcss/YuanO92</cite>
+</article>
+</r>
+<r><inproceedings key="conf/dl/ZinL99" mdate="2012-09-18">
+<author pid="23/984">Nadav Zin</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Constructing Web Views from Automated Navigation Sessions</title>
+<pages>54-58</pages>
+<year>1999</year>
+<crossref>conf/dl/1999wows</crossref>
+<booktitle>WOWS</booktitle>
+<url>db/conf/dl/wows1999.html#ZinL99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/BorgesL99" mdate="2017-06-04">
+<author orcid="0000-0001-9946-5614" pid="196/0896">Jos&#233; Luis Cabral de Moura Borges</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Data Mining of User Navigation Patterns.</title>
+<pages>92-111</pages>
+<ee>https://doi.org/10.1007/3-540-44934-5_6</ee>
+<year>1999</year>
+<crossref>conf/kdd/1999web</crossref>
+<booktitle>WEBKDD</booktitle>
+<url>db/conf/kdd/webkdd1999.html#BorgesL99</url>
+</inproceedings>
+</r>
+<r><article key="journals/actaC/Levene98" mdate="2013-07-09">
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>On the Information Content of Semi-Structured Databases.</title>
+<pages>257-275</pages>
+<year>1998</year>
+<volume>13</volume>
+<journal>Acta Cybern.</journal>
+<number>3</number>
+<ee>http://www.inf.u-szeged.hu/actacybernetica/edb/vol13n3/Levene_1998_ActaCybernetica.xml</ee>
+<url>db/journals/actaC/actaC13.html#Levene98</url>
+</article>
+</r>
+<r><article key="journals/tcs/LeveneL98" mdate="2017-05-28">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>Axiomatisation of Functional Dependencies in Incomplete Relations.</title>
+<pages>283-300</pages>
+<year>1998</year>
+<volume>206</volume>
+<journal>Theor. Comput. Sci.</journal>
+<number>1-2</number>
+<url>db/journals/tcs/tcs206.html#LeveneL98</url>
+<ee>https://doi.org/10.1016/S0304-3975(98)80029-7</ee>
+</article>
+</r>
+<r><inproceedings key="conf/iadt/CollopyL98" mdate="2017-03-20">
+<author pid="48/4379">Ethan Collopy</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Evolving Example Relations to Satisfy Functional Dependencies.</title>
+<pages>440-447</pages>
+<year>1998</year>
+<crossref>conf/iadt/1998</crossref>
+<booktitle>IADT</booktitle>
+<url>db/conf/iadt/iadt98.html#CollopyL98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/kdd/BorgesL98" mdate="2017-03-08">
+<author pid="196/0896">Jos&#233; Luis Cabral de Moura Borges</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Mining Association Rules in Hypertext Databases.</title>
+<pages>149-153</pages>
+<year>1998</year>
+<crossref>conf/kdd/1998</crossref>
+<booktitle>KDD</booktitle>
+<url>db/conf/kdd/kdd98.html#BorgesL98</url>
+<ee>http://www.aaai.org/Library/KDD/1998/kdd98-023.php</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/CollopyL98" mdate="2017-05-22">
+<author pid="48/4379">Ethan Collopy</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Resampling in an Indefinite Database to Approximate Functional Dependencies.</title>
+<pages>291-299</pages>
+<year>1998</year>
+<crossref>conf/pkdd/1998</crossref>
+<booktitle>PKDD</booktitle>
+<url>db/conf/pkdd/pkdd98.html#CollopyL98</url>
+<ee>https://doi.org/10.1007/BFb0094831</ee>
+</inproceedings>
+</r>
+<r><article key="journals/acta/LeveneL97" mdate="2017-05-28">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>The Additivity Problem for Functional Dependencies in Incomplete Relations.</title>
+<pages>135-149</pages>
+<year>1997</year>
+<volume>34</volume>
+<journal>Acta Inf.</journal>
+<number>2</number>
+<url>db/journals/acta/acta34.html#LeveneL97</url>
+<ee>https://doi.org/10.1007/s002360050076</ee>
+</article>
+</r>
+<r><article key="journals/iandc/LeveneL97" mdate="2017-05-18">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>Null Inclusion Dependencies in Relational Databases.</title>
+<pages>67-108</pages>
+<year>1997</year>
+<volume>136</volume>
+<journal>Inf. Comput.</journal>
+<number>2</number>
+<url>db/journals/iandc/iandc136.html#LeveneL97</url>
+<ee>https://doi.org/10.1006/inco.1997.2631</ee>
+</article>
+</r>
+<r><article key="journals/icga/Levene97" mdate="2018-02-01">
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Computer Chess: A Unifying Theme.</title>
+<pages>64-65</pages>
+<year>1997</year>
+<volume>20</volume>
+<journal>ICGA Journal</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/ICG-1997-20123</ee>
+<url>db/journals/icga/icga20.html#Levene97</url>
+</article>
+</r>
+<r><inproceedings key="conf/dexa/NgL97" mdate="2017-05-23">
+<author pid="n/WilfredNg">Wilfred Ng</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>The Development of Ordered SQL Packages for Modelling Advanced Applications.</title>
+<pages>529-538</pages>
+<year>1997</year>
+<crossref>conf/dexa/1997</crossref>
+<booktitle>DEXA</booktitle>
+<url>db/conf/dexa/dexa97.html#NgL97</url>
+<ee>https://doi.org/10.1007/BFb0022061</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ideas/NgL97" mdate="2017-05-21">
+<author pid="n/WilfredNg">Wilfred Ng</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>An extension of SQL to support ordered domains in relational databases</title>
+<pages>358-367</pages>
+<year>1997</year>
+<crossref>conf/ideas/1997</crossref>
+<booktitle>IDEAS</booktitle>
+<url>db/conf/ideas/ideas97.html#NgL97</url>
+<ee>https://doi.org/10.1109/IDEAS.1997.625705</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/IDEAS.1997.625705</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ngits/NgL97" mdate="2019-08-08">
+<author pid="n/WilfredNg">Wilfred Ng</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>OSQL: An Extension to SQL to Manipulate Ordered Relational Databases.</title>
+<year>1997</year>
+<crossref>conf/ngits/1997</crossref>
+<booktitle>NGITS</booktitle>
+<url>db/conf/ngits/ngits97.html#NgL97</url>
+</inproceedings>
+</r>
+<r><article key="journals/cj/Levene96" mdate="2017-05-20">
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>Maintaining Consistency of Imprecise Relations.</title>
+<pages>114-123</pages>
+<year>1996</year>
+<volume>39</volume>
+<journal>Comput. J.</journal>
+<number>2</number>
+<url>db/journals/cj/cj39.html#Levene96</url>
+<ee>https://doi.org/10.1093/comjnl/39.2.114</ee>
+</article>
+</r>
+<r><article key="journals/fuin/LeveneL96" mdate="2017-05-20">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>Categorisation of Computable Data-Base Queries.</title>
+<pages>319-348</pages>
+<year>1996</year>
+<volume>27</volume>
+<journal>Fundam. Inform.</journal>
+<number>4</number>
+<url>db/journals/fuin/fuin27.html#LeveneL96</url>
+<ee>https://doi.org/10.3233/FI-1996-27401</ee>
+</article>
+</r>
+<r><article key="journals/actaC/Levene95" mdate="2013-07-09">
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>A Lattice View of Functional Dependencies in Incomplete Relations.</title>
+<pages>181-207</pages>
+<year>1995</year>
+<volume>12</volume>
+<journal>Acta Cybern.</journal>
+<number>2</number>
+<ee>http://www.inf.u-szeged.hu/actacybernetica/edb/vol12n2/Levene_1995_ActaCybernetica.xml</ee>
+<url>db/journals/actaC/actaC12.html#Levene95</url>
+</article>
+</r>
+<r><article key="journals/icga/LeveneF95" mdate="2018-02-02">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="f/TrevorIFenner">Trevor I. Fenner</author>
+<title>A Partial Analysis of Minimaxing Game Trees with Random Leaf Values.</title>
+<pages>20-33</pages>
+<year>1995</year>
+<volume>18</volume>
+<journal>ICGA Journal</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/ICG-1995-18103</ee>
+<url>db/journals/icga/icga18.html#LeveneF95</url>
+</article>
+</r>
+<r><article key="journals/ijcm/LeveneL95" mdate="2019-06-12">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>A Correspondence Between Variable Relations And Three-Valued Propositional Logic.</title>
+<pages>29-38</pages>
+<year>1995</year>
+<volume>55</volume>
+<journal>Int. J. Comput. Math.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1080/00207169508804360</ee>
+<url>db/journals/ijcm/ijcm55.html#LeveneL95</url>
+</article>
+</r>
+<r><article key="journals/tkde/LeveneL95" mdate="2017-05-20">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>A Graph-Based Data Model and its Ramifications.</title>
+<pages>809-823</pages>
+<year>1995</year>
+<volume>7</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>5</number>
+<url>db/journals/tkde/tkde7.html#LeveneL95</url>
+<ee>https://doi.org/10.1109/69.469818</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/69.469818</ee>
+<cdrom>TKDE7/k0809.pdf</cdrom>
+<cite>conf/sigmod/AbiteboulK89</cite>
+<cite>journals/jcss/AbiteboulV90</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/jcss/ChandraH80</cite>
+<cite>conf/pods/Chandra88</cite>
+<cite>journals/tods/Chen76</cite>
+<cite>books/sp/ClocksinM81</cite>
+<cite>conf/dood/CoburnW91</cite>
+<cite>journals/cacm/Codd70</cite>
+<cite>journals/tods/Codd79</cite>
+<cite>journals/computer/Conklin87</cite>
+<cite>conf/ht/ConsensM89</cite>
+<cite>conf/pods/ConsensM90</cite>
+<cite>conf/ht/DeRose89</cite>
+<cite>books/fm/GareyJ79</cite>
+<cite>conf/pods/GyssensPG90</cite>
+<cite>journals/cacm/Halasz88</cite>
+<cite>journals/cacm/Harel88</cite>
+<cite>conf/vldb/HullY90</cite>
+<cite>journals/jcss/HullS91</cite>
+<cite>...</cite>
+<cite>books/mit/Kim90</cite>
+<cite>conf/pods/KuperV84</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/dke/LeveneP91</cite>
+<cite>...</cite>
+<cite>journals/jacm/Lien82</cite>
+<cite>journals/tods/MaierUV84</cite>
+<cite>books/cs/NaqviT89</cite>
+<cite>...</cite>
+<cite>books/sp/ParedaensBGG89</cite>
+<cite>conf/dood/ParedaensPT91</cite>
+<cite>journals/tois/PoulovassilisL94</cite>
+<cite>conf/adbt/Reiter77</cite>
+<cite>conf/sigmod/RichardsonS91</cite>
+<cite>journals/tois/Tompa89</cite>
+<cite>journals/acr/ThomasF86</cite>
+<cite>conf/pods/Tsur91</cite>
+<cite>conf/bncod/TuvPL92</cite>
+<cite>books/cs/Ullman88</cite>
+<cite>conf/dood/Ullman91</cite>
+<cite>...</cite>
+<cite>journals/tods/Weddell92</cite>
+</article>
+</r>
+<r><inproceedings key="conf/sdb/LeveneL95" mdate="2017-05-23">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>The additivity Problem for Data Dependencies in Incomplete Relational Databases.</title>
+<pages>136-169</pages>
+<year>1995</year>
+<crossref>conf/sdb/1995</crossref>
+<booktitle>Semantics in Databases</booktitle>
+<url>db/conf/sdb/sdb95.html#LeveneL95</url>
+<ee>https://doi.org/10.1007/BFb0035008</ee>
+</inproceedings>
+</r>
+<r><article key="journals/jcss/LeveneL94" mdate="2017-05-20">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>The Nested Universal Relation Data Model.</title>
+<pages>683-717</pages>
+<year>1994</year>
+<volume>49</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>3</number>
+<url>db/journals/jcss/jcss49.html#LeveneL94</url>
+<ee>https://doi.org/10.1016/S0022-0000(05)80076-5</ee>
+</article>
+</r>
+<r><article key="journals/tois/PoulovassilisL94" mdate="2018-11-06">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>A Nested-Graph Model for the Representation and Manipulation of Complex Objects.</title>
+<pages>35-68</pages>
+<year>1994</year>
+<volume>12</volume>
+<journal>ACM Trans. Inf. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/174608.174610</ee>
+<url>db/journals/tois/tois12.html#PoulovassilisL94</url>
+</article>
+</r>
+<r><article key="journals/fuin/LeveneL93" mdate="2003-11-27">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>A Fully Precise Null Extended Nested Relational Algebra.</title>
+<pages>303-342</pages>
+<year>1993</year>
+<volume>19</volume>
+<journal>Fundam. Inform.</journal>
+<number>3/4</number>
+<url>db/journals/fuin/fuin19.html#LeveneL93</url>
+</article>
+</r>
+<r><article key="journals/iee/ChapmanFKLLLROS93" mdate="2019-05-11">
+<author pid="167/6859">Nigel Chapman</author>
+<author pid="35/2895">Maria Fox</author>
+<author pid="42/3667">Elpida Keravnou</author>
+<author pid="23/223">Matthew Lee</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="54/3768">Derek Long</author>
+<author pid="03/978">Peter Rounce</author>
+<author pid="o/RayOffen">Ray Offen</author>
+<author pid="82/3541">Paul A. Samet</author>
+<author pid="23/5637">Russel L. Winder</author>
+<title>'Slick Systems' and 'Happy Hackers': experience with group projects at UCL.</title>
+<pages>132-136</pages>
+<year>1993</year>
+<volume>8</volume>
+<journal>Software Engineering Journal</journal>
+<number>3</number>
+<ee>https://doi.org/10.1049/sej.1993.0018</ee>
+<url>db/journals/iee/iee-sej8.html#ChapmanFKLLLROS93</url>
+</article>
+</r>
+<r><article key="journals/paapp/LeveneL93" mdate="2017-05-20">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>A Modal Logic Formalism for Distributed and Parallel Knowledge Bases.</title>
+<pages>11-27</pages>
+<year>1993</year>
+<volume>1</volume>
+<journal>Parallel Algorithms Appl.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1080/10637199308915428</ee>
+<url>db/journals/paapp/paapp1.html#LeveneL93</url>
+</article>
+</r>
+<r><article key="journals/sigmod/LevenePBST93" mdate="2020-03-06">
+<ee>https://doi.org/10.1145/166635.166647</ee>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="91/37">Kerima Benkerimi</author>
+<author pid="05/2705">Sara Schwartz</author>
+<author pid="55/430">Eran Tuv</author>
+<title>Implementation of a Graph-Based Data Model for Complex Objects.</title>
+<pages>26-31</pages>
+<cdrom>sigmodR/22-4/P026.pdf</cdrom>
+<year>1993</year>
+<volume>22</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<url>db/journals/sigmod/sigmod22.html#LevenePBST93</url>
+</article>
+</r>
+<r><article key="journals/tods/LeveneL93" mdate="2018-11-06">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>Semantics for Null Extended Nested Relations.</title>
+<pages>414-459</pages>
+<year>1993</year>
+<volume>18</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<url>db/journals/tods/tods18.html#LeveneL93</url>
+<cdrom>TODS18/P414.PDF</cdrom>
+<ee>https://doi.org/10.1145/155271.155275</ee>
+<cite>journals/jcss/AbiteboulB86</cite>
+<cite>...</cite>
+<cite>conf/pods/AtzeniB87</cite>
+<cite>journals/iandc/AtzeniM86</cite>
+<cite>conf/adbt/BeeriV79</cite>
+<cite>journals/jcss/Bidoit87</cite>
+<cite>journals/tcs/BunemanJO91</cite>
+<cite>journals/tods/Codd79</cite>
+<cite>journals/sigmod/Codd86</cite>
+<cite>conf/sigmod/Colby89</cite>
+<cite>journals/tods/Delobel78</cite>
+<cite>journals/tods/FaginMU82</cite>
+<cite>journals/jacm/Fagin83</cite>
+<cite>journals/jcss/FischerSTG85</cite>
+<cite>journals/jacm/GrahamMV86</cite>
+<cite>...</cite>
+<cite>journals/jacm/GyssensPG89</cite>
+<cite>...</cite>
+<cite>journals/jacm/Honeyman82</cite>
+<cite>journals/jacm/ImielinskiL84</cite>
+<cite>conf/pods/JaeschkeS82</cite>
+<cite>journals/bit/JajodiaS90</cite>
+<cite>conf/pods/KolaitisP88</cite>
+<cite>conf/oodbs/Korth88</cite>
+<cite>journals/tcs/LeratL86</cite>
+<cite>...</cite>
+<cite>conf/nf2/LeveneL87</cite>
+<cite>journals/cj/LeveneL90</cite>
+<cite>journals/fuin/LeveneL93</cite>
+<cite>...</cite>
+<cite>conf/vldb/Lien79</cite>
+<cite>journals/jacm/Lien82</cite>
+<cite>journals/tods/Lipski79</cite>
+<cite>journals/tods/MaierMS79</cite>
+<cite>books/cs/Maier83</cite>
+<cite>journals/tods/MaierUV84</cite>
+<cite>conf/vldb/Makinouchi77</cite>
+<cite>journals/tods/Mendelzon84</cite>
+<cite>journals/ipl/MillerGKL88</cite>
+<cite>...</cite>
+<cite>journals/tods/OzsoyogluY87</cite>
+<cite>conf/nf2/OzsoyogluY87</cite>
+<cite>journals/tods/RothKS88</cite>
+<cite>journals/acta/RothKS89</cite>
+<cite>journals/tods/Sagiv83</cite>
+<cite>journals/siamcomp/Sagiv88</cite>
+<cite>journals/is/SchekS86</cite>
+<cite>...</cite>
+<cite>journals/jacm/Sciore82</cite>
+<cite>conf/pods/SteinM85</cite>
+<cite>conf/nf2/Takeda87</cite>
+<cite>journals/acr/ThomasF86</cite>
+<cite>books/cs/Ullman88</cite>
+<cite>journals/jcss/GuchtF88</cite>
+<cite>journals/jcss/Zaniolo84</cite>
+</article>
+</r>
+<r><book key="books/sp/Levene92" mdate="2019-05-14">
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>The Nested Universal Relation Database Model</title>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>595</volume>
+<publisher>Springer</publisher>
+<school>University of London, UK</school>
+<year>1992</year>
+<pages>1-177</pages>
+<isbn>3-540-55493-9</isbn>
+<ee>https://doi.org/10.1007/3-540-55493-9</ee>
+<ee>http://d-nb.info/920645194</ee>
+</book>
+</r>
+<r><article key="journals/bit/LeveneL92" mdate="2019-12-12">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>Inferring Null Join Dependencies in Relational Databases.</title>
+<pages>413-429</pages>
+<year>1992</year>
+<volume>32</volume>
+<journal>BIT</journal>
+<number>3</number>
+<url>db/journals/bit/bit32.html#LeveneL92</url>
+<ee>https://doi.org/10.1007/BF02074878</ee>
+</article>
+</r>
+<r><inproceedings key="conf/bncod/TuvPL92" mdate="2017-05-20">
+<author pid="55/430">Eran Tuv</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>A Storage Manager for the Hypernode Model.</title>
+<pages>59-77</pages>
+<year>1992</year>
+<crossref>conf/bncod/1992</crossref>
+<booktitle>BNCOD</booktitle>
+<url>db/conf/bncod/bncod92.html#TuvPL92</url>
+<ee>https://doi.org/10.1007/3-540-55693-1_32</ee>
+</inproceedings>
+</r>
+<r><article key="journals/acta/LeveneL91" mdate="2018-06-26">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>Correction to Null Values in Nested Relational Databases by Mark A. Roth, H. F. Korth, and A. Silberschatz.</title>
+<pages>603-605</pages>
+<year>1991</year>
+<volume>28</volume>
+<journal>Acta Inf.</journal>
+<number>6</number>
+<url>db/journals/acta/acta28.html#LeveneL91</url>
+<ee type="oa">https://doi.org/10.1007/BF01463948</ee>
+</article>
+</r>
+<r><article key="journals/dke/LeveneP91" mdate="2017-05-20">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>An object-oriented data model formalised through hypergraphs.</title>
+<pages>205-234</pages>
+<year>1991</year>
+<volume>6</volume>
+<journal>Data Knowl. Eng.</journal>
+<url>db/journals/dke/dke6.html#LeveneP91</url>
+<ee>https://doi.org/10.1016/0169-023X(91)90005-I</ee>
+</article>
+</r>
+<r><article key="journals/ijcm/LeveneL91" mdate="2019-05-10">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>A domain theoretic characterisation of the universal relation.</title>
+<pages>69-74</pages>
+<year>1991</year>
+<volume>40</volume>
+<journal>Int. J. Comput. Math.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1080/00207169108804002</ee>
+<url>db/journals/ijcm/ijcm40.html#LeveneL91</url>
+</article>
+</r>
+<r><article key="journals/cj/LeveneL90" mdate="2017-05-20">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>The Nested Relation Type Model: An Application of Domain Theory to Databases.</title>
+<pages>19-30</pages>
+<year>1990</year>
+<volume>33</volume>
+<journal>Comput. J.</journal>
+<number>1</number>
+<url>db/journals/cj/cj33.html#LeveneL90</url>
+<ee>https://doi.org/10.1093/comjnl/33.1.19</ee>
+</article>
+</r>
+<r><inproceedings key="conf/jcit/LeveneP90" mdate="2019-02-22">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>The hypernode model and its associated query language.</title>
+<pages>520-530</pages>
+<year>1990</year>
+<booktitle>Jerusalem Conference on Information Technology</booktitle>
+<ee>https://doi.org/10.1109/JCIT.1990.128324</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/JCIT.1990.128324</ee>
+<ee>http://dl.acm.org/citation.cfm?id=100601</ee>
+<crossref>conf/jcit/1990</crossref>
+<url>db/conf/jcit/jcit1990.html#LeveneP90</url>
+</inproceedings>
+</r>
+<r><article key="journals/is/LeveneL89" mdate="2017-05-20">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>NURQL: a nested universal relation query language.</title>
+<pages>307-316</pages>
+<year>1989</year>
+<volume>14</volume>
+<journal>Inf. Syst.</journal>
+<number>4</number>
+<url>db/journals/is/is14.html#LeveneL89</url>
+<ee>https://doi.org/10.1016/0306-4379(89)90050-1</ee>
+</article>
+</r>
+<r><inproceedings key="conf/fmldo/LeveneP89" mdate="2014-02-11">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>The Hypernode Model: A Graph-Theoretic Approach to Integrating Data and Computation.</title>
+<pages>55-77</pages>
+<year>1989</year>
+<crossref>conf/fmldo/1989</crossref>
+<booktitle>FMLDO</booktitle>
+<url>db/conf/fmldo/fmldo89.html#LeveneP89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fodo/LeveneL89" mdate="2017-05-19">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>A Domain Theoretic Approach to Incomplete Information in Nested Relational Databases.</title>
+<pages>439-456</pages>
+<year>1989</year>
+<crossref>conf/fodo/1989</crossref>
+<booktitle>FODO</booktitle>
+<url>db/conf/fodo/fodo89.html#LeveneL89</url>
+<ee>https://doi.org/10.1007/3-540-51295-0_147</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/LeveneL88" mdate="2017-05-19">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>A Universal Relation Model for Nested Relations.</title>
+<pages>294-308</pages>
+<year>1988</year>
+<crossref>conf/edbt/88</crossref>
+<booktitle>EDBT</booktitle>
+<cdrom>EDBT88/P294.pdf</cdrom>
+<url>db/conf/edbt/edbt88.html#LeveneL88</url>
+<ee>https://doi.org/10.1007/3-540-19074-0_59</ee>
+<cite label="AB">journals/jcss/AbiteboulB86</cite>
+<cite label="AP">conf/pods/AtzeniP82</cite>
+<cite label="BB">conf/vldb/BiskupB83</cite>
+<cite label="BBSK">conf/pods/BiskupBSK86</cite>
+<cite label="BFMY">journals/jacm/BeeriFMY83</cite>
+<cite label="Co">journals/tods/Codd79</cite>
+<cite label="De">journals/tods/Delobel78</cite>
+<cite label="DSG">journals/is/DesaiGS87</cite>
+<cite label="Fa1">journals/tods/Fagin77</cite>
+<cite label="Fa2">journals/jacm/Fagin83</cite>
+<cite label="FMU">journals/tods/FaginMU82</cite>
+<cite label="FV">...</cite>
+<cite label="FSTV">journals/jcss/FischerSTG85</cite>
+<cite label="Ho">journals/jacm/Honeyman82</cite>
+<cite label="Ke">journals/tods/Kent81</cite>
+<cite label="KKFGU">journals/tods/KorthKFGU84</cite>
+<cite label="KS">conf/pods/KuckS82</cite>
+<cite label="Li">conf/vldb/Lien79</cite>
+<cite label="LL1">...</cite>
+<cite label="LL2">...</cite>
+<cite label="Ma">books/cs/Maier83</cite>
+<cite label="MMS">journals/tods/MaierMS79</cite>
+<cite label="MRSSW">journals/is/MaierRSSW87</cite>
+<cite label="MRW">conf/sigmod/MaierRW83</cite>
+<cite label="MUV">journals/tods/MaierUV84</cite>
+<cite label="MW">conf/sigmod/MaierW82</cite>
+<cite label="OY1">journals/tods/OzsoyogluY87</cite>
+<cite label="OY2">conf/icde/OzsoyogluY87</cite>
+<cite label="RKS">...</cite>
+<cite label="Sa">journals/tods/Sagiv83</cite>
+<cite label="SM">conf/pods/SteinM85</cite>
+<cite label="TF">journals/acr/ThomasF86</cite>
+<cite label="Ul1">conf/pods/Ullman82</cite>
+<cite label="Ul2">books/cs/Ullman82</cite>
+<cite label="Ul3">conf/ifip/Ullman83</cite>
+<cite label="VF">conf/pods/GuchtF86</cite>
+<cite label="Za">journals/jcss/Zaniolo84</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bda/LeveneL87" mdate="2004-05-06">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>Project join constructibility for NF2 relational databases.</title>
+<pages>143-164</pages>
+<year>1987</year>
+<crossref>conf/bda/1987</crossref>
+<booktitle>BDA</booktitle>
+<url>db/conf/bda/bda1987.html#LeveneL87</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nf2/LeveneL87" mdate="2017-05-19">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<title>Gamma-Acyclic Database Schemes and Nested Relations.</title>
+<pages>313-323</pages>
+<year>1987</year>
+<crossref>conf/nf2/87</crossref>
+<booktitle>NF&#178;</booktitle>
+<url>db/conf/nf2/nf2-87.html#LeveneL87</url>
+<ee>https://doi.org/10.1007/3-540-51171-7_34</ee>
+</inproceedings>
+</r>
+<coauthors n="84" nc="5">
+<co c="0"><na f="a/Adamczyk:Piotr_D=" pid="91/6165">Piotr D. Adamczyk</na></co>
+<co c="0"><na f="a/Aguillo:Isidro_F=" pid="52/1793">Isidro F. Aguillo</na></co>
+<co c="0"><na f="a/Ahmad:Hafiz_Farooq" pid="94/4057">Hafiz Farooq Ahmad</na></co>
+<co c="0"><na f="a/Airantzis:Demetrios" pid="23/3862">Demetrios Airantzis</na></co>
+<co c="0"><na f="a/Alasiry:Areej" pid="117/4237">Areej Alasiry</na></co>
+<co c="0"><na f="a/Ali:Arshad" pid="56/6">Arshad Ali</na></co>
+<co c="0"><na f="b/Bar=Ilan:Judit" pid="b/JudithBarIlan">Judit Bar-Ilan</na></co>
+<co c="0"><na f="b/Benford:Steve" pid="b/SteveBenford">Steve Benford</na></co>
+<co c="0"><na f="b/Benkerimi:Kerima" pid="91/37">Kerima Benkerimi</na></co>
+<co c="0"><na f="b/Bitmead:Jon" pid="229/7593">Jon Bitmead</na></co>
+<co c="0"><na f="b/Borges:Jos=eacute=_Luis_Cabral_de_Moura" pid="196/0896">Jos&#233; Luis Cabral de Moura Borges</na></co>
+<co c="0"><na f="c/Chamberlain:Alan" pid="10/1090">Alan Chamberlain</na></co>
+<co c="1"><na f="c/Chapman:Nigel" pid="167/6859">Nigel Chapman</na></co>
+<co c="0"><na f="c/Chen_0008:Long" pid="64/5725-8">Long Chen 0008</na></co>
+<co c="-1"><na f="c/Collopy:Ethan" pid="48/4379">Ethan Collopy</na></co>
+<co c="0"><na f="c/Cox:Ingemar_J=" pid="c/IngemarJCox">Ingemar J. Cox</na></co>
+<co c="0"><na f="e/Eldaw:Muawya_Habib_Sarnoub" pid="134/3143">Muawya Habib Sarnoub Eldaw</na></co>
+<co c="0"><na f="f/Fenner:Trevor_I=" pid="f/TrevorIFenner">Trevor I. Fenner</na></co>
+<co c="4"><na f="f/Ferranti:Ettore" pid="97/3588">Ettore Ferranti</na></co>
+<co c="1"><na f="f/Fox:Maria" pid="35/2895">Maria Fox</na></co>
+<co c="-1"><na f="f/Freitas:Sara" pid="30/1126">Sara Freitas</na></co>
+<co c="0"><na f="g/Galitsky:Boris_A=" pid="137/3611">Boris A. Galitsky</na></co>
+<co c="0"><na f="h/Hamilton:Kevin" pid="17/3711">Kevin Hamilton</na></co>
+<co c="0"><na f="h/Harris:Martyn" pid="55/9738">Martyn Harris</na></co>
+<co c="0"><na f="h/Hartman:Kate" pid="07/7605">Kate Hartman</na></co>
+<co c="2"><na f="h/Hasan:Abul" pid="140/4580">Abul Hasan</na></co>
+<co c="0"><na f="h/Hurtado:Carlos_A=" pid="43/1720">Carlos A. Hurtado</na></co>
+<co c="0"><na f="k/Kanjo:Eiman" pid="60/3411">Eiman Kanjo</na></co>
+<co c="0"><na f="k/Keenoy:Kevin" pid="41/5459">Kevin Keenoy</na></co>
+<co c="1" n="2"><na f="k/Keravnou:Elpida_T=" pid="42/3667">Elpida T. Keravnou</na><na>Elpida Keravnou</na></co>
+<co c="0"><na f="k/Kingrani:Suneel_Kumar" pid="89/11205">Suneel Kumar Kingrani</na></co>
+<co c="0"><na f="k/Klaysri:Thidawan" pid="136/6987">Thidawan Klaysri</na></co>
+<co c="0"><na f="k/Konomi:Shin=ichi" pid="k/ShinichiKonomi">Shin'ichi Konomi</na></co>
+<co c="0"><na f="l/Lachish:Oded" pid="06/6269">Oded Lachish</na></co>
+<co c="0"><na f="l/Lam:Wai_Yeung" pid="50/1892">Wai Yeung Lam</na></co>
+<co c="0"><na f="l/Landshoff:Peter" pid="32/7419">Peter Landshoff</na></co>
+<co c="1"><na f="l/Lee:Matthew" pid="23/223">Matthew Lee</na></co>
+<co c="0"><na f="l/Levene:Dan" pid="155/3004">Dan Levene</na></co>
+<co c="0"><na f="l/Liere:Diederik_van" pid="138/8120">Diederik van Liere</na></co>
+<co c="0"><na f="l/Lin:Ayelet" pid="44/7259">Ayelet Lin</na></co>
+<co c="0"><na f="l/Loizou:George" pid="l/GeorgeLoizou">George Loizou</na></co>
+<co c="0"><na f="l/London:Kati" pid="92/7604">Kati London</na></co>
+<co c="1"><na f="l/Long:Derek" pid="54/3768">Derek Long</na></co>
+<co c="0"><na f="m/Mao:Robert" pid="05/272">Robert Mao</na></co>
+<co c="0"><na f="m/Mat=Hassan:Mazlita" pid="48/3013">Mazlita Mat-Hassan</na></co>
+<co c="3"><na f="m/Meo:Pasquale_De" pid="94/5332">Pasquale De Meo</na></co>
+<co c="3"><na f="m/Messina:Fabrizio" pid="82/5887">Fabrizio Messina</na></co>
+<co c="0"><na f="m/Mirkin:Boris_G=" pid="m/BorisMirkin">Boris G. Mirkin</na></co>
+<co c="0"><na f="m/Mirza:Fauzan" pid="46/7428">Fauzan Mirza</na></co>
+<co c="0"><na f="m/Mudinas:Andrius" pid="219/2421">Andrius Mudinas</na></co>
+<co c="0"><na f="n/Ng:Wilfred" pid="n/WilfredNg">Wilfred Ng</na></co>
+<co c="0"><na f="n/Niazi:Muaz_A=" pid="90/7604">Muaz A. Niazi</na></co>
+<co c="1"><na f="o/Offen:Ray" pid="o/RayOffen">Ray Offen</na></co>
+<co c="0"><na f="o/Oldroyd:Amanda" pid="89/1966">Amanda Oldroyd</na></co>
+<co c="0"><na f="o/Ortega:Jos=eacute=_Luis" pid="34/6202">Jos&#233; Luis Ortega</na></co>
+<co c="-1"><na f="o/O=Shea:Martin" pid="60/9797">Martin O'Shea</na></co>
+<co c="0"><na f="p/Pampapathi:Rajesh_Mysore" pid="73/507">Rajesh Mysore Pampapathi</na></co>
+<co c="0"><na f="p/Papadogkonas:Dikaios" pid="53/3625">Dikaios Papadogkonas</na></co>
+<co c="0"><na f="p/Papapetrou:Panagiotis" pid="59/3814">Panagiotis Papapetrou</na></co>
+<co c="0"><na f="p/Poulovassilis:Alexandra" pid="p/APoulovassilis">Alexandra Poulovassilis</na></co>
+<co c="0"><na f="p/Prior:Karl" pid="138/8100">Karl Prior</na></co>
+<co c="3"><na f="p/Provetti:Alessandro" pid="74/5741">Alessandro Provetti</na></co>
+<co c="1"><na f="r/Rounce:Peter" pid="03/978">Peter Rounce</na></co>
+<co c="0"><na f="r/Roussos:George" pid="55/4141">George Roussos</na></co>
+<co c="1"><na f="s/Samet:Paul_A=" pid="82/3541">Paul A. Samet</na></co>
+<co c="0"><na f="s/Schwartz:Sara" pid="05/2705">Sara Schwartz</na></co>
+<co c="0"><na f="s/Sezaki:Kaoru" pid="46/2349">Kaoru Sezaki</na></co>
+<co c="2"><na f="s/Singh:Manni" pid="259/0996">Manni Singh</na></co>
+<co c="0"><na f="s/Sriskandarajah:Sai" pid="03/7605">Sai Sriskandarajah</na></co>
+<co c="0"><na f="t/Tandavanitj:Nick" pid="60/2816">Nick Tandavanitj</na></co>
+<co c="0"><na f="t/Taylor:Jenson" pid="61/9246">Jenson Taylor</na></co>
+<co c="4" n="2"><na f="t/Trigoni:Agathoniki" pid="t/NikiTrigoni">Agathoniki Trigoni</na><na>Niki Trigoni</na></co>
+<co c="0"><na f="t/Tuv:Eran" pid="55/430">Eran Tuv</na></co>
+<co c="-1"><na f="v/Vincent:Millist_W=" pid="v/MillistWVincent">Millist W. Vincent</na></co>
+<co c="2"><na f="w/Weston:David_J=" pid="38/2181">David J. Weston</na></co>
+<co c="0"><na f="w/Wheeldon:Richard" pid="74/5055">Richard Wheeldon</na></co>
+<co c="1"><na f="w/Winder:Russel_L=" pid="23/5637">Russel L. Winder</na></co>
+<co c="0"><na f="w/Wood:Peter_T=" pid="w/PeterTWood">Peter T. Wood</na></co>
+<co c="0"><na f="y/Yaari:Eti" pid="25/3171">Eti Yaari</na></co>
+<co c="0"><na f="z/Zhang:Dell" pid="z/DellZhang">Dell Zhang</na></co>
+<co c="0"><na f="z/Zhitomirsky=Geffet:Maayan" pid="88/2690">Maayan Zhitomirsky-Geffet</na></co>
+<co c="0"><na f="z/Zhu:Zheng" pid="29/4319">Zheng Zhu</na></co>
+<co c="-1"><na f="z/Zin:Nadav" pid="23/984">Nadav Zin</na></co>
+<co c="0"><na f="z/Zoumboulakis:Michael" pid="43/2037">Michael Zoumboulakis</na></co>
+</coauthors>
+</dblpperson>
+

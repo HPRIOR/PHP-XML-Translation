@@ -1,0 +1,2474 @@
+<?xml version="1.0"?>
+<dblpperson name="Alexandra Poulovassilis" pid="p/APoulovassilis" n="152">
+<person key="homepages/p/APoulovassilis" mdate="2018-10-04">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<url>http://www.dcs.bbk.ac.uk/~ap/</url>
+<url>https://orcid.org/0000-0001-8981-4104</url>
+<note type="affiliation">Birkbeck University of London, Department of Computer Science and Information Systems</note>
+</person>
+<r><article key="journals/jocch/PoulovassilisLC20" mdate="2020-01-27">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="257/0708">Nick Larsson</author>
+<author pid="257/0216">Fiona Candlin</author>
+<author pid="257/0729">Jamie Larkin</author>
+<author pid="58/8009">Andrea Ballatore</author>
+<title>Creating a Knowledge Base to Research the History of UK Museums through Rapid Application Development.</title>
+<pages>30:1-30:27</pages>
+<year>2020</year>
+<volume>12</volume>
+<journal>JOCCH</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3343871</ee>
+<url>db/journals/jocch/jocch12.html#PoulovassilisLC20</url>
+</article>
+</r>
+<r><article key="journals/bjet/MavrikisGSP19" mdate="2019-12-19">
+<author orcid="0000-0003-0575-0823" pid="37/2363">Manolis Mavrikis</author>
+<author pid="68/6866">Eirini Geraniou</author>
+<author pid="67/4644">Sergio Guti&#233;rrez Santos</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Intelligent analysis and data visualisation for teacher assistance tools: The case of exploratory learning.</title>
+<pages>2920-2942</pages>
+<year>2019</year>
+<volume>50</volume>
+<journal>BJET</journal>
+<number>6</number>
+<ee>https://doi.org/10.1111/bjet.12876</ee>
+<url>db/journals/bjet/bjet50.html#MavrikisGSP19</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/FletcherPSW19" mdate="2020-03-06">
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="50/7441">Petra Selmer</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Approximate Querying for the Property Graph Language Cypher.</title>
+<pages>617-622</pages>
+<year>2019</year>
+<booktitle>BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData47090.2019.9005466</ee>
+<crossref>conf/bigdataconf/2019</crossref>
+<url>db/conf/bigdataconf/bigdataconf2019.html#FletcherPSW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fqas/DimartinoCPW19" mdate="2019-09-12">
+<author pid="139/1427">Mirko Michele Dimartino</author>
+<author pid="c/AndreaCali">Andrea Cal&#236;</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Efficient Ontological Query Answering by Rewriting into Graph Queries.</title>
+<pages>75-84</pages>
+<year>2019</year>
+<booktitle>FQAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-27629-4_10</ee>
+<crossref>conf/fqas/2019</crossref>
+<url>db/conf/fqas/fqas2019.html#DimartinoCPW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/McBrienP19" mdate="2019-11-07">
+<author orcid="0000-0002-2153-9625" pid="m/PeterMcBrien">Peter McBrien</author>
+<author orcid="0000-0001-8981-4104" pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>A Conceptual Modelling Approach to Visualising Linked Data.</title>
+<pages>227-245</pages>
+<year>2019</year>
+<booktitle>OTM Conferences</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-33246-4_15</ee>
+<crossref>conf/otm/2019</crossref>
+<url>db/conf/otm/otm2019.html#McBrienP19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/YakovetsWFTP18" mdate="2018-03-16">
+<author pid="92/9686">Nikolay Yakovets</author>
+<author pid="58/6810">Li Wang</author>
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<author pid="27/4461">B. Craig Taverner</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Histogram Domain Ordering for Path Selectivity Estimation.</title>
+<pages>493-496</pages>
+<year>2018</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.5441/002/edbt.2018.55</ee>
+<crossref>conf/edbt/2018</crossref>
+<url>db/conf/edbt/edbt2018.html#YakovetsWFTP18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/McBrienP18" mdate="2018-10-03">
+<author orcid="0000-0002-2153-9625" pid="m/PeterMcBrien">Peter McBrien</author>
+<author orcid="0000-0001-8981-4104" pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Towards Data Visualisation Based on Conceptual Modelling.</title>
+<pages>91-99</pages>
+<year>2018</year>
+<booktitle>ER</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-00847-5_8</ee>
+<crossref>conf/er/2018</crossref>
+<url>db/conf/er/er2018.html#McBrienP18</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/18/Poulovassilis18" mdate="2018-11-18">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Applications of Flexible Querying to Graph Data.</title>
+<pages>97-142</pages>
+<year>2018</year>
+<booktitle>Graph Data Management</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-96193-4_4</ee>
+<crossref>books/sp/FHL2018</crossref>
+<url>db/books/collections/FHL2018.html#Poulovassilis18</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Poulovassilis18" mdate="2019-02-14">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Data Integration Architectures and Methodology for the Life Sciences.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_625</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/d2.html#Poulovassilis18</url>
+</incollection>
+</r>
+<r><article key="journals/cj/ManethP17" mdate="2017-05-20">
+<author pid="m/SebastianManeth">Sebastian Maneth</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Data Science.</title>
+<pages>285-286</pages>
+<year>2017</year>
+<volume>60</volume>
+<journal>Comput. J.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1093/comjnl/bxw073</ee>
+<url>db/journals/cj/cj60.html#ManethP17</url>
+</article>
+</r>
+<r><article key="journals/semweb/FrosiniCPW17" mdate="2017-05-20">
+<author pid="116/1406">Riccardo Frosini</author>
+<author pid="c/AndreaCali">Andrea Cal&#236;</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Flexible query processing for SPARQL.</title>
+<pages>533-563</pages>
+<year>2017</year>
+<volume>8</volume>
+<journal>Semantic Web</journal>
+<number>4</number>
+<ee>https://doi.org/10.3233/SW-150206</ee>
+<url>db/journals/semweb/semweb8.html#FrosiniCPW17</url>
+</article>
+</r>
+<r><article key="journals/tetc/SantosMGP17" mdate="2017-05-17">
+<author pid="67/4644">Sergio Guti&#233;rrez Santos</author>
+<author pid="37/2363">Manolis Mavrikis</author>
+<author pid="68/6866">Eirini Geraniou</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Similarity-Based Grouping to Support Teachers on Collaborative Activities in an Exploratory Mathematical Microworld.</title>
+<pages>56-68</pages>
+<year>2017</year>
+<volume>5</volume>
+<journal>IEEE Trans. Emerging Topics Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TETC.2016.2533318</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TETC.2016.2533318</ee>
+<url>db/journals/tetc/tetc5.html#SantosMGP17</url>
+</article>
+</r>
+<r><inproceedings key="conf/edm/GrawemeyerWSHMP17" mdate="2018-05-07">
+<author pid="32/3437">Beate Grawemeyer</author>
+<author pid="178/8965">Alex Wollenschlaeger</author>
+<author pid="67/4644">Sergio Guti&#233;rrez Santos</author>
+<author pid="12/10891">Wayne Holmes</author>
+<author pid="37/2363">Manolis Mavrikis</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Using Graph-based Modelling to explore changes in students' affective states during exploratory learning tasks.</title>
+<year>2017</year>
+<booktitle>EDM</booktitle>
+<ee>http://educationaldatamining.org/EDM2017/proc_files/papers/paper_117.pdf</ee>
+<crossref>conf/edm/2017</crossref>
+<url>db/conf/edm/edm2017.html#GrawemeyerWSHMP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwe/Al-TawilDTP17" mdate="2019-09-16">
+<author pid="153/0703">Marwan Al-Tawil</author>
+<author pid="43/3552">Vania Dimitrova</author>
+<author orcid="0000-0003-4479-3500" pid="61/2159">Dhavalkumar Thakker</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Evaluating Knowledge Anchors in Data Graphs Against Basic Level Objects.</title>
+<pages>3-22</pages>
+<year>2017</year>
+<booktitle>ICWE</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-60131-1_1</ee>
+<ee>https://www.wikidata.org/entity/Q59888610</ee>
+<crossref>conf/icwe/2017</crossref>
+<url>db/conf/icwe/icwe2017.html#Al-TawilDTP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/GrawemeyerKMPP17" mdate="2019-06-02">
+<author pid="32/3437">Beate Grawemeyer</author>
+<author orcid="0000-0002-6848-9020" pid="195/3256">Konstantinos Karoudis</author>
+<author pid="m/GeorgeDMagoulas">George D. Magoulas</author>
+<author pid="04/6641">Marta Pinto</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Design and Evaluation of Adaptive Feedback to Foster ICT Information Processing Skills in Young Adults.</title>
+<pages>369-377</pages>
+<year>2017</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/3041021.3054157</ee>
+<ee>https://www.wikidata.org/entity/Q59864262</ee>
+<crossref>conf/www/2017c</crossref>
+<url>db/conf/www/www2017c.html#GrawemeyerKMPP17</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/bncod/2017" mdate="2019-05-14">
+<editor pid="c/AndreaCali">Andrea Cal&#236;</editor>
+<editor pid="w/PeterTWood">Peter T. Wood</editor>
+<editor pid="m/NigelJMartin">Nigel J. Martin 0001</editor>
+<editor pid="p/APoulovassilis">Alexandra Poulovassilis</editor>
+<title>Data Analytics - 31st British International Conference on Databases, BICOD 2017, London, UK, July 10-12, 2017, Proceedings</title>
+<booktitle>BICOD</booktitle>
+<publisher>Springer</publisher>
+<year>2017</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>10365</volume>
+<isbn>978-3-319-60794-8</isbn>
+<isbn>978-3-319-60795-5</isbn>
+<ee>https://doi.org/10.1007/978-3-319-60795-5</ee>
+<url>db/conf/bncod/bicod2017.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ws/PoulovassilisSW16" mdate="2019-01-29">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="50/7441">Petra Selmer</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Approximation and relaxation of semantic web path queries.</title>
+<pages>1-21</pages>
+<year>2016</year>
+<volume>40</volume>
+<journal>J. Web Semant.</journal>
+<ee>https://doi.org/10.1016/j.websem.2016.08.001</ee>
+<url>db/journals/ws/ws40.html#PoulovassilisSW16</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/FletcherPP16" mdate="2017-05-21">
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<author pid="177/0272">Jeroen Peters</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Efficient regular path query evaluation using path indexes.</title>
+<pages>636-639</pages>
+<year>2016</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.5441/002/edbt.2016.67</ee>
+<crossref>conf/edbt/2016</crossref>
+<url>db/conf/edbt/edbt2016.html#FletcherPP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/europar/SumrallFPSVVW16" mdate="2017-05-29">
+<author pid="200/5304">Jonathan M. Sumrall</author>
+<author pid="f/GeorgeHLFletcher">George H. L. Fletcher</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="81/6214">Johan Svensson</author>
+<author pid="89/4954">Magnus Vejlstrup</author>
+<author pid="200/5302">Chris Vest</author>
+<author pid="03/680">Jim Webber</author>
+<title>Investigations on Path Indexing for Graph Databases.</title>
+<pages>532-544</pages>
+<year>2016</year>
+<booktitle>Euro-Par Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-58943-5_43</ee>
+<crossref>conf/europar/2016w</crossref>
+<url>db/conf/europar/europar2016w.html#SumrallFPSVVW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lak/MavrikisSP16" mdate="2018-11-06">
+<author pid="37/2363">Manolis Mavrikis</author>
+<author pid="67/4644">Sergio Guti&#233;rrez Santos</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Design and evaluation of teacher assistance tools for exploratory learning environments.</title>
+<pages>168-172</pages>
+<year>2016</year>
+<booktitle>LAK</booktitle>
+<ee>https://doi.org/10.1145/2883851.2883909</ee>
+<crossref>conf/lak/2016</crossref>
+<url>db/conf/lak/lak2016.html#MavrikisSP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lak/WellsWLMP16" mdate="2018-11-06">
+<author pid="178/9016">Marc Wells</author>
+<author pid="178/8965">Alex Wollenschlaeger</author>
+<author pid="175/4874">David Lefevre</author>
+<author pid="m/GeorgeDMagoulas">George D. Magoulas</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Analysing engagement in an online management programme and implications for course design.</title>
+<pages>236-240</pages>
+<year>2016</year>
+<booktitle>LAK</booktitle>
+<ee>https://doi.org/10.1145/2883851.2883894</ee>
+<crossref>conf/lak/2016</crossref>
+<url>db/conf/lak/lak2016.html#WellsWLMP16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rr/DimartinoCPW16" mdate="2017-05-24">
+<author pid="139/1427">Mirko Michele Dimartino</author>
+<author pid="c/AndreaCali">Andrea Cal&#236;</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Query Rewriting under Linear <i>EL</i> Knowledge Bases.</title>
+<pages>61-76</pages>
+<year>2016</year>
+<booktitle>RR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-45276-0_6</ee>
+<crossref>conf/rr/2016</crossref>
+<url>db/conf/rr/rr2016.html#DimartinoCPW16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/SantosCKKP16" mdate="2018-11-06">
+<author pid="67/4644">Sergio Guti&#233;rrez Santos</author>
+<author pid="139/1409">Stefano Capuzzi</author>
+<author pid="87/551">Ken Kahn</author>
+<author pid="99/4106">Sokratis Karkalas</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Scalable Monitoring of Student Interaction Indicators in Exploratory Learning Environments.</title>
+<pages>917-922</pages>
+<year>2016</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2872518.2891075</ee>
+<crossref>conf/www/2016c</crossref>
+<url>db/conf/www/www2016c.html#SantosCKKP16</url>
+</inproceedings>
+</r>
+<r><article key="journals/informaticaLT/PoulovassilisXO15" mdate="2016-12-12">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="80/6437">Fatos Xhafa</author>
+<author pid="169/5474">Thomas O'Hagan</author>
+<title>Event-Based Awareness Services for P2P Groupware Systems.</title>
+<pages>135-157</pages>
+<year>2015</year>
+<volume>26</volume>
+<journal>Informatica, Lith. Acad. Sci.</journal>
+<number>1</number>
+<url>db/journals/informaticaLT/informaticaLT26.html#PoulovassilisXO15</url>
+<ee>http://content.iospress.com/articles/informatica/inf1046</ee>
+</article>
+</r>
+<r><article key="journals/jocch/BrownlowCHMNP15" mdate="2018-11-14">
+<author pid="142/8765">Richard Brownlow</author>
+<author pid="139/1409">Stefano Capuzzi</author>
+<author orcid="0000-0002-9666-1932" pid="h/SvenHelmer">Sven Helmer</author>
+<author pid="160/1820">Luciana Martins</author>
+<author pid="85/3819">Immanuel Normann</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>An Ontological Approach to Creating an Andean Weaving Knowledge Base.</title>
+<pages>11:1-11:31</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>JOCCH</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/2700427</ee>
+<ee>https://www.wikidata.org/entity/Q57985610</ee>
+<url>db/journals/jocch/jocch8.html#BrownlowCHMNP15</url>
+</article>
+</r>
+<r><inproceedings key="conf/bncod/DimartinoCPW15" mdate="2017-05-24">
+<author pid="139/1427">Mirko Michele Dimartino</author>
+<author pid="c/AndreaCali">Andrea Cal&#236;</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Implementing Peer-to-Peer Semantic Integration of Linked Data.</title>
+<pages>41-45</pages>
+<year>2015</year>
+<booktitle>BICOD</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-20424-6_5</ee>
+<crossref>conf/bncod/2015</crossref>
+<url>db/conf/bncod/bicod2015.html#DimartinoCPW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/Selmer15" mdate="2019-05-28">
+<author pid="50/7441">Petra Selmer</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Implementing Flexible Operators for Regular Path Queries.</title>
+<pages>149-156</pages>
+<year>2015</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1330/paper-25.pdf</ee>
+<crossref>conf/edbt/2015w</crossref>
+<url>db/conf/edbt/edbtw2015.html#Selmer15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/Dimartino15" mdate="2019-05-28">
+<author pid="139/1427">Mirko Michele Dimartino</author>
+<author pid="c/AndreaCali">Andrea Cal&#236;</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Peer-to-Peer Semantic Integration of Linked Data.</title>
+<pages>213-220</pages>
+<year>2015</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1330/paper-34.pdf</ee>
+<crossref>conf/edbt/2015w</crossref>
+<url>db/conf/edbt/edbtw2015.html#Dimartino15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edm/PoulovassilisSM15" mdate="2019-05-28">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="67/4644">Sergio Guti&#233;rrez Santos</author>
+<author pid="37/2363">Manolis Mavrikis</author>
+<title>Graph-based Modelling of Students' Interaction Data from Exploratory Learning Environments.</title>
+<year>2015</year>
+<booktitle>EDM (Workshops)</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1446/GEDM_2015_Submission_8.pdf</ee>
+<crossref>conf/edm/2015w</crossref>
+<url>db/conf/edm/edm2015w.html#PoulovassilisSM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/MavrikisZSP15" mdate="2018-11-06">
+<author pid="37/2363">Manolis Mavrikis</author>
+<author pid="29/4319">Zheng Zhu</author>
+<author pid="67/4644">Sergio Guti&#233;rrez Santos</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Visualisation and Analysis of Students' Interaction Data in Exploratory earning Environments.</title>
+<pages>1419-1424</pages>
+<year>2015</year>
+<booktitle>WWW (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/2740908.2743046</ee>
+<crossref>conf/www/2015c</crossref>
+<url>db/conf/www/www2015c.html#MavrikisZSP15</url>
+</inproceedings>
+</r>
+<r><article key="journals/jdiq/0001PW14" mdate="2018-11-06">
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="85/1466">Jianing Wang</author>
+<title>A Methodology and Architecture Embedding Quality Assessment in Data Integration.</title>
+<pages>17:1-17:40</pages>
+<year>2014</year>
+<volume>4</volume>
+<journal>J. Data and Information Quality</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2567663</ee>
+<url>db/journals/jdiq/jdiq4.html#0001PW14</url>
+</article>
+</r>
+<r><inproceedings key="conf/edbt/BrownlowP14" mdate="2019-05-28">
+<author pid="142/8765">Richard Brownlow</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Intersection Schemas as a Dataspace Integration Technique.</title>
+<pages>92-99</pages>
+<year>2014</year>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-1133/paper-15.pdf</ee>
+<crossref>conf/edbt/2014w</crossref>
+<url>db/conf/edbt/edbtw2014.html#BrownlowP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edm/MavrikisSPZ14" mdate="2016-07-22">
+<author pid="37/2363">Manolis Mavrikis</author>
+<author pid="67/4644">Sergio Guti&#233;rrez Santos</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="29/4319">Zheng Zhu</author>
+<title>Indicator Visualization for Adaptive Exploratory Learning Environments.</title>
+<pages>377-378</pages>
+<year>2014</year>
+<booktitle>EDM</booktitle>
+<ee>http://www.educationaldatamining.org/EDM2014/uploads/procs2014/posters/53_EDM-2014-Poster.pdf</ee>
+<crossref>conf/edm/2014</crossref>
+<url>db/conf/edm/edm2014.html#MavrikisSPZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edm/SantosMP14" mdate="2016-07-22">
+<author pid="67/4644">Sergio Guti&#233;rrez Santos</author>
+<author pid="37/2363">Manolis Mavrikis</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Mining students' strategies to enable collaborative learning.</title>
+<pages>397-398</pages>
+<year>2014</year>
+<booktitle>EDM</booktitle>
+<ee>http://www.educationaldatamining.org/EDM2014/uploads/procs2014/posters/73_EDM-2014-Poster.pdf</ee>
+<crossref>conf/edm/2014</crossref>
+<url>db/conf/edm/edm2014.html#SantosMP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ideas/AlasiryLP14" mdate="2018-11-06">
+<author pid="117/4237">Areej Alasiry</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Mining named entities from search engine query logs.</title>
+<pages>46-56</pages>
+<year>2014</year>
+<booktitle>IDEAS</booktitle>
+<ee>https://doi.org/10.1145/2628194.2628224</ee>
+<crossref>conf/ideas/2014</crossref>
+<url>db/conf/ideas/ideas2014.html#AlasiryLP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/CaliFPW14" mdate="2017-05-25">
+<author pid="c/AndreaCali">Andrea Cal&#236;</author>
+<author pid="116/1406">Riccardo Frosini</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Flexible Querying for SPARQL.</title>
+<pages>473-490</pages>
+<year>2014</year>
+<booktitle>OTM Conferences</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-45563-0_28</ee>
+<crossref>conf/otm/2014</crossref>
+<url>db/conf/otm/otm2014.html#CaliFPW14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/CaliFPW14a" mdate="2017-05-25">
+<author pid="c/AndreaCali">Andrea Cal&#236;</author>
+<author pid="116/1406">Riccardo Frosini</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Erratum: Flexible Querying for SPARQL.</title>
+<year>2014</year>
+<booktitle>OTM Conferences</booktitle>
+<ee>https://doi.org/10.1007/978-3-662-45563-0_52</ee>
+<crossref>conf/otm/2014</crossref>
+<url>db/conf/otm/otm2014.html#CaliFPW14a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/3pgcic/PoulovassilisX13" mdate="2017-05-25">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="80/6437">Fatos Xhafa</author>
+<title>Building Event-Based Services for Awareness in P2P Groupware Systems.</title>
+<pages>200-207</pages>
+<year>2013</year>
+<booktitle>3PGCIC</booktitle>
+<ee>https://doi.org/10.1109/3PGCIC.2013.36</ee>
+<crossref>conf/3pgcic/2013</crossref>
+<url>db/conf/3pgcic/3pgcic2013.html#PoulovassilisX13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bncod/Poulovassilis13" mdate="2017-05-24">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Database Research Challenges and Opportunities of Big Graph Data.</title>
+<pages>29-32</pages>
+<year>2013</year>
+<booktitle>BNCOD</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-39467-6_6</ee>
+<crossref>conf/bncod/2013</crossref>
+<url>db/conf/bncod/bncod2013.html#Poulovassilis13</url>
+</inproceedings>
+</r>
+<r><article key="journals/ce/NossPGSHKMM12" mdate="2020-02-22">
+<author pid="08/2396">Richard Noss</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="68/6866">Eirini Geraniou</author>
+<author pid="67/4644">Sergio Guti&#233;rrez Santos</author>
+<author pid="40/4217">Celia Hoyles</author>
+<author pid="87/551">Ken Kahn</author>
+<author orcid="0000-0003-1884-0772" pid="m/GeorgeDMagoulas">George D. Magoulas</author>
+<author pid="37/2363">Manolis Mavrikis</author>
+<title>The design of a system to support exploratory learning of algebraic generalisation.</title>
+<pages>63-81</pages>
+<year>2012</year>
+<volume>59</volume>
+<journal>Comput. Educ.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1016/j.compedu.2011.09.021</ee>
+<url>db/journals/ce/ce59.html#NossPGSHKMM12</url>
+</article>
+</r>
+<r><article key="journals/tlt/PoulovassilisSW12" mdate="2017-05-28">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="50/7441">Petra Selmer</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Flexible Querying of Lifelong Learner Metadata.</title>
+<pages>117-129</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>TLT</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TLT.2011.38</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TLT.2011.38</ee>
+<url>db/journals/tlt/tlt5.html#PoulovassilisSW12</url>
+</article>
+</r>
+<r><article key="journals/tlt/SantosGPP12" mdate="2017-05-28">
+<author pid="67/4644">Sergio Guti&#233;rrez Santos</author>
+<author pid="68/6866">Eirini Geraniou</author>
+<author pid="23/182">Darren Pearce-Lazard</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Design of Teacher Assistance Tools in an Exploratory Learning Environment for Algebraic Generalization.</title>
+<pages>366-376</pages>
+<year>2012</year>
+<volume>5</volume>
+<journal>TLT</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TLT.2012.19</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TLT.2012.19</ee>
+<url>db/journals/tlt/tlt5.html#SantosGPP12</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigir/AlasiryLP12" mdate="2018-11-06">
+<author pid="117/4237">Areej Alasiry</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Detecting candidate named entities in search queries.</title>
+<pages>1049-1050</pages>
+<year>2012</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/2348283.2348463</ee>
+<crossref>conf/sigir/2012</crossref>
+<url>db/conf/sigir/sigir2012.html#AlasiryLP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/AlasiryLP12" mdate="2017-05-25">
+<author pid="117/4237">Areej Alasiry</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Extraction and Evaluation of Candidate Named Entities in Search Engine Queries.</title>
+<pages>483-496</pages>
+<year>2012</year>
+<booktitle>WISE</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-35063-4_35</ee>
+<crossref>conf/wise/2012</crossref>
+<url>db/conf/wise/wise2012.html#AlasiryLP12</url>
+</inproceedings>
+</r>
+<r><article key="journals/jcss/PapamarkosPW11" mdate="2017-05-20">
+<author pid="70/7009">George Papamarkos</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Performance modelling of Event-Condition-Action rules in P2P networks.</title>
+<pages>621-636</pages>
+<year>2011</year>
+<volume>77</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1016/j.jcss.2010.02.004</ee>
+<url>db/journals/jcss/jcss77.html#PapamarkosPW11</url>
+</article>
+</r>
+<r><inproceedings key="conf/bir/WangMP11" mdate="2017-05-25">
+<author pid="85/1466">Jianing Wang</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>An Ontology-Based Quality Framework for Data Integration.</title>
+<pages>196-208</pages>
+<year>2011</year>
+<booktitle>BIR Workshops</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-29231-6_16</ee>
+<crossref>conf/bir/2011w</crossref>
+<url>db/conf/bir/bir2011w.html#WangMP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eidwt/XhafaP11" mdate="2019-06-02">
+<author orcid="0000-0001-6569-5497" pid="80/6437">Fatos Xhafa</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Awareness in P2P Groupware Systems: A Convergence of Contextual Computing, Social Media and Semantic Web.</title>
+<pages>14-21</pages>
+<year>2011</year>
+<crossref>conf/eidwt/2011</crossref>
+<booktitle>EIDWT</booktitle>
+<ee>https://doi.org/10.1109/EIDWT.2011.42</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/EIDWT.2011.42</ee>
+<ee>https://www.wikidata.org/entity/Q61736438</ee>
+<url>db/conf/eidwt/eidwt2011.html#XhafaP11</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/icdt/2001webdyn" mdate="2019-05-28">
+<editor pid="l/MarkLevene">Mark Levene</editor>
+<editor pid="p/APoulovassilis">Alexandra Poulovassilis</editor>
+<title>Proceedings of the First International Workshop on Web Dynamics, WebDyn@ICDT 2001, London, UK, January 3, 2001</title>
+<booktitle>WebDyn@ICDT</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>701</volume>
+<year>2011</year>
+<ee type="oa">http://ceur-ws.org/Vol-701</ee>
+<url>db/conf/icdt/webdyn2001.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/www/2002webdyn" mdate="2019-05-28">
+<editor pid="l/MarkLevene">Mark Levene</editor>
+<editor pid="p/APoulovassilis">Alexandra Poulovassilis</editor>
+<title>Proceedings of the Second International Workshop on Web Dynamics, WebDyn@WWW 2002, Honululu, HW, USA, May 7, 2002</title>
+<booktitle>WebDyn@WWW</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>702</volume>
+<year>2011</year>
+<ee type="oa">http://ceur-ws.org/Vol-702</ee>
+<url>db/conf/www/webdyn2002.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/www/2004webdyn" mdate="2019-05-28">
+<editor pid="l/MarkLevene">Mark Levene</editor>
+<editor pid="p/APoulovassilis">Alexandra Poulovassilis</editor>
+<title>Proceedings of the Third International Workshop on Web Dynamics, WebDyn@WWW 2004, New York, NY, USA, May 18, 2004</title>
+<booktitle>WebDyn@WWW</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>703</volume>
+<year>2011</year>
+<ee type="oa">http://ceur-ws.org/Vol-703</ee>
+<url>db/conf/www/webdyn2004.html</url>
+</proceedings>
+</r>
+<r><article key="journals/bjet/FreitasRLMP10" mdate="2019-10-19">
+<author pid="28/2925">Sara de Freitas</author>
+<author orcid="0000-0002-3214-0935" pid="67/4802">Genaro Rebolledo-Mendez</author>
+<author orcid="0000-0003-3617-2261" pid="41/3843">Fotis Liarokapis</author>
+<author orcid="0000-0003-1884-0772" pid="m/GeorgeDMagoulas">George D. Magoulas</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Learning as immersive experiences: Using the four-dimensional framework for designing and evaluating immersive learning experiences in a virtual world.</title>
+<pages>69-85</pages>
+<year>2010</year>
+<volume>41</volume>
+<journal>BJET</journal>
+<number>1</number>
+<ee>https://doi.org/10.1111/j.1467-8535.2009.01024.x</ee>
+<url>db/journals/bjet/bjet41.html#FreitasRLMP10</url>
+</article>
+</r>
+<r><article key="journals/fgcs/ZamboulisMP10" mdate="2020-02-19">
+<author pid="z/LucasZamboulis">Lucas Zamboulis</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Query performance evaluation of an architecture for fine-grained integration of heterogeneous grid data sources.</title>
+<pages>1073-1091</pages>
+<year>2010</year>
+<volume>26</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1016/j.future.2010.05.008</ee>
+<url>db/journals/fgcs/fgcs26.html#ZamboulisMP10</url>
+</article>
+</r>
+<r><article key="journals/ijwet/NazDP10" mdate="2017-05-11">
+<author pid="49/8292">Tabbasum Naz</author>
+<author pid="d/JDorn">J&#252;rgen Dorn</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Configurable meta-search in the job domain.</title>
+<pages>33-57</pages>
+<year>2010</year>
+<volume>6</volume>
+<journal>Int. J. Web Eng. Technol.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1504/IJWET.2010.034759</ee>
+<url>db/journals/ijwet/ijwet6.html#NazDP10</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/XhafaP10" mdate="2019-06-02">
+<author orcid="0000-0001-6569-5497" pid="80/6437">Fatos Xhafa</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Requirements for Distributed Event-Based Awareness in P2P Groupware Systems.</title>
+<pages>220-225</pages>
+<year>2010</year>
+<booktitle>AINA Workshops</booktitle>
+<ee>https://doi.org/10.1109/WAINA.2010.112</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WAINA.2010.112</ee>
+<ee>https://www.wikidata.org/entity/Q61736590</ee>
+<crossref>conf/aina/2010w</crossref>
+<url>db/conf/aina/ainaw2010.html#XhafaP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/Pearce-LazardPG10" mdate="2017-05-24">
+<author pid="23/182">Darren Pearce-Lazard</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="68/6866">Eirini Geraniou</author>
+<title>The Design of Teacher Assistance Tools in an Exploratory Learning Environment for Mathematics Generalisation.</title>
+<pages>260-275</pages>
+<year>2010</year>
+<booktitle>EC-TEL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-16020-2_18</ee>
+<crossref>conf/ectel/2010</crossref>
+<url>db/conf/ectel/ectel2010.html#Pearce-LazardPG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/PoulovassilisW10" mdate="2018-06-26">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Combining Approximation and Relaxation in Semantic Web Path Queries.</title>
+<pages>631-646</pages>
+<year>2010</year>
+<booktitle>International Semantic Web Conference (1)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-17746-0_40</ee>
+<crossref>conf/semweb/2010-1</crossref>
+<url>db/conf/semweb/iswc2010-1.html#PoulovassilisW10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aied/PearceGSMCHKMNPW09" mdate="2017-05-23">
+<author pid="23/182">Darren Pearce</author>
+<author pid="68/6866">Eirini Geraniou</author>
+<author pid="67/4644">Sergio Guti&#233;rrez Santos</author>
+<author pid="37/2363">Manolis Mavrikis</author>
+<author pid="25/2079">Mihaela Cocea</author>
+<author pid="40/4217">Celia Hoyles</author>
+<author pid="87/551">Ken Kahn</author>
+<author pid="m/GeorgeDMagoulas">George D. Magoulas</author>
+<author pid="08/2396">Richard Noss</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="17/211">Niall Winters</author>
+<title>An Eco-Friendly Intelligent Environment for Exploring Mathematical Generalisation.</title>
+<pages>804</pages>
+<year>2009</year>
+<booktitle>AIED</booktitle>
+<ee>https://doi.org/10.3233/978-1-60750-028-5-804</ee>
+<crossref>conf/aied/2009</crossref>
+<url>db/conf/aied/aied2009.html#PearceGSMCHKMNPW09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/PearceP09" mdate="2017-05-24">
+<author pid="23/182">Darren Pearce</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>The Conceptual and Architectural Design of a System Supporting Exploratory Learning of Mathematics Generalisation.</title>
+<pages>22-36</pages>
+<year>2009</year>
+<booktitle>EC-TEL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04636-0_5</ee>
+<crossref>conf/ectel/2009</crossref>
+<url>db/conf/ectel/ectel2009.html#PearceP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ectel/LabekeMP09" mdate="2018-11-24">
+<author orcid="0000-0001-5073-799X" pid="84/88">Nicolas van Labeke</author>
+<author orcid="0000-0003-1884-0772" pid="m/GeorgeDMagoulas">George D. Magoulas</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Searching for &#34;People Like Me&#34; in a Lifelong Learning System.</title>
+<pages>106-111</pages>
+<year>2009</year>
+<booktitle>EC-TEL</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04636-0_12</ee>
+<ee>https://www.wikidata.org/entity/Q58422947</ee>
+<crossref>conf/ectel/2009</crossref>
+<url>db/conf/ectel/ectel2009.html#LabekeMP09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esws/HurtadoPW09" mdate="2018-06-26">
+<author pid="43/1720">Carlos A. Hurtado</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Ranking Approximate Answers to Semantic Web Queries.</title>
+<pages>263-277</pages>
+<year>2009</year>
+<booktitle>ESWC</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-02121-3_22</ee>
+<crossref>conf/esws/2009</crossref>
+<url>db/conf/esws/eswc2009.html#HurtadoPW09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fqas/HurtadoPW09" mdate="2017-05-21">
+<author pid="43/1720">Carlos A. Hurtado</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Finding Top-<i>k</i> Approximate Answers to Path Queries.</title>
+<pages>465-476</pages>
+<year>2009</year>
+<booktitle>FQAS</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04957-6_40</ee>
+<crossref>conf/fqas/2009</crossref>
+<url>db/conf/fqas/fqas2009.html#HurtadoPW09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vsgames/FreitasRLMP09" mdate="2019-10-19">
+<author pid="28/2925">Sara de Freitas</author>
+<author orcid="0000-0002-3214-0935" pid="67/4802">Genaro Rebolledo-Mendez</author>
+<author orcid="0000-0003-3617-2261" pid="41/3843">Fotis Liarokapis</author>
+<author orcid="0000-0003-1884-0772" pid="m/GeorgeDMagoulas">George D. Magoulas</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Developing an Evaluation Methodology for Immersive Learning Experiences in a Virtual World.</title>
+<pages>43-50</pages>
+<year>2009</year>
+<booktitle>VS-GAMES</booktitle>
+<ee>https://doi.org/10.1109/VS-GAMES.2009.41</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/VS-GAMES.2009.41</ee>
+<crossref>conf/vsgames/2009</crossref>
+<url>db/conf/vsgames/vsgames2009.html#FreitasRLMP09</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Poulovassilis09" mdate="2017-07-12">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Data Integration Architectures and Methodology for the Life Sciences.</title>
+<pages>585-590</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_625</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/d.html#Poulovassilis09</url>
+</incollection>
+</r>
+<r><article key="journals/jods/HurtadoPW08" mdate="2017-05-18">
+<author pid="43/1720">Carlos A. Hurtado</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Query Relaxation in RDF.</title>
+<pages>31-61</pages>
+<year>2008</year>
+<volume>10</volume>
+<journal>J. Data Semantics</journal>
+<ee>https://doi.org/10.1007/978-3-540-77688-8_2</ee>
+<crossref>journals/jods/2008-10</crossref>
+<url>db/journals/jods/jods10.html#HurtadoPW08</url>
+</article>
+</r>
+<r><article key="journals/nar/SiepenBSEPGOSZMPJCHPJOH08" mdate="2019-10-19">
+<author pid="92/893">Jennifer A. Siepen</author>
+<author pid="39/3585">Khalid Belhajjame</author>
+<author orcid="0000-0003-4618-6691" pid="45/4143">Julian N. Selley</author>
+<author orcid="0000-0002-3711-0778" pid="e/SMEmbury">Suzanne M. Embury</author>
+<author orcid="0000-0003-2008-6617" pid="p/NWPaton">Norman W. Paton</author>
+<author orcid="0000-0003-1219-2137" pid="g/CaroleAGoble">Carole A. Goble</author>
+<author pid="91/6259">Stephen G. Oliver</author>
+<author pid="s/RobertStevens">Robert Stevens 0001</author>
+<author pid="z/LucasZamboulis">Lucas Zamboulis</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="90/468">Philip Jones</author>
+<author pid="07/2132">Richard G. C&#244;t&#233;</author>
+<author orcid="0000-0001-8479-0262" pid="71/4115">Henning Hermjakob</author>
+<author pid="98/7240">Melissa M. Pentony</author>
+<author pid="08/2122">David T. Jones</author>
+<author pid="71/4733">Christine A. Orengo</author>
+<author orcid="0000-0002-8601-9524" pid="66/4750">Simon J. Hubbard</author>
+<title>ISPIDER Central: an integrated database web-server for proteomics.</title>
+<pages>485-490</pages>
+<year>2008</year>
+<volume>36</volume>
+<journal>Nucleic Acids Research</journal>
+<number>Web-Server-Issue</number>
+<ee type="oa">https://doi.org/10.1093/nar/gkn196</ee>
+<ee>https://www.wikidata.org/entity/Q38390705</ee>
+<url>db/journals/nar/nar36.html#SiepenBSEPGOSZMPJCHPJOH08</url>
+</article>
+</r>
+<r><inproceedings key="conf/bibe/ZamboulisPR08" mdate="2019-06-02">
+<author pid="z/LucasZamboulis">Lucas Zamboulis</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author orcid="0000-0002-7665-7303" pid="55/4141">George Roussos</author>
+<title>Flexible data integration and ontology-based data access to medical records.</title>
+<pages>1-6</pages>
+<year>2008</year>
+<booktitle>BIBE</booktitle>
+<ee>https://doi.org/10.1109/BIBE.2008.4696774</ee>
+<ee>https://www.wikidata.org/entity/Q59586743</ee>
+<crossref>conf/bibe/2008</crossref>
+<url>db/conf/bibe/bibe2008.html#ZamboulisPR08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/its/LabekePM08" mdate="2018-11-24">
+<author orcid="0000-0001-5073-799X" pid="84/88">Nicolas van Labeke</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="m/GeorgeDMagoulas">George D. Magoulas</author>
+<title>Using Similarity Metrics for Matching Lifelong Learners.</title>
+<pages>142-151</pages>
+<year>2008</year>
+<booktitle>Intelligent Tutoring Systems</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-69132-7_19</ee>
+<ee>https://www.wikidata.org/entity/Q58422948</ee>
+<crossref>conf/its/2008</crossref>
+<url>db/conf/its/its2008.html#LabekePM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nldb/WilliamsP08" mdate="2017-05-19">
+<author pid="81/2127">Dean Williams</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Combining Data Integration and IE Techniques to Support Partially Structured Data.</title>
+<pages>175-186</pages>
+<year>2008</year>
+<booktitle>NLDB</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-69858-6_18</ee>
+<crossref>conf/nldb/2008</crossref>
+<url>db/conf/nldb/nldb2008.html#WilliamsP08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/odbis/ZamboulisPW08" mdate="2008-12-08">
+<author pid="z/LucasZamboulis">Lucas Zamboulis</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="85/1466">Jianing Wang</author>
+<title>Ontology-Assisted Data Transformation and Integration.</title>
+<pages>29-36</pages>
+<year>2008</year>
+<booktitle>ODBIS</booktitle>
+<ee>http://www.vldb.org/conf/2008/workshops/WProc_ODBIS/paper_15.pdf</ee>
+<crossref>conf/odbis/2008</crossref>
+<url>db/conf/odbis/odbis2008.html#ZamboulisPW08</url>
+</inproceedings>
+</r>
+<r><incollection key="books/ios/08/FreitasHMPPLMO08" mdate="2019-07-03">
+<author pid="28/2925">Sara de Freitas</author>
+<author pid="22/2113">Ian Harrison</author>
+<author pid="m/GeorgeDMagoulas">George D. Magoulas</author>
+<author pid="70/7009">George Papamarkos</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="84/88">Nicolas van Labeke</author>
+<author pid="62/9370">Adrian Mee</author>
+<author pid="46/6415">Martin Oliver</author>
+<title>L4All, a Web-Service Based System for Lifelong Learners.</title>
+<pages>143-155</pages>
+<year>2008</year>
+<booktitle>The Learning Grid Handbook</booktitle>
+<crossref>books/ios/08/SGR2008</crossref>
+<url>db/books/collections/SGR2008.html#FreitasHMPPLMO08</url>
+</incollection>
+</r>
+<r><incollection key="books/ios/08/KeenoyCPPKRSW08" mdate="2019-07-03">
+<author pid="41/5459">Kevin Keenoy</author>
+<author pid="c/VassilisChristophides">Vassilis Christophides</author>
+<author pid="70/7009">George Papamarkos</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="26/1664">Dimitris Kotzinos</author>
+<author pid="r/PRigaux">Philippe Rigaux</author>
+<author pid="s/NicolasSpyratos">Nicolas Spyratos</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Personalisation Services for Self e-Learning Networks.</title>
+<pages>157-172</pages>
+<year>2008</year>
+<booktitle>The Learning Grid Handbook</booktitle>
+<crossref>books/ios/08/SGR2008</crossref>
+<url>db/books/collections/SGR2008.html#KeenoyCPPKRSW08</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/dils/ZamboulisMP07" mdate="2017-05-25">
+<author pid="z/LucasZamboulis">Lucas Zamboulis</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Bioinformatics Service Reconciliation by Heterogeneous Schema Transformation.</title>
+<pages>89-104</pages>
+<year>2007</year>
+<crossref>conf/dils/2007</crossref>
+<booktitle>DILS</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-73255-6_10</ee>
+<url>db/conf/dils/dils2007.html#ZamboulisMP07</url>
+</inproceedings>
+</r>
+<r><article key="journals/bjet/FreitasHMMMOPP06" mdate="2017-06-14">
+<author pid="28/2925">Sara de Freitas</author>
+<author pid="22/2113">Ian Harrison</author>
+<author orcid="0000-0003-1884-0772" pid="m/GeorgeDMagoulas">George D. Magoulas</author>
+<author pid="62/9370">Adrian Mee</author>
+<author pid="170/6354">Fitri Mohamad</author>
+<author pid="46/6415">Martin Oliver</author>
+<author pid="70/7009">George Papamarkos</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>The development of a system for supporting the lifelong learner.</title>
+<pages>867-880</pages>
+<year>2006</year>
+<volume>37</volume>
+<journal>BJET</journal>
+<number>6</number>
+<ee>https://doi.org/10.1111/j.1467-8535.2006.00666.x</ee>
+<url>db/journals/bjet/bjet37.html#FreitasHMMMOPP06</url>
+</article>
+</r>
+<r><article key="journals/cn/LeveneP06" mdate="2020-02-19">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Special issue on Web dynamics.</title>
+<pages>1425-1429</pages>
+<year>2006</year>
+<volume>50</volume>
+<journal>Comput. Networks</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/j.comnet.2005.10.023</ee>
+<url>db/journals/cn/cn50.html#LeveneP06</url>
+</article>
+</r>
+<r><article key="journals/cn/PapamarkosPW06" mdate="2020-02-19">
+<author pid="70/7009">George Papamarkos</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Event-condition-action rules on RDF metadata in P2P environments.</title>
+<pages>1513-1532</pages>
+<year>2006</year>
+<volume>50</volume>
+<journal>Comput. Networks</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/j.comnet.2005.10.022</ee>
+<url>db/journals/cn/cn50.html#PapamarkosPW06</url>
+</article>
+</r>
+<r><inproceedings key="conf/caise/ZamboulisP06" mdate="2019-05-28">
+<author pid="z/LucasZamboulis">Lucas Zamboulis</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Information Sharing for the Semantic Web -a Schema Transformation Approach.</title>
+<year>2006</year>
+<booktitle>DISWEB</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-238/paper1.pdf</ee>
+<crossref>conf/caise/2006disweb</crossref>
+<url>db/conf/caise/disweb2006.html#ZamboulisP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbisp2p/McBrienP06" mdate="2017-05-23">
+<author pid="m/PeterMcBrien">Peter McBrien</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>P2P Query Reformulation over Both-As-View Data Transformation Rules.</title>
+<pages>310-322</pages>
+<year>2006</year>
+<crossref>conf/dbisp2p/2006</crossref>
+<booktitle>DBISP2P</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-71661-7_30</ee>
+<url>db/conf/dbisp2p/dbisp2p2006.html#McBrienP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dils/ZamboulisFBSJMPHEP06" mdate="2019-10-19">
+<author pid="z/LucasZamboulis">Lucas Zamboulis</author>
+<author pid="23/2535-1">Hao Fan 0001</author>
+<author pid="39/3585">Khalid Belhajjame</author>
+<author pid="92/893">Jennifer A. Siepen</author>
+<author orcid="0000-0001-6118-9327" pid="60/5207">Andrew R. Jones</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author orcid="0000-0002-8601-9524" pid="66/4750">Simon J. Hubbard</author>
+<author orcid="0000-0002-3711-0778" pid="e/SMEmbury">Suzanne M. Embury</author>
+<author orcid="0000-0003-2008-6617" pid="p/NWPaton">Norman W. Paton</author>
+<title>Data Access and Integration in the ISPIDER Proteomics Grid.</title>
+<pages>3-18</pages>
+<year>2006</year>
+<crossref>conf/dils/2006</crossref>
+<booktitle>DILS</booktitle>
+<ee>https://doi.org/10.1007/11799511_3</ee>
+<ee>https://www.wikidata.org/entity/Q57393526</ee>
+<url>db/conf/dils/dils2006.html#ZamboulisFBSJMPHEP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbtw/PoulovassilisPW06" mdate="2017-05-19">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="70/7009">George Papamarkos</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Event-Condition-Action Rule Languages for the Semantic Web.</title>
+<pages>855-864</pages>
+<year>2006</year>
+<crossref>conf/edbtw/2006</crossref>
+<booktitle>EDBT Workshops</booktitle>
+<ee>https://doi.org/10.1007/11896548_64</ee>
+<url>db/conf/edbtw/edbtw2006.html#PoulovassilisPW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsoft/WilliamsP06" mdate="2006-10-26">
+<author pid="81/2127">Dean Williams</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Combining information extraction and data integration in the estest system.</title>
+<pages>13-21</pages>
+<year>2006</year>
+<crossref>conf/icsoft/2006</crossref>
+<booktitle>ICSOFT (2)</booktitle>
+<url>db/conf/icsoft/icsoft2006-2.html#WilliamsP06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsoft/WilliamsP06a" mdate="2019-02-05">
+<author pid="81/2127">Dean Williams</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Combining Information Extraction and Data Integration in the ESTEST System.</title>
+<pages>279-292</pages>
+<year>2006</year>
+<booktitle>ICSOFT (Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-70621-2_23</ee>
+<crossref>conf/icsoft/2006s</crossref>
+<url>db/conf/icsoft/icsoft2006s.html#WilliamsP06a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/HurtadoPW06" mdate="2018-06-26">
+<author pid="43/1720">Carlos A. Hurtado</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>A Relaxed Approach to RDF Querying.</title>
+<pages>314-328</pages>
+<year>2006</year>
+<crossref>conf/semweb/2006</crossref>
+<booktitle>International Semantic Web Conference</booktitle>
+<ee type="oa">https://doi.org/10.1007/11926078_23</ee>
+<url>db/conf/semweb/iswc2006.html#HurtadoPW06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bncod/FanP05" mdate="2018-03-23">
+<author pid="23/2535-1">Hao Fan 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Using Schema Transformation Pathways for Data Lineage Tracing.</title>
+<pages>133-144</pages>
+<year>2005</year>
+<crossref>conf/bncod/2005</crossref>
+<booktitle>BNCOD</booktitle>
+<ee>https://doi.org/10.1007/11511854_11</ee>
+<url>db/conf/bncod/bncod2005.html#FanP05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dils/MaibaumZROMP05" mdate="2017-05-25">
+<author pid="57/5702">Michael Maibaum</author>
+<author pid="z/LucasZamboulis">Lucas Zamboulis</author>
+<author pid="53/2103">Galia Rimon</author>
+<author pid="71/4733">Christine A. Orengo</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Cluster Based Integration of Heterogeneous Biological Databases Using the AutoMed Toolkit.</title>
+<pages>191-207</pages>
+<year>2005</year>
+<crossref>conf/dils/2005</crossref>
+<booktitle>DILS</booktitle>
+<ee>https://doi.org/10.1007/11530084_16</ee>
+<url>db/conf/dils/dils2005.html#MaibaumZROMP05</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/LeveneP04" mdate="2020-03-06">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Report on the 3rd Web Dynamics Workshop, at WWW'2004.</title>
+<pages>91-95</pages>
+<year>2004</year>
+<volume>33</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1031570.1031591</ee>
+<url>db/journals/sigmod/sigmod33.html#LeveneP04</url>
+</article>
+</r>
+<r><article key="journals/sigmod/KeenoyPCLKSS04" mdate="2020-03-06">
+<author pid="41/5459">Kevin Keenoy</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="c/VassilisChristophides">Vassilis Christophides</author>
+<author pid="l/GeorgeLoizou">George Loizou</author>
+<author pid="71/6951">Giorgos Kokkinidis</author>
+<author pid="s/GeorgeSamaras">George Samaras</author>
+<author pid="s/NicolasSpyratos">Nicolas Spyratos</author>
+<title>Report on the Workshop on Metadata Management in Grid and Peer-to-Peer Systems, London, December 16, 2003.</title>
+<pages>96-100</pages>
+<year>2004</year>
+<volume>33</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1031570.1031592</ee>
+<url>db/journals/sigmod/sigmod33.html#KeenoyPCLKSS04</url>
+</article>
+</r>
+<r><inproceedings key="conf/dexaw/WilliamsP04" mdate="2017-05-24">
+<author pid="81/2127">Dean Williams</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>An Example of the ESTEST Approach to Combining Unstructured Text and Structured Data.</title>
+<pages>191-195</pages>
+<year>2004</year>
+<crossref>conf/dexaw/2004</crossref>
+<booktitle>DEXA Workshops</booktitle>
+<ee>https://doi.org/10.1109/DEXA.2004.1333472</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DEXA.2004.1333472</ee>
+<url>db/conf/dexaw/dexaw2004.html#WilliamsP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dexaw/MaibaumROMP04" mdate="2017-05-24">
+<author pid="57/5702">Michael Maibaum</author>
+<author pid="53/2103">Galia Rimon</author>
+<author pid="71/4733">Christine A. Orengo</author>
+<author pid="m/NigelJMartin">Nigel J. Martin 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>BioMap: Gene Family based Integration of Heterogeneous Biological Databases Using AutoMed Metadata.</title>
+<pages>384-388</pages>
+<year>2004</year>
+<crossref>conf/dexaw/2004</crossref>
+<booktitle>DEXA Workshops</booktitle>
+<ee>https://doi.org/10.1109/DEXA.2004.1333504</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/DEXA.2004.1333504</ee>
+<url>db/conf/dexaw/dexaw2004.html#MaibaumROMP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/diweb/ZamboulisP04" mdate="2012-09-22">
+<author pid="z/LucasZamboulis">Lucas Zamboulis</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Using AutoMed for XML data transformation and integration.</title>
+<year>2004</year>
+<crossref>conf/diweb/2004</crossref>
+<booktitle>DIWeb</booktitle>
+<ee>http://www.doc.ic.ac.uk/%7Epjm/diweb2004/DIWeb2004_Part6.pdf</ee>
+<ee>http://www.doc.ic.ac.uk/%7Epjm/diweb2004/zamboulis_presentation.pdf</ee>
+<url>db/conf/diweb/diweb2004.html#ZamboulisP04</url>
+<pages>58-69</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dmsn/ZoumboulakisRP04" mdate="2018-11-06">
+<author pid="43/2037">Michael Zoumboulakis</author>
+<author pid="55/4141">George Roussos</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Active rules for sensor databases.</title>
+<pages>98-103</pages>
+<year>2004</year>
+<booktitle>DMSN</booktitle>
+<ee>https://doi.org/10.1145/1052199.1052215</ee>
+<crossref>conf/dmsn/2004</crossref>
+<url>db/conf/dmsn/dmsn2004.html#ZoumboulakisRP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/FanP04" mdate="2018-03-23">
+<author pid="23/2535-1">Hao Fan 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Schema Evolution in Data Warehousing Environments - A Schema Transformation-Based Approach.</title>
+<pages>639-653</pages>
+<ee>https://doi.org/10.1007/978-3-540-30464-7_48</ee>
+<year>2004</year>
+<crossref>conf/er/2004</crossref>
+<booktitle>ER</booktitle>
+<url>db/conf/er/er2004.html#FanP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icwe/KeenoyPCRPMSSW04" mdate="2017-05-24">
+<author pid="41/5459">Kevin Keenoy</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="c/VassilisChristophides">Vassilis Christophides</author>
+<author pid="r/PRigaux">Philippe Rigaux</author>
+<author pid="70/7009">George Papamarkos</author>
+<author pid="96/3584">Aimilia Magkanaraki</author>
+<author pid="67/1891">Miltos Stratakis</author>
+<author pid="s/NicolasSpyratos">Nicolas Spyratos</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Personalisation Services for Self E-learning Networks.</title>
+<pages>215-219</pages>
+<ee>https://doi.org/10.1007/978-3-540-27834-4_27</ee>
+<year>2004</year>
+<crossref>conf/icwe/2004</crossref>
+<booktitle>ICWE</booktitle>
+<url>db/conf/icwe/icwe2004.html#KeenoyPCRPMSSW04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/ZoumboulakisRP04" mdate="2019-06-02">
+<author pid="43/2037">Michael Zoumboulakis</author>
+<author orcid="0000-0002-7665-7303" pid="55/4141">George Roussos</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Active rules for wireless networks of sensors &#38; actuators.</title>
+<pages>263-264</pages>
+<year>2004</year>
+<crossref>conf/sensys/2004</crossref>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/1031495.1031527</ee>
+<ee>https://www.wikidata.org/entity/Q59586780</ee>
+<url>db/conf/sensys/sensys2004.html#ZoumboulakisRP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/PapamarkosPW04" mdate="2019-05-28">
+<author pid="70/7009">George Papamarkos</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>An Event-Condition-Action Language for RDF.</title>
+<pages>62-75</pages>
+<year>2004</year>
+<booktitle>WebDyn@WWW</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-703/paper7.pdf</ee>
+<crossref>conf/www/2004webdyn</crossref>
+<url>db/conf/www/webdyn2004.html#PapamarkosPW04</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/webDyn2004/LeveneP04" mdate="2005-01-03">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Web Dynamics - Setting the Scene.</title>
+<pages>1-18</pages>
+<year>2004</year>
+<crossref>books/sp/webDyn04</crossref>
+<booktitle>Web Dynamics</booktitle>
+<url>db/books/collections/webDyn2004.html#LeveneP04</url>
+</incollection>
+</r>
+<r><incollection key="books/sp/webDyn2004/BaileyPPW04" mdate="2019-04-16">
+<author pid="b/JamesBailey">James Bailey 0001</author>
+<author pid="70/7009">George Papamarkos</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>An Event-Condition-Action Language for XML.</title>
+<pages>223-248</pages>
+<year>2004</year>
+<crossref>books/sp/webDyn04</crossref>
+<booktitle>Web Dynamics</booktitle>
+<url>db/books/collections/webDyn2004.html#BaileyPPW04</url>
+</incollection>
+</r>
+<r><book key="books/sp/webDyn04" mdate="2005-01-03">
+<editor pid="l/MarkLevene">Mark Levene</editor>
+<editor pid="p/APoulovassilis">Alexandra Poulovassilis</editor>
+<title>Web Dynamics - Adapting to Change in Content, Size, Topology and Use</title>
+<publisher>Springer</publisher>
+<year>2004</year>
+<isbn>3-540-40676-X</isbn>
+<url>db/books/collections/webDyn2004.html</url>
+</book>
+</r>
+<r><proceedings key="conf/mmgps/2003" mdate="2020-02-12">
+<editor pid="41/5459">Kevin Keenoy</editor>
+<editor pid="p/APoulovassilis">Alexandra Poulovassilis</editor>
+<editor pid="c/VassilisChristophides">Vassilis Christophides</editor>
+<title>MMGPS, IST Workshop on Metadata Management in Grid and P2P Systems: Models, Services and Architectures, London, UK, December 16, 2003</title>
+<booktitle>MMGPS</booktitle>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<publisher>CEUR-WS.org</publisher>
+<year>2004</year>
+<volume>95</volume>
+<ee type="oa">http://ceur-ws.org/Vol-95</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-95-8</ee>
+<url>db/conf/mmgps/mmgps2003.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/caise/JasperTMP03" mdate="2019-05-28">
+<author pid="09/4024">Edgar Jasper</author>
+<author pid="45/6224">Nerissa Tong</author>
+<author pid="m/PeterMcBrien">Peter McBrien</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>View Generation and Optimisation in the AutoMed Data Integration Framework.</title>
+<year>2003</year>
+<crossref>conf/caise/2003fo</crossref>
+<booktitle>CAiSE Short Paper Proceedings</booktitle>
+<ee type="oa">http://ceur-ws.org/Vol-74/files/FORUM_08.pdf</ee>
+<url>db/conf/caise/caisefo2003.html#JasperTMP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbisp2p/McBrienP03" mdate="2017-05-23">
+<author pid="m/PeterMcBrien">Peter McBrien</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Defining Peer-to-Peer Data Integration Using Both as View Rules.</title>
+<pages>91-107</pages>
+<ee>https://doi.org/10.1007/978-3-540-24629-9_8</ee>
+<year>2003</year>
+<crossref>conf/dbisp2p/2003</crossref>
+<booktitle>DBISP2P</booktitle>
+<url>db/conf/dbisp2p/dbisp2p2003.html#McBrienP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dolap/FanP03" mdate="2018-11-06">
+<author pid="23/2535-1">Hao Fan 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Using AutoMed metadata in data warehousing environments.</title>
+<pages>86-93</pages>
+<year>2003</year>
+<crossref>conf/dolap/2003</crossref>
+<booktitle>DOLAP</booktitle>
+<ee>https://doi.org/10.1145/956060.956076</ee>
+<url>db/conf/dolap/dolap2003.html#FanP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/McBrienP03" mdate="2017-06-04">
+<author orcid="0000-0002-2153-9625" pid="m/PeterMcBrien">Peter McBrien</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Data Integration by Bi-Directional Schema Transformation Rules.</title>
+<pages>227-238</pages>
+<ee>https://doi.org/10.1109/ICDE.2003.1260795</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2003.1260795</ee>
+<year>2003</year>
+<crossref>conf/icde/2003</crossref>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde2003.html#McBrienP03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/PapamarkosPW03" mdate="2003-09-17">
+<author pid="70/7009">George Papamarkos</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Event-Condition-Action Rule Languages for the Semantic Web.</title>
+<pages>309-327</pages>
+<year>2003</year>
+<crossref>conf/semweb/2003swdb</crossref>
+<booktitle>SWDB</booktitle>
+<url>db/conf/semweb/swdb2003.html#PapamarkosPW03</url>
+</inproceedings>
+</r>
+<r><incollection key="books/ios/omelayenkoK03/FanP03" mdate="2019-08-03">
+<author pid="23/2535-1">Hao Fan 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Tracing Data Lineage Using Schema Transformation Pathways.</title>
+<pages>64-79</pages>
+<year>2003</year>
+<crossref>books/ios/Omelayenko03</crossref>
+<booktitle>Knowledge Transformation for the Semantic Web</booktitle>
+<url>db/books/collections/omelayenkoK2003.html#FanP03</url>
+</incollection>
+</r>
+<r><article key="journals/cn/LeveneP02" mdate="2020-02-19">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Web Dynamics.</title>
+<pages>221-223</pages>
+<year>2002</year>
+<volume>39</volume>
+<journal>Comput. Networks</journal>
+<number>3</number>
+<url>db/journals/cn/cn39.html#LeveneP02</url>
+<ee>https://doi.org/10.1016/S1389-1286(02)00206-2</ee>
+</article>
+</r>
+<r><article key="journals/cn/BaileyPW02" mdate="2020-02-19">
+<author pid="b/JamesBailey">James Bailey 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>Analysis and optimisation of event-condition-action rules on XML.</title>
+<pages>239-259</pages>
+<year>2002</year>
+<volume>39</volume>
+<journal>Comput. Networks</journal>
+<number>3</number>
+<url>db/journals/cn/cn39.html#BaileyPW02</url>
+<ee>https://doi.org/10.1016/S1389-1286(02)00208-6</ee>
+</article>
+</r>
+<r><article key="journals/sigmod/LeveneP02" mdate="2020-03-06">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Report on the Web Dynamics Workshop at WWW 2002.</title>
+<pages>72-76</pages>
+<year>2002</year>
+<volume>31</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<ee>http://www.acm.org/sigmod/record/issues/0209/r2.webdyn2report.pdf</ee>
+<url>db/journals/sigmod/sigmod31.html#LeveneP02</url>
+</article>
+</r>
+<r><inproceedings key="conf/caise/McBrienP02" mdate="2017-05-26">
+<author pid="m/PeterMcBrien">Peter McBrien</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Schema Evolution in Heterogeneous Database Architectures, A Schema Transformation Approach.</title>
+<pages>484-499</pages>
+<year>2002</year>
+<crossref>conf/caise/2002</crossref>
+<booktitle>CAiSE</booktitle>
+<ee>https://doi.org/10.1007/3-540-47961-9_34</ee>
+<url>db/conf/caise/caise2002.html#McBrienP02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/BaileyPW02" mdate="2019-04-16">
+<author pid="b/JamesBailey">James Bailey 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="w/PeterTWood">Peter T. Wood</author>
+<title>An event-condition-action language for XML.</title>
+<pages>486-495</pages>
+<year>2002</year>
+<crossref>conf/www/2002</crossref>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/511446.511509</ee>
+<url>db/conf/www/www2002.html#BaileyPW02</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/bncod/2002" mdate="2019-05-14">
+<editor pid="75/7016">Barry Eaglestone</editor>
+<editor pid="39/2399">Siobh&#225;n North</editor>
+<editor pid="p/APoulovassilis">Alexandra Poulovassilis</editor>
+<title>Advances in Databases, 19th British National Conference on Databases, BNCOD 19, Sheffield, UK, July 17-19, 2002, Proceedings</title>
+<booktitle>BNCOD</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>2405</volume>
+<publisher>Springer</publisher>
+<year>2002</year>
+<isbn>3-540-43905-6</isbn>
+<ee>https://doi.org/10.1007/3-540-45495-0</ee>
+<url>db/conf/bncod/bncod2002.html</url>
+</proceedings>
+</r>
+<r><article key="journals/sofo/LeveneP01" mdate="2017-05-26">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Web dynamics.</title>
+<pages>60-67</pages>
+<year>2001</year>
+<volume>2</volume>
+<journal>Software Focus</journal>
+<number>2</number>
+<url>db/journals/sofo/sofo2.html#LeveneP01</url>
+<ee>https://doi.org/10.1002/swf.30</ee>
+</article>
+</r>
+<r><article key="journals/tkde/PoulovassilisH01" mdate="2017-05-20">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="49/2726">Stefan G. Hild</author>
+<title>Hyperlog: A Graph-Based System for Database Browsing, Querying, and Update.</title>
+<pages>316-333</pages>
+<year>2001</year>
+<volume>13</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/69.917568</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/69.917568</ee>
+<url>db/journals/tkde/tkde13.html#PoulovassilisH01</url>
+</article>
+</r>
+<r><inproceedings key="conf/caise/McBrienP01" mdate="2017-06-01">
+<author orcid="0000-0002-2153-9625" pid="m/PeterMcBrien">Peter McBrien</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>A Semantic Approach to Integrating XML and Structured Data Sources.</title>
+<pages>330-345</pages>
+<year>2001</year>
+<crossref>conf/caise/2001</crossref>
+<booktitle>CAiSE</booktitle>
+<ee>https://doi.org/10.1007/3-540-45341-5_22</ee>
+<url>db/conf/caise/caise2001.html#McBrienP01</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbpl/BaileyPC01" mdate="2019-04-16">
+<author pid="b/JamesBailey">James Bailey 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="c/SimonCourtenage">Simon Courtenage</author>
+<title>Optimising Active Database Rules by Partial Evaluation and Abstract Interpretation.</title>
+<pages>300-317</pages>
+<year>2001</year>
+<crossref>conf/dbpl/2001</crossref>
+<booktitle>DBPL</booktitle>
+<ee>https://doi.org/10.1007/3-540-46093-4_18</ee>
+<url>db/conf/dbpl/dbpl2001.html#BaileyPC01</url>
+</inproceedings>
+</r>
+<r><article key="journals/stvr/Poulovassilis00" mdate="2017-05-28">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Classical and Object-Oriented Software Engineering with UML and C++, Stephen R. Schach, McGraw-Hill, 1998 (Book Review).</title>
+<pages>139-140</pages>
+<year>2000</year>
+<volume>10</volume>
+<journal>Softw. Test., Verif. Reliab.</journal>
+<number>2</number>
+<url>db/journals/stvr/stvr10.html#Poulovassilis00</url>
+<ee>https://doi.org/10.1002/1099-1689(200006)10:2&#60;139::AID-STVR203&#62;3.0.CO;2-E</ee>
+</article>
+</r>
+<r><inproceedings key="conf/cl/BraileyPN00" mdate="2019-04-16">
+<author pid="b/JamesBailey">James Bailey 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="71/6487">Peter Newson</author>
+<title>A Dynamic Approach to Termination Analysis for Active Database Rules.</title>
+<pages>1106-1120</pages>
+<ee>https://doi.org/10.1007/3-540-44957-4_74</ee>
+<year>2000</year>
+<crossref>conf/cl/2000</crossref>
+<booktitle>Computational Logic</booktitle>
+<url>db/conf/cl/cl2000.html#BraileyPN00</url>
+</inproceedings>
+</r>
+<r><article key="journals/jiis/BaileyP99" mdate="2019-04-16">
+<author pid="b/JamesBailey">James Bailey 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Abstract Interpretation for Termination Analysis in Functional Active Databases.</title>
+<pages>243-273</pages>
+<year>1999</year>
+<volume>12</volume>
+<journal>J. Intell. Inf. Syst.</journal>
+<number>2-3</number>
+<url>db/journals/jiis/jiis12.html#BaileyP99</url>
+<ee>https://doi.org/10.1023/A:1008709127354</ee>
+</article>
+</r>
+<r><inproceedings key="conf/caise/McBrienP99" mdate="2017-06-01">
+<author orcid="0000-0002-2153-9625" pid="m/PeterMcBrien">Peter McBrien</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>A Uniform Approach to Inter-model Transformations.</title>
+<pages>333-348</pages>
+<year>1999</year>
+<crossref>conf/caise/1999</crossref>
+<booktitle>CAiSE</booktitle>
+<ee>https://doi.org/10.1007/3-540-48738-7_25</ee>
+<url>db/conf/caise/caise99.html#McBrienP99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbpl/BaileyP99" mdate="2019-04-16">
+<author pid="b/JamesBailey">James Bailey 0001</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>An Abstract Interpretation Framework for Termination Analysis of Active Rules.</title>
+<pages>252-270</pages>
+<ee>https://doi.org/10.1007/3-540-44543-9_16</ee>
+<year>1999</year>
+<crossref>conf/dbpl/1999</crossref>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl1999.html#BaileyP99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/McBrienP99" mdate="2017-06-02">
+<ee>https://doi.org/10.1007/3-540-47866-3_7</ee>
+<author orcid="0000-0002-2153-9625" pid="m/PeterMcBrien">Peter McBrien</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Automatic Migration and Wrapping of Database Applications - A Schema Transformation Approach.</title>
+<pages>96-113</pages>
+<cdrom>ER/1999/P096.pdf</cdrom>
+<year>1999</year>
+<crossref>conf/er/99</crossref>
+<booktitle>ER</booktitle>
+<url>db/conf/er/er99.html#McBrienP99</url>
+<cite>journals/csur/BatiniL86</cite>
+<cite>conf/ipsj/ChawatheGHPUW94</cite>
+<cite>conf/krdb/CritchlowGM98</cite>
+<cite>conf/vldb/DayalB78</cite>
+<cite>conf/vldb/HaasKWY97</cite>
+<cite>conf/pods/Hull97</cite>
+<cite>journals/tods/Langerak90</cite>
+<cite>...</cite>
+<cite>conf/er/McBrienP97</cite>
+<cite>journals/is/McBrienP98</cite>
+<cite>conf/caise/McBrienP99</cite>
+<cite>journals/dke/PoulovassilisM98</cite>
+<cite>conf/vldb/RothS97</cite>
+<cite>journals/csur/ShethL90</cite>
+<cite>journals/vldb/TempletonHMB95</cite>
+<cite>conf/coopis/VidalRG98</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/evoW/NonasP99" mdate="2017-05-21">
+<author pid="58/5010">Evaggelos Nonas</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Optimising Seld Adaptive Networks by Evolving Rule-Based Agents.</title>
+<pages>203-214</pages>
+<year>1999</year>
+<crossref>conf/evoW/1999</crossref>
+<booktitle>EvoWorkshops</booktitle>
+<url>db/conf/evoW/evoW1999.html#NonasP99</url>
+<ee>https://doi.org/10.1007/10704703_17</ee>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/patton99/ReddiPS99" mdate="2019-08-03">
+<author pid="05/40">Swarup Reddi</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="11/5195">Carol Small</author>
+<title>PFL: An Active Functional DBPL.</title>
+<pages>297-308</pages>
+<year>1999</year>
+<crossref>books/sp/Patton99</crossref>
+<booktitle>Active Rules in Database Systems</booktitle>
+<url>db/books/collections/patton99.html#ReddiPS99</url>
+<ee>https://doi.org/10.1007/978-1-4419-8656-6_16</ee>
+</incollection>
+</r>
+<r><article key="journals/dke/PoulovassilisM98" mdate="2017-06-05">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author orcid="0000-0002-2153-9625" pid="m/PeterMcBrien">Peter McBrien</author>
+<title>A General Formal Framework for Schema Transformation.</title>
+<pages>47-71</pages>
+<year>1998</year>
+<volume>28</volume>
+<journal>Data Knowl. Eng.</journal>
+<number>1</number>
+<url>db/journals/dke/dke28.html#PoulovassilisM98</url>
+<ee>https://doi.org/10.1016/S0169-023X(98)00013-5</ee>
+</article>
+</r>
+<r><article key="journals/is/McBrienP98" mdate="2017-06-06">
+<author orcid="0000-0002-2153-9625" pid="m/PeterMcBrien">Peter McBrien</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>A Formalisation of Semantic Schema Integration.</title>
+<pages>307-334</pages>
+<year>1998</year>
+<volume>23</volume>
+<journal>Inf. Syst.</journal>
+<number>5</number>
+<url>db/journals/is/is23.html#McBrienP98</url>
+<ee>https://doi.org/10.1016/S0306-4379(98)00014-3</ee>
+</article>
+</r>
+<r><inproceedings key="conf/dexa/NonasP98" mdate="2017-05-23">
+<author pid="58/5010">Evaggelos Nonas</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Optimisation of Active Rule Agents Using a Genetic Algorithm Approach.</title>
+<pages>332-341</pages>
+<ee>https://doi.org/10.1007/BFb0054494</ee>
+<year>1998</year>
+<crossref>conf/dexa/1998</crossref>
+<booktitle>DEXA</booktitle>
+<url>db/conf/dexa/dexa98.html#NonasP98</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bncod/XuP97" mdate="2017-05-22">
+<author pid="86/1759">Lihui Xu</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>A Method for Integrating Deductive Databases.</title>
+<pages>215-231</pages>
+<year>1997</year>
+<crossref>conf/bncod/1997</crossref>
+<booktitle>BNCOD</booktitle>
+<url>db/conf/bncod/bncod97.html#XuP97</url>
+<ee>https://doi.org/10.1007/3-540-63263-8_23</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dbpl/PoulovassilisS97" mdate="2017-05-23">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="11/5195">Carol Small</author>
+<title>Formal Foundations for Optimising Aggregation Functions in Database Programming Languages.</title>
+<pages>299-318</pages>
+<cdrom>DBPL1997/P299.pdf</cdrom>
+<year>1997</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl97.html#PoulovassilisS97</url>
+<crossref>conf/dbpl/97</crossref>
+<ee>https://doi.org/10.1007/3-540-64823-2_17</ee>
+<cite>conf/vldb/BancilhonBKV87</cite>
+<cite>conf/icdt/BeeriK90</cite>
+<cite>...</cite>
+<cite>journals/sigmod/BunemanLSTW94</cite>
+<cite>journals/tcs/BunemanNTW95</cite>
+<cite>conf/vldb/ChaudhuriS94</cite>
+<cite>conf/sigmod/FegarasM95</cite>
+<cite>conf/bncod/GrustKGHS97</cite>
+<cite>conf/vldb/GuptaHQ95</cite>
+<cite>journals/cj/PatonG90</cite>
+<cite>conf/vldb/PoulovassilisS94</cite>
+<cite>journals/vldb/PoulovassilisS96</cite>
+<cite>...</cite>
+<cite>conf/fpca/SheardF93</cite>
+<cite>conf/vldb/SteenhagenABB94</cite>
+<cite>...</cite>
+<cite>conf/dbpl/Trinder91</cite>
+<cite>conf/lfp/Wadler90</cite>
+<cite>conf/vldb/YanL95</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/er/McBrienP97" mdate="2017-06-02">
+<author orcid="0000-0002-2153-9625" pid="m/PeterMcBrien">Peter McBrien</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>A Formal Framework for ER Schema Transformation.</title>
+<pages>408-421</pages>
+<cdrom>er97/ER97-P408.pdf</cdrom>
+<year>1997</year>
+<booktitle>ER</booktitle>
+<url>db/conf/er/er97.html#McBrienP97</url>
+<crossref>conf/er/97</crossref>
+<cite>journals/tse/BatiniL84</cite>
+<cite>journals/csur/BatiniL86</cite>
+<cite>conf/sigmod/BiskupC86</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/vldb/KashyapS96</cite>
+<cite>books/acm/kim95/KimCGS95</cite>
+<cite>journals/tse/LarsonNE89</cite>
+<cite>journals/is/McBrienP98</cite>
+<cite>conf/vldb/MillerIR93</cite>
+<cite>journals/is/MillerIR94</cite>
+<cite>journals/tods/Rissanen77</cite>
+<cite>journals/csur/ShethL90</cite>
+<cite>journals/vldb/SpaccapietraPD92</cite>
+<ee>https://doi.org/10.1007/3-540-63699-4_33</ee>
+</inproceedings>
+</r>
+<r><article key="journals/jiis/PoulovassilisRS96" mdate="2017-05-26">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="05/40">Swarup Reddi</author>
+<author pid="11/5195">Carol Small</author>
+<title>A Formal Semantics for an Active Functional DBPL.</title>
+<pages>151-172</pages>
+<year>1996</year>
+<volume>7</volume>
+<journal>J. Intell. Inf. Syst.</journal>
+<number>2</number>
+<url>db/journals/jiis/jiis7.html#PoulovassilisRS96</url>
+<ee>https://doi.org/10.1007/BF00127780</ee>
+</article>
+</r>
+<r><article key="journals/vlc/HildP96" mdate="2017-05-26">
+<author pid="49/2726">Stefan G. Hild</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Implementing Hyperlog, a Graph-Based Database Language.</title>
+<pages>267-289</pages>
+<year>1996</year>
+<volume>7</volume>
+<journal>J. Vis. Lang. Comput.</journal>
+<number>3</number>
+<url>db/journals/vlc/vlc7.html#HildP96</url>
+<ee>https://doi.org/10.1006/jvlc.1996.0015</ee>
+</article>
+</r>
+<r><article key="journals/vldb/PoulovassilisS96" mdate="2017-05-28">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="11/5195">Carol Small</author>
+<title>Algebraic Query Optimisation for Database Programming Languages</title>
+<journal>VLDB J.</journal>
+<volume>5</volume>
+<number>2</number>
+<year>1996</year>
+<pages>119-132</pages>
+<cdrom>VLDBJ5/60050119.pdf</cdrom>
+<url>db/journals/vldb/vldb5.html#PoulovassilisS96</url>
+<ee>https://doi.org/10.1007/s007780050019</ee>
+<cite>conf/vldb/Albert91</cite>
+<cite>conf/lfp/Augustsson84</cite>
+<cite>conf/vldb/BancilhonBKV87</cite>
+<cite>conf/icdt/BeeriK90</cite>
+<cite>conf/pods/BeeriM92</cite>
+<cite>...</cite>
+<cite>conf/dbpl/TannenBN91</cite>
+<cite>journals/jacm/BurstallD77</cite>
+<cite>conf/vldb/ChaudhuriS94</cite>
+<cite>conf/fpca/ClackJ85</cite>
+<cite>conf/sigmod/CluetD92</cite>
+<cite>books/mk/freytagMV91/DemuthGG91</cite>
+<cite>conf/dbpl/ErwigL91</cite>
+<cite>journals/tods/FreytagG89</cite>
+<cite>conf/pods/GangulyGZ91</cite>
+<cite>journals/cj/HarrisonK92</cite>
+<cite>...</cite>
+<cite>books/cu/HindleyS86</cite>
+<cite>journals/csur/JarkeK84</cite>
+<cite>...</cite>
+<cite>conf/dbpl/LibkinW93</cite>
+<cite>conf/sigmod/LieuwenD92</cite>
+<cite>conf/sigmod/OhoriBT89</cite>
+<cite>journals/cj/PatonG90</cite>
+<cite>...</cite>
+<cite>books/ph/Jones87</cite>
+<cite>journals/siamcomp/Plotkin76</cite>
+<cite>conf/vldb/PoulovassilisS93</cite>
+<cite>...</cite>
+<cite>conf/dbpl/ShawZ89</cite>
+<cite>conf/sigmod/Stonebraker91</cite>
+<cite>...</cite>
+<cite>books/cs/Ullman89</cite>
+<cite>conf/sigmod/VandenbergD91</cite>
+<cite>conf/lfp/Wadler90</cite>
+</article>
+</r>
+<r><inproceedings key="conf/avi/HildP96" mdate="2018-11-06">
+<author pid="49/2726">Stefan G. Hild</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Hyperlog: a system for database querying and browsing.</title>
+<pages>260-262</pages>
+<year>1996</year>
+<crossref>conf/avi/1996</crossref>
+<booktitle>AVI</booktitle>
+<ee>https://doi.org/10.1145/948449.948491</ee>
+<url>db/conf/avi/avi1996.html#HildP96</url>
+</inproceedings>
+</r>
+<r><article key="journals/dke/LorentzosPS95" mdate="2017-05-20">
+<author pid="26/1286">Nikos A. Lorentzos</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="11/5195">Carol Small</author>
+<title>Manipulation Operations for an Interval-Extended Relational Model.</title>
+<pages>1-29</pages>
+<year>1995</year>
+<volume>17</volume>
+<journal>Data Knowl. Eng.</journal>
+<number>1</number>
+<url>db/journals/dke/dke17.html#LorentzosPS95</url>
+<ee>https://doi.org/10.1016/0169-023X(95)00022-K</ee>
+</article>
+</r>
+<r><inproceedings key="conf/bncod/CourtenageP95" mdate="2017-05-20">
+<author pid="c/SimonCourtenage">Simon Courtenage</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Combining Inheritance and Parametric Polymorphism in a Functional Database Language.</title>
+<pages>24-46</pages>
+<year>1995</year>
+<crossref>conf/bncod/1995</crossref>
+<booktitle>BNCOD</booktitle>
+<url>db/conf/bncod/bncod95.html#CourtenageP95</url>
+<ee>https://doi.org/10.1007/BFb0000539</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rules/ReddiPS95" mdate="2017-05-20">
+<author pid="05/40">Swarup Reddi</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="11/5195">Carol Small</author>
+<title>Extending a Functional DBPL with ECA-rules.</title>
+<pages>101-118</pages>
+<year>1995</year>
+<crossref>conf/rules/95</crossref>
+<booktitle>Rules in Database Systems</booktitle>
+<url>db/conf/rules/rules95.html#ReddiPS95</url>
+<ee>https://doi.org/10.1007/3-540-60365-4_122</ee>
+</inproceedings>
+</r>
+<r><article key="journals/cj/LorentzosPS94" mdate="2017-05-20">
+<author pid="26/1286">Nikos A. Lorentzos</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="11/5195">Carol Small</author>
+<title>Implementation of Update Operations for Interval Relations.</title>
+<pages>164-176</pages>
+<year>1994</year>
+<volume>37</volume>
+<journal>Comput. J.</journal>
+<number>3</number>
+<url>db/journals/cj/cj37.html#LorentzosPS94</url>
+<ee>https://doi.org/10.1093/comjnl/37.3.164</ee>
+</article>
+</r>
+<r><article key="journals/tois/PoulovassilisL94" mdate="2018-11-06">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>A Nested-Graph Model for the Representation and Manipulation of Complex Objects.</title>
+<pages>35-68</pages>
+<year>1994</year>
+<volume>12</volume>
+<journal>ACM Trans. Inf. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/174608.174610</ee>
+<url>db/journals/tois/tois12.html#PoulovassilisL94</url>
+</article>
+</r>
+<r><inproceedings key="conf/vldb/PoulovassilisS94" mdate="2017-03-29">
+<crossref>conf/vldb/94</crossref>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="11/5195">Carol Small</author>
+<title>Investigation of Algebraic Query Optimisation Techniques for Database Programming Languages.</title>
+<pages>415-426</pages>
+<year>1994</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb94.html#PoulovassilisS94</url>
+<ee>http://www.vldb.org/conf/1994/P415.PDF</ee>
+<cite label="Alb91">conf/vldb/Albert91</cite>
+<cite label="Ban87">conf/vldb/BancilhonBKV87</cite>
+<cite label="Bee90">conf/icdt/BeeriK90</cite>
+<cite label="Bee92">conf/pods/BeeriM92</cite>
+<cite label="Bir88">...</cite>
+<cite label="Bre91">conf/dbpl/TannenBN91</cite>
+<cite label="Cla85">...</cite>
+<cite label="Clu92">conf/sigmod/CluetD92</cite>
+<cite label="Dem94">books/mk/freytagMV91/DemuthGG91</cite>
+<cite label="Erw91">conf/dbpl/ErwigL91</cite>
+<cite label="Har92">journals/cj/HarrisonK92</cite>
+<cite label="Hey91">...</cite>
+<cite label="Hin86">books/cu/HindleyS86</cite>
+<cite label="Jar84">journals/csur/JarkeK84</cite>
+<cite label="Lie92">conf/sigmod/LieuwenD92</cite>
+<cite label="Oho89">conf/sigmod/OhoriBT89</cite>
+<cite label="Pat90">journals/cj/PatonG90</cite>
+<cite label="Pau87">...</cite>
+<cite label="Pey87">books/ph/Jones87</cite>
+<cite label="Pou93">conf/vldb/PoulovassilisS93</cite>
+<cite label="Sch86">...</cite>
+<cite label="Sha89">conf/dbpl/ShawZ89</cite>
+<cite label="Sto91">conf/sigmod/Stonebraker91</cite>
+<cite label="Tri89">...</cite>
+<cite label="Ull89">books/cs/Ullman89</cite>
+<cite label="Van91">conf/sigmod/VandenbergD91</cite>
+</inproceedings>
+</r>
+<r><article key="journals/cj/Poulovassilis93" mdate="2017-05-20">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>A Pattern-Matching Algorithm for Functional Databases.</title>
+<pages>195-199</pages>
+<year>1993</year>
+<volume>36</volume>
+<journal>Comput. J.</journal>
+<number>2</number>
+<url>db/journals/cj/cj36.html#Poulovassilis93</url>
+<ee>https://doi.org/10.1093/comjnl/36.2.195</ee>
+</article>
+</r>
+<r><article key="journals/sigmod/LevenePBST93" mdate="2020-03-06">
+<ee>https://doi.org/10.1145/166635.166647</ee>
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="91/37">Kerima Benkerimi</author>
+<author pid="05/2705">Sara Schwartz</author>
+<author pid="55/430">Eran Tuv</author>
+<title>Implementation of a Graph-Based Data Model for Complex Objects.</title>
+<pages>26-31</pages>
+<cdrom>sigmodR/22-4/P026.pdf</cdrom>
+<year>1993</year>
+<volume>22</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<url>db/journals/sigmod/sigmod22.html#LevenePBST93</url>
+</article>
+</r>
+<r><inproceedings key="conf/rules/BenkerimiP93" mdate="2019-06-24">
+<author pid="91/37">Kerima Benkerimi</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>Semi-Naive Evaluation for Hyperlog, a Graph-Based Language for Complex Objects.</title>
+<pages>251-267</pages>
+<year>1993</year>
+<crossref>conf/rules/93</crossref>
+<booktitle>Rules in Database Systems</booktitle>
+<url>db/conf/rules/rules93.html#BenkerimiP93</url>
+<ee>https://doi.org/10.1007/978-1-4471-3225-7_15</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/PoulovassilisS93" mdate="2017-03-29">
+<crossref>conf/vldb/93</crossref>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="11/5195">Carol Small</author>
+<title>A Domain-theoretic Approach to Integrating Functional and Logic Database Languages.</title>
+<pages>416-428</pages>
+<year>1993</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb93.html#PoulovassilisS93</url>
+<ee>http://www.vldb.org/conf/1993/P416.PDF</ee>
+<cite>journals/tods/AbiteboulG91</cite>
+<cite>journals/tods/AlbanoCO85</cite>
+<cite>conf/sigmod/Annevelink91</cite>
+<cite>conf/vldb/BancilhonBKV87</cite>
+<cite>journals/tods/BatoryLW88</cite>
+<cite>conf/pods/BeeriR87</cite>
+<cite>conf/edbt/Beech88</cite>
+<cite>journals/tcs/BunemanJO91</cite>
+<cite>...</cite>
+<cite>journals/csur/CardelliW85</cite>
+<cite>conf/edbt/Cardelli88</cite>
+<cite>books/sp/CeriGT90</cite>
+<cite>journals/tkde/ChimentiGKNTZ90</cite>
+<cite>conf/adbt/Clark77</cite>
+<cite>...</cite>
+<cite>conf/btw/DayalMBCGHOR87</cite>
+<cite>conf/dood/Grumbach89</cite>
+<cite>conf/oodbs/HeilerZ88</cite>
+<cite>books/cu/HindleyS86</cite>
+<cite>conf/pods/Kuper88</cite>
+<cite>journals/jlp/LloydT85</cite>
+<cite>books/sp/Lloyd87</cite>
+<cite>journals/tse/ManninoCB90</cite>
+<cite>conf/dbpl/MatthesS89</cite>
+<cite>conf/iclp/MorrisUG86</cite>
+<cite>conf/sigmod/OhoriBT89</cite>
+<cite>books/ph/Jones87</cite>
+<cite>conf/edbt/PoulovassilisK90</cite>
+<cite>conf/vldb/PoulovassilisS91</cite>
+<cite>conf/bncod/Reddi93</cite>
+<cite>...</cite>
+<cite>journals/jfp/SilbermannJ92</cite>
+<cite>conf/dbpl/SmallP91</cite>
+<cite>journals/cj/SondergaardS92</cite>
+<cite>...</cite>
+<cite>books/cs/Ullman88</cite>
+</inproceedings>
+</r>
+<r><article key="journals/cj/Poulovassilis92" mdate="2017-05-20">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>The Implementation of FDL, a Functional Database Language.</title>
+<pages>119-128</pages>
+<year>1992</year>
+<volume>35</volume>
+<journal>Comput. J.</journal>
+<number>2</number>
+<url>db/journals/cj/cj35.html#Poulovassilis92</url>
+<ee>https://doi.org/10.1093/comjnl/35.2.119</ee>
+</article>
+</r>
+<r><inproceedings key="conf/bncod/TuvPL92" mdate="2017-05-20">
+<author pid="55/430">Eran Tuv</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="l/MarkLevene">Mark Levene</author>
+<title>A Storage Manager for the Hypernode Model.</title>
+<pages>59-77</pages>
+<year>1992</year>
+<crossref>conf/bncod/1992</crossref>
+<booktitle>BNCOD</booktitle>
+<url>db/conf/bncod/bncod92.html#TuvPL92</url>
+<ee>https://doi.org/10.1007/3-540-55693-1_32</ee>
+</inproceedings>
+</r>
+<r><article key="journals/dke/LeveneP91" mdate="2017-05-20">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>An object-oriented data model formalised through hypergraphs.</title>
+<pages>205-234</pages>
+<year>1991</year>
+<volume>6</volume>
+<journal>Data Knowl. Eng.</journal>
+<url>db/journals/dke/dke6.html#LeveneP91</url>
+<ee>https://doi.org/10.1016/0169-023X(91)90005-I</ee>
+</article>
+</r>
+<r><inproceedings key="conf/dbpl/SmallP91" mdate="2012-09-18">
+<author pid="11/5195">Carol Small</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>An Overview of PFL.</title>
+<pages>96-110</pages>
+<cdrom>DBPL1991/P096.pdf</cdrom>
+<year>1991</year>
+<booktitle>DBPL</booktitle>
+<url>db/conf/dbpl/dbpl91.html#SmallP91</url>
+<crossref>conf/dbpl/91</crossref>
+<cite label="Atk87">journals/csur/AtkinsonB87</cite>
+<cite label="Aug89">journals/cj/AugustssonJ89</cite>
+<cite label="Ban86">conf/sigmod/BancilhonR86</cite>
+<cite label="Ban87">conf/vldb/BancilhonBKV87</cite>
+<cite label="Bir88">...</cite>
+<cite label="Bun82">journals/tods/BunemanFN82</cite>
+<cite label="Car85">journals/csur/CardelliW85</cite>
+<cite label="Car88">conf/edbt/Cardelli88</cite>
+<cite label="Cer90">books/sp/CeriGT90</cite>
+<cite label="Chi90">journals/tkde/ChimentiGKNTZ90</cite>
+<cite label="Cla85">conf/fpca/ClackJ85</cite>
+<cite label="Cla78">conf/adbt/Clark77</cite>
+<cite label="Clo81">books/sp/ClocksinM81</cite>
+<cite label="Day87">conf/btw/DayalMBCGHOR87</cite>
+<cite label="Dec86">conf/eds/Decker86</cite>
+<cite label="Enb88">journals/csur/EnbodyD88</cite>
+<cite label="Fas87">...</cite>
+<cite label="Fie88">books/aw/FieldH88</cite>
+<cite label="Fre87">conf/sigmod/Freeston87</cite>
+<cite label="Gal84">journals/csur/GallaireMN84</cite>
+<cite label="Gra88">conf/edbt/GrayMP88</cite>
+<cite label="Gro86">...</cite>
+<cite label="Hen80">...</cite>
+<cite label="Hor90">...</cite>
+<cite label="Hug85">conf/fpca/Hughes85</cite>
+<cite label="Hug89">journals/cj/Hughes89</cite>
+<cite label="Jou85">conf/fpca/85</cite>
+<cite label="Kow79">...</cite>
+<cite label="Kul86">journals/cj/KulkarniA86</cite>
+<cite label="Man90">journals/tse/ManninoCB90</cite>
+<cite label="Llo85">journals/jlp/LloydT85</cite>
+<cite label="Nic82">journals/acta/Nicolas82</cite>
+<cite label="Nie84">journals/tods/NievergeltHS84</cite>
+<cite label="Nik85">conf/fpca/Nikhil85</cite>
+<cite label="Oho89">conf/sigmod/OhoriBT89</cite>
+<cite label="Pey87">books/ph/Jones87</cite>
+<cite label="Pou90a">conf/edbt/PoulovassilisK90</cite>
+<cite label="Pou90b">journals/cj/Poulovassilis92</cite>
+<cite label="Pou91">conf/vldb/PoulovassilisS91</cite>
+<cite label="Rei80">journals/ai/Reiter80</cite>
+<cite label="Rob65">journals/jacm/Robinson65</cite>
+<cite label="Shi81">journals/tods/Shipman81</cite>
+<cite label="Sma91">...</cite>
+<cite label="Ste86">books/mit/SterlingS86</cite>
+<cite label="Toy87">...</cite>
+<cite label="Tur85">conf/fpca/Turner85</cite>
+<cite label="Ull88">books/cs/Ullman88</cite>
+<cite label="Ven88">...</cite>
+<cite label="War82">...</cite>
+<cite label="Wik87">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/PoulovassilisS91" mdate="2017-03-29">
+<crossref>conf/vldb/91</crossref>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="11/5195">Carol Small</author>
+<title>A Functional Programming Approach to Deductive Databases.</title>
+<pages>491-500</pages>
+<year>1991</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb91.html#PoulovassilisS91</url>
+<ee>http://www.vldb.org/conf/1991/P491.PDF</ee>
+<cite label="Abi88a">conf/edbt/AbiteboulG88</cite>
+<cite label="Abi88b">conf/pods/AbiteboulV88</cite>
+<cite label="Abi89">conf/sigmod/AbiteboulK89</cite>
+<cite label="Alb85">journals/tods/AlbanoCO85</cite>
+<cite label="Ban87">conf/vldb/BancilhonBKV87</cite>
+<cite label="Bat88">journals/tods/BatoryLW88</cite>
+<cite label="Bee88">conf/edbt/Beech88</cite>
+<cite label="Bun82">journals/tods/BunemanFN82</cite>
+<cite label="Car84">journals/scp/Cardelli87</cite>
+<cite label="Car85">...</cite>
+<cite label="Car88a">journals/iandc/Cardelli88</cite>
+<cite label="Car88b">conf/edbt/Cardelli88</cite>
+<cite label="Che89">conf/dbpl/ChenKW89</cite>
+<cite label="Cer90">books/sp/CeriGT90</cite>
+<cite label="Chi90">journals/tkde/ChimentiGKNTZ90</cite>
+<cite label="Com79">journals/csur/Comer79</cite>
+<cite label="Day87">conf/btw/DayalMBCGHOR87</cite>
+<cite label="DBP89">...</cite>
+<cite label="Enb88">journals/csur/EnbodyD88</cite>
+<cite label="Gal84">journals/csur/GallaireMN84</cite>
+<cite label="Gra88a">...</cite>
+<cite label="Gra88b">conf/edbt/GrayMP88</cite>
+<cite label="Gru89">conf/dood/Grumbach89</cite>
+<cite label="Hei88">conf/oodbs/HeilerZ88</cite>
+<cite label="Hen80">...</cite>
+<cite label="Hor90">...</cite>
+<cite label="Kif89">conf/pods/KiferW89</cite>
+<cite label="Kul86">journals/cj/KulkarniA86</cite>
+<cite label="Mor89">...</cite>
+<cite label="Myc84">journals/ai/MycroftO84</cite>
+<cite label="Nik85">...</cite>
+<cite label="Pey87">books/ph/Jones87</cite>
+<cite label="Pou90">conf/edbt/PoulovassilisK90</cite>
+<cite label="Shi81">journals/tods/Shipman81</cite>
+<cite label="Sma90">...</cite>
+<cite label="Smi83">...</cite>
+<cite label="Ull88">books/cs/Ullman88</cite>
+<cite label="Xu89">conf/iclp/XuW88</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bncod/KingDPS90" mdate="2017-02-02">
+<author pid="k/PeterJHKing">Peter J. H. King</author>
+<author pid="48/3869">Mir Derakhshan</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="11/5195">Carol Small</author>
+<title>TriStap - An Investigation into the Implementation and Exploitation of Binary Relational Storage Structures.</title>
+<pages>64-84</pages>
+<year>1990</year>
+<crossref>conf/bncod/1990</crossref>
+<booktitle>BNCOD</booktitle>
+<url>db/conf/bncod/bncod90.html#KingDPS90</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/PoulovassilisK90" mdate="2017-05-19">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<author pid="k/PeterJHKing">Peter J. H. King</author>
+<title>Extending the Functional Data Model to Computational Completeness.</title>
+<pages>75-91</pages>
+<cdrom>EDBT90/P075.pdf</cdrom>
+<crossref>conf/edbt/90</crossref>
+<year>1990</year>
+<booktitle>EDBT</booktitle>
+<url>db/conf/edbt/edbt90.html#PoulovassilisK90</url>
+<ee>https://doi.org/10.1007/BFb0022165</ee>
+<cite label="ABRI74">...</cite>
+<cite label="ALBA85">journals/tods/AlbanoCO85</cite>
+<cite label="ATKI87">journals/csur/AtkinsonB87</cite>
+<cite label="BANC87">conf/vldb/BancilhonBKV87</cite>
+<cite label="BANC88">conf/pods/Bancilhon88</cite>
+<cite label="BATO88">journals/tods/BatoryLW88</cite>
+<cite label="BEEC88">conf/edbt/Beech88</cite>
+<cite label="Bune82">journals/tods/BunemanFN82</cite>
+<cite label="CARD85">...</cite>
+<cite label="CARD87">journals/scp/Cardelli87</cite>
+<cite label="CLAR78">conf/adbt/Clark77</cite>
+<cite label="DAYA87">conf/btw/DayalMBCGHOR87</cite>
+<cite label="DERA89">...</cite>
+<cite label="DITT88">...</cite>
+<cite label="FIEL88">books/aw/FieldH88</cite>
+<cite label="FLOR74">journals/cj/Florentin74</cite>
+<cite label="GALL78">...</cite>
+<cite label="GRAY88">conf/edbt/GrayMP88</cite>
+<cite label="HAMM78">conf/sigmod/HammerM78</cite>
+<cite label="HEIL88">conf/oodbs/HeilerZ88</cite>
+<cite label="HIND86">books/cu/HindleyS86</cite>
+<cite label="JOU85">...</cite>
+<cite label="KHOS86">conf/oopsla/KhoshafianC86</cite>
+<cite label="KING89">...</cite>
+<cite label="KULK86">journals/cj/KulkarniA86</cite>
+<cite label="KULK87">journals/spe/KulkarniA87</cite>
+<cite label="MILN78">journals/jcss/Milner78</cite>
+<cite label="MILN84">...</cite>
+<cite label="NIEV84">journals/tods/NievergeltHS84</cite>
+<cite label="NIKH85">...</cite>
+<cite label="PATO88">...</cite>
+<cite label="PEYT87">books/ph/Jones87</cite>
+<cite label="POUL89">...</cite>
+<cite label="REIT78">conf/adbt/Reiter77</cite>
+<cite label="SCHM88">...</cite>
+<cite label="SHIP81">journals/tods/Shipman81</cite>
+<cite label="SIBL">...</cite>
+<cite label="SMIT83">...</cite>
+<cite label="TURN85">...</cite>
+<cite label="VERH82">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/jcit/LeveneP90" mdate="2019-02-22">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>The hypernode model and its associated query language.</title>
+<pages>520-530</pages>
+<year>1990</year>
+<booktitle>Jerusalem Conference on Information Technology</booktitle>
+<ee>https://doi.org/10.1109/JCIT.1990.128324</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/JCIT.1990.128324</ee>
+<ee>http://dl.acm.org/citation.cfm?id=100601</ee>
+<crossref>conf/jcit/1990</crossref>
+<url>db/conf/jcit/jcit1990.html#LeveneP90</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fmldo/LeveneP89" mdate="2014-02-11">
+<author pid="l/MarkLevene">Mark Levene</author>
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>The Hypernode Model: A Graph-Theoretic Approach to Integrating Data and Computation.</title>
+<pages>55-77</pages>
+<year>1989</year>
+<crossref>conf/fmldo/1989</crossref>
+<booktitle>FMLDO</booktitle>
+<url>db/conf/fmldo/fmldo89.html#LeveneP89</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bncod/Poulovassilis88" mdate="2017-02-02">
+<author pid="p/APoulovassilis">Alexandra Poulovassilis</author>
+<title>FDL: An Integration of the Functional Data Model and the Functional Computational Model.</title>
+<pages>215-236</pages>
+<year>1988</year>
+<crossref>conf/bncod/1988</crossref>
+<booktitle>BNCOD</booktitle>
+<url>db/conf/bncod/bncod88.html#Poulovassilis88</url>
+</inproceedings>
+</r>
+<coauthors n="117" nc="6">
+<co c="0"><na f="a/Al=Tawil:Marwan" pid="153/0703">Marwan Al-Tawil</na></co>
+<co c="0"><na f="a/Alasiry:Areej" pid="117/4237">Areej Alasiry</na></co>
+<co c="0"><na f="b/Bailey_0001:James" pid="b/JamesBailey">James Bailey 0001</na></co>
+<co c="1"><na f="b/Ballatore:Andrea" pid="58/8009">Andrea Ballatore</na></co>
+<co c="0"><na f="b/Belhajjame:Khalid" pid="39/3585">Khalid Belhajjame</na></co>
+<co c="0"><na f="b/Benkerimi:Kerima" pid="91/37">Kerima Benkerimi</na></co>
+<co c="0"><na f="b/Brownlow:Richard" pid="142/8765">Richard Brownlow</na></co>
+<co c="0"><na f="c/Cal=igrave=:Andrea" pid="c/AndreaCali">Andrea Cal&#236;</na></co>
+<co c="1"><na f="c/Candlin:Fiona" pid="257/0216">Fiona Candlin</na></co>
+<co c="0"><na f="c/Capuzzi:Stefano" pid="139/1409">Stefano Capuzzi</na></co>
+<co c="0"><na f="c/Christophides:Vassilis" pid="c/VassilisChristophides">Vassilis Christophides</na></co>
+<co c="0"><na f="c/C=ocirc=t=eacute=:Richard_G=" pid="07/2132">Richard G. C&#244;t&#233;</na></co>
+<co c="0"><na f="c/Courtenage:Simon" pid="c/SimonCourtenage">Simon Courtenage</na></co>
+<co c="0"><na f="d/Derakhshan:Mir" pid="48/3869">Mir Derakhshan</na></co>
+<co c="0"><na f="d/Dimartino:Mirko_Michele" pid="139/1427">Mirko Michele Dimartino</na></co>
+<co c="0"><na f="d/Dimitrova:Vania" pid="43/3552">Vania Dimitrova</na></co>
+<co c="4"><na f="d/Dorn:J=uuml=rgen" pid="d/JDorn">J&#252;rgen Dorn</na></co>
+<co c="3"><na f="e/Eaglestone:Barry" pid="75/7016">Barry Eaglestone</na></co>
+<co c="0"><na f="e/Embury:Suzanne_M=" pid="e/SMEmbury">Suzanne M. Embury</na></co>
+<co c="0"><na f="f/Fan_0001:Hao" pid="23/2535-1">Hao Fan 0001</na></co>
+<co c="0"><na f="f/Fletcher:George_H=_L=" pid="f/GeorgeHLFletcher">George H. L. Fletcher</na></co>
+<co c="0"><na f="f/Freitas:Sara_de" pid="28/2925">Sara de Freitas</na></co>
+<co c="0"><na f="f/Frosini:Riccardo" pid="116/1406">Riccardo Frosini</na></co>
+<co c="0"><na f="g/Geraniou:Eirini" pid="68/6866">Eirini Geraniou</na></co>
+<co c="0"><na f="g/Goble:Carole_A=" pid="g/CaroleAGoble">Carole A. Goble</na></co>
+<co c="0"><na f="g/Grawemeyer:Beate" pid="32/3437">Beate Grawemeyer</na></co>
+<co c="0" n="2"><na f="h/Haig:Ella" pid="25/2079">Ella Haig</na><na>Mihaela Cocea</na></co>
+<co c="0"><na f="h/Harrison:Ian" pid="22/2113">Ian Harrison</na></co>
+<co c="0"><na f="h/Helmer:Sven" pid="h/SvenHelmer">Sven Helmer</na></co>
+<co c="0"><na f="h/Hermjakob:Henning" pid="71/4115">Henning Hermjakob</na></co>
+<co c="-1"><na f="h/Hild:Stefan_G=" pid="49/2726">Stefan G. Hild</na></co>
+<co c="0"><na f="h/Holmes:Wayne" pid="12/10891">Wayne Holmes</na></co>
+<co c="0"><na f="h/Hoyles:Celia" pid="40/4217">Celia Hoyles</na></co>
+<co c="0"><na f="h/Hubbard:Simon_J=" pid="66/4750">Simon J. Hubbard</na></co>
+<co c="0"><na f="h/Hurtado:Carlos_A=" pid="43/1720">Carlos A. Hurtado</na></co>
+<co c="2"><na f="j/Jasper:Edgar" pid="09/4024">Edgar Jasper</na></co>
+<co c="0"><na f="j/Jones:Andrew_R=" pid="60/5207">Andrew R. Jones</na></co>
+<co c="0"><na f="j/Jones:David_T=" pid="08/2122">David T. Jones</na></co>
+<co c="0"><na f="j/Jones:Philip" pid="90/468">Philip Jones</na></co>
+<co c="0"><na f="k/Kahn:Ken" pid="87/551">Ken Kahn</na></co>
+<co c="0"><na f="k/Karkalas:Sokratis" pid="99/4106">Sokratis Karkalas</na></co>
+<co c="0"><na f="k/Karoudis:Konstantinos" pid="195/3256">Konstantinos Karoudis</na></co>
+<co c="0"><na f="k/Keenoy:Kevin" pid="41/5459">Kevin Keenoy</na></co>
+<co c="0"><na f="k/King:Peter_J=_H=" pid="k/PeterJHKing">Peter J. H. King</na></co>
+<co c="0"><na f="k/Kokkinidis:Giorgos" pid="71/6951">Giorgos Kokkinidis</na></co>
+<co c="0"><na f="k/Kotzinos:Dimitris" pid="26/1664">Dimitris Kotzinos</na></co>
+<co c="0"><na f="l/Labeke:Nicolas_van" pid="84/88">Nicolas van Labeke</na></co>
+<co c="1"><na f="l/Larkin:Jamie" pid="257/0729">Jamie Larkin</na></co>
+<co c="1"><na f="l/Larsson:Nick" pid="257/0708">Nick Larsson</na></co>
+<co c="0"><na f="l/Lefevre:David" pid="175/4874">David Lefevre</na></co>
+<co c="0"><na f="l/Levene:Mark" pid="l/MarkLevene">Mark Levene</na></co>
+<co c="0"><na f="l/Liarokapis:Fotis" pid="41/3843">Fotis Liarokapis</na></co>
+<co c="0"><na f="l/Loizou:George" pid="l/GeorgeLoizou">George Loizou</na></co>
+<co c="0"><na f="l/Lorentzos:Nikos_A=" pid="26/1286">Nikos A. Lorentzos</na></co>
+<co c="0"><na f="m/Magkanaraki:Aimilia" pid="96/3584">Aimilia Magkanaraki</na></co>
+<co c="0"><na f="m/Magoulas:George_D=" pid="m/GeorgeDMagoulas">George D. Magoulas</na></co>
+<co c="0"><na f="m/Maibaum:Michael" pid="57/5702">Michael Maibaum</na></co>
+<co c="-1"><na f="m/Maneth:Sebastian" pid="m/SebastianManeth">Sebastian Maneth</na></co>
+<co c="0"><na f="m/Martin_0001:Nigel_J=" pid="m/NigelJMartin">Nigel J. Martin 0001</na></co>
+<co c="0"><na f="m/Martins:Luciana" pid="160/1820">Luciana Martins</na></co>
+<co c="0"><na f="m/Mavrikis:Manolis" pid="37/2363">Manolis Mavrikis</na></co>
+<co c="2"><na f="m/McBrien:Peter" pid="m/PeterMcBrien">Peter McBrien</na></co>
+<co c="0"><na f="m/Mee:Adrian" pid="62/9370">Adrian Mee</na></co>
+<co c="0"><na f="m/Mohamad:Fitri" pid="170/6354">Fitri Mohamad</na></co>
+<co c="4"><na f="n/Naz:Tabbasum" pid="49/8292">Tabbasum Naz</na></co>
+<co c="0"><na f="n/Newson:Peter" pid="71/6487">Peter Newson</na></co>
+<co c="-1"><na f="n/Nonas:Evaggelos" pid="58/5010">Evaggelos Nonas</na></co>
+<co c="0"><na f="n/Normann:Immanuel" pid="85/3819">Immanuel Normann</na></co>
+<co c="3"><na f="n/North:Siobh=aacute=n" pid="39/2399">Siobh&#225;n North</na></co>
+<co c="0"><na f="n/Noss:Richard" pid="08/2396">Richard Noss</na></co>
+<co c="5"><na f="o/O=Hagan:Thomas" pid="169/5474">Thomas O'Hagan</na></co>
+<co c="0"><na f="o/Oliver:Martin" pid="46/6415">Martin Oliver</na></co>
+<co c="0"><na f="o/Oliver:Stephen_G=" pid="91/6259">Stephen G. Oliver</na></co>
+<co c="0"><na f="o/Orengo:Christine_A=" pid="71/4733">Christine A. Orengo</na></co>
+<co c="0"><na f="p/Papamarkos:George" pid="70/7009">George Papamarkos</na></co>
+<co c="0"><na f="p/Paton:Norman_W=" pid="p/NWPaton">Norman W. Paton</na></co>
+<co c="0" n="2"><na f="p/Pearce:Darren" pid="23/182">Darren Pearce</na><na>Darren Pearce-Lazard</na></co>
+<co c="0"><na f="p/Pentony:Melissa_M=" pid="98/7240">Melissa M. Pentony</na></co>
+<co c="0"><na f="p/Peters:Jeroen" pid="177/0272">Jeroen Peters</na></co>
+<co c="0"><na f="p/Pinto:Marta" pid="04/6641">Marta Pinto</na></co>
+<co c="0"><na f="r/Rebolledo=Mendez:Genaro" pid="67/4802">Genaro Rebolledo-Mendez</na></co>
+<co c="0"><na f="r/Reddi:Swarup" pid="05/40">Swarup Reddi</na></co>
+<co c="0"><na f="r/Rigaux:Philippe" pid="r/PRigaux">Philippe Rigaux</na></co>
+<co c="0"><na f="r/Rimon:Galia" pid="53/2103">Galia Rimon</na></co>
+<co c="0"><na f="r/Roussos:George" pid="55/4141">George Roussos</na></co>
+<co c="0"><na f="s/Samaras:George" pid="s/GeorgeSamaras">George Samaras</na></co>
+<co c="0"><na f="s/Santos:Sergio_Guti=eacute=rrez" pid="67/4644">Sergio Guti&#233;rrez Santos</na></co>
+<co c="0"><na f="s/Schwartz:Sara" pid="05/2705">Sara Schwartz</na></co>
+<co c="0"><na f="s/Selley:Julian_N=" pid="45/4143">Julian N. Selley</na></co>
+<co c="0"><na f="s/Selmer:Petra" pid="50/7441">Petra Selmer</na></co>
+<co c="0"><na f="s/Siepen:Jennifer_A=" pid="92/893">Jennifer A. Siepen</na></co>
+<co c="0"><na f="s/Small:Carol" pid="11/5195">Carol Small</na></co>
+<co c="0"><na f="s/Spyratos:Nicolas" pid="s/NicolasSpyratos">Nicolas Spyratos</na></co>
+<co c="0"><na f="s/Stevens_0001:Robert" pid="s/RobertStevens">Robert Stevens 0001</na></co>
+<co c="0"><na f="s/Stratakis:Miltos" pid="67/1891">Miltos Stratakis</na></co>
+<co c="0"><na f="s/Sumrall:Jonathan_M=" pid="200/5304">Jonathan M. Sumrall</na></co>
+<co c="0"><na f="s/Svensson:Johan" pid="81/6214">Johan Svensson</na></co>
+<co c="0"><na f="t/Taverner:B=_Craig" pid="27/4461">B. Craig Taverner</na></co>
+<co c="0"><na f="t/Thakker:Dhavalkumar" pid="61/2159">Dhavalkumar Thakker</na></co>
+<co c="2"><na f="t/Tong:Nerissa" pid="45/6224">Nerissa Tong</na></co>
+<co c="0"><na f="t/Tuv:Eran" pid="55/430">Eran Tuv</na></co>
+<co c="0"><na f="v/Vejlstrup:Magnus" pid="89/4954">Magnus Vejlstrup</na></co>
+<co c="0"><na f="v/Vest:Chris" pid="200/5302">Chris Vest</na></co>
+<co c="0"><na f="w/Wang:Jianing" pid="85/1466">Jianing Wang</na></co>
+<co c="0"><na f="w/Wang:Li" pid="58/6810">Li Wang</na></co>
+<co c="0"><na f="w/Webber:Jim" pid="03/680">Jim Webber</na></co>
+<co c="0"><na f="w/Wells:Marc" pid="178/9016">Marc Wells</na></co>
+<co c="-1"><na f="w/Williams:Dean" pid="81/2127">Dean Williams</na></co>
+<co c="0"><na f="w/Winters:Niall" pid="17/211">Niall Winters</na></co>
+<co c="0"><na f="w/Wollenschlaeger:Alex" pid="178/8965">Alex Wollenschlaeger</na></co>
+<co c="0"><na f="w/Wood:Peter_T=" pid="w/PeterTWood">Peter T. Wood</na></co>
+<co c="5"><na f="x/Xhafa:Fatos" pid="80/6437">Fatos Xhafa</na></co>
+<co c="-1"><na f="x/Xu:Lihui" pid="86/1759">Lihui Xu</na></co>
+<co c="0"><na f="y/Yakovets:Nikolay" pid="92/9686">Nikolay Yakovets</na></co>
+<co c="0"><na f="z/Zamboulis:Lucas" pid="z/LucasZamboulis">Lucas Zamboulis</na></co>
+<co c="0"><na f="z/Zhu:Zheng" pid="29/4319">Zheng Zhu</na></co>
+<co c="0"><na f="z/Zoumboulakis:Michael" pid="43/2037">Michael Zoumboulakis</na></co>
+</coauthors>
+</dblpperson>
+
