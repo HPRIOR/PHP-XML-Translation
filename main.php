@@ -23,8 +23,8 @@ function getNameArray(){
 function countArray()
 {
     $textInput = end($_GET);
+    $returnArray = [];
     $nestedArray = [];
-    $countArray = [];
     //cycle through each xml document with names given
     foreach ($_GET as $key => $value) {
         if ($key != "venue") {
@@ -41,51 +41,74 @@ function countArray()
                         queryString("incollection",  "booktitle", $textInput, "author", $value2) ."|".
                         queryString("proceedings",  "booktitle", $textInput, "editor", $value2)
                     );
-                    $countArray[] = count($domList, COUNT_NORMAL);
+                    $nestedArray[] = count($domList, COUNT_NORMAL);
                 }
             }
-            $nestedArray[] = $countArray;
-            $countArray = [];
+            $returnArray[] = $nestedArray;
+            $nestedArray = [];
         }
     }
-
-    return $nestedArray;
+    return $returnArray;
 }
 
 function createTable(){
     $nestedArray = countArray();
     $count = count($nestedArray, COUNT_NORMAL);
-    $namearray = getNameArray();
-    echo "<tr>";
-    echo "<th> -  </th>";
-    foreach ($_GET as $key => $value) {
-        if ($key != "venue") echo "<th>{$key}</th>";
-    }
-    echo "</tr>";
-    for ( $i = 0 ; $i < $count; $i++){
+    $nameArray = getNameArray();
+    if ($count != 0){
+        echo "<table>";
         echo "<tr>";
-        echo "<td>".$namearray[$i]."</td>";
-        for ( $j = 0 ; $j < $count; $j++){
-            echo "<td>";
-            echo $nestedArray[$i][$j];
-            echo "</td>";
+        echo "<th> -  </th>";
+        foreach ($_GET as $key => $value) {
+            if ($key != "venue") echo "<th>{$key}</th>";
         }
         echo "</tr>";
+        for ( $i = 0 ; $i < $count; $i++){
+            echo "<tr>";
+            echo "<td>".$nameArray[$i]."</td>";
+            for ( $j = 0 ; $j < $count; $j++){
+                echo "<td>";
+                echo $nestedArray[$i][$j];
+                echo "</td>";
+            }
+            echo "</tr>";
+        }
+        echo "</table>";
+    }
+    else echo "No authors/editors selected";
+
+}
+
+function createHeader(){
+    $venue = $_GET["venue"];
+    if ($venue == ""){
+        return "Publication records for all venues";
+    }
+    else{
+        return "Publication records for {$venue}";
     }
 }
+
 ?>
 
 
 <!DOCTYPE html>
+<style>
+    table, th, td {
+        border: 1px solid black;
+    }
+</style>
 <html lang="en">
     <body>
-        <header>
+        <h1>
+            <?php
+            echo createHeader()
+            ?>
+        </h1>
 
-        </header>
-        <table>
             <?php
             createTable();
             ?>
-        </table>
+
     </body>
 </html>
