@@ -1,7 +1,11 @@
 <?php
+/*
+ * I have changed the names of the xml files to make the key-values of the associative array more conducive to
+ * the solution.
+ */
 
+// returns query string from arguments. Conditional checks for venue specification
 function queryString($medium, $titleType, $venue, $authorType, $pid){
-    //change query - think 'book' medium type is the problem
     if ($venue != ""){
         return "//dblpperson/r/{$medium}[{$titleType}/text()=\"{$venue}\"]/{$authorType}[@pid=\"{$pid}\"]";
     }
@@ -10,6 +14,7 @@ function queryString($medium, $titleType, $venue, $authorType, $pid){
     }
 }
 
+// returns the names of selected academics, or order so that they can be used to generate html table
 function getNameArray(){
     $nameArray = [];
     foreach($_GET as $key => $value){
@@ -20,6 +25,7 @@ function getNameArray(){
     return $nameArray;
 }
 
+// returns a 2D Array. First loop iterates through each xml doc, the next queries each xml with each pid value
 function countArray()
 {
     $textInput = end($_GET);
@@ -34,14 +40,15 @@ function countArray()
             // cycle through again for each name given
             foreach ($_GET as $key2 => $value2) {
                 if ($key2 != "venue"){
-                    $domList = $xpath->query(
+                   $evaluate = $xpath->evaluate("count(".
                         queryString("article",  "journal", $textInput, "author", $value2)."|".
+                        queryString("book",  "none", $textInput, "editor", $value2)."|".
                         queryString("book",  "none", $textInput, "author", $value2)."|".
                         queryString("inproceedings",  "booktitle", $textInput, "author", $value2) ."|".
                         queryString("incollection",  "booktitle", $textInput, "author", $value2) ."|".
-                        queryString("proceedings",  "booktitle", $textInput, "editor", $value2)
+                        queryString("proceedings",  "booktitle", $textInput, "editor", $value2).")"
                     );
-                    $nestedArray[] = count($domList, COUNT_NORMAL);
+                    $nestedArray[] = $evaluate;
                 }
             }
             $returnArray[] = $nestedArray;
@@ -51,34 +58,36 @@ function countArray()
     return $returnArray;
 }
 
+
+// generates table from 2D array and name array
 function createTable(){
     $nestedArray = countArray();
     $count = count($nestedArray, COUNT_NORMAL);
     $nameArray = getNameArray();
     if ($count != 0){
-        echo "<table>";
-        echo "<tr>";
-        echo "<th> -  </th>";
+        echo "<table><tr><th> -  </th>";
         foreach ($_GET as $key => $value) {
+            // adds names to top of the table
             if ($key != "venue") echo "<th>{$key}</th>";
         }
         echo "</tr>";
         for ( $i = 0 ; $i < $count; $i++){
-            echo "<tr>";
-            echo "<td>".$nameArray[$i]."</td>";
+            // add names to first column
+            echo "<tr><td>".$nameArray[$i]."</td>";
             for ( $j = 0 ; $j < $count; $j++){
-                echo "<td>";
-                echo $nestedArray[$i][$j];
-                echo "</td>";
+                // populate table with results in nested array
+                echo "<td>".$nestedArray[$i][$j]."</td>";
             }
             echo "</tr>";
         }
         echo "</table>";
     }
+    // shows error message if no authors selected
     else echo "No authors/editors selected";
 
 }
 
+// returns header based on the value of text box in HTML
 function createHeader(){
     $venue = $_GET["venue"];
     if ($venue == ""){
@@ -88,7 +97,6 @@ function createHeader(){
         return "Publication records for {$venue}";
     }
 }
-
 ?>
 
 
@@ -101,14 +109,8 @@ function createHeader(){
 <html lang="en">
     <body>
         <h1>
-            <?php
-            echo createHeader()
-            ?>
+            <?php echo createHeader() ?>
         </h1>
-
-            <?php
-            createTable();
-            ?>
-
+        <?php createTable(); ?>
     </body>
 </html>
