@@ -48,10 +48,11 @@ function countArray()
                         queryString("incollection",  "booktitle", $textInput, "author", $value2) ."|".
                         queryString("proceedings",  "booktitle", $textInput, "editor", $value2).")"
                     );
+                   // appends the result of each query to the nested array
                     $nestedArray[] = $evaluate;
                 }
             }
-            // adds nested array to the returned array of the function
+            // appends nested array to the returned array of the function
             $returnArray[] = $nestedArray;
             // resets the nested array for the next loop
             $nestedArray = [];
