@@ -28,7 +28,7 @@ function getNameArray(){
 // returns a 2D Array. First loop iterates through each xml doc, the next queries each xml with each pid value
 function countArray()
 {
-    $textInput = end($_GET);
+    $textInput = trim(end($_GET));
     $returnArray = [];
     $nestedArray = [];
     //cycle through each xml document with names given
@@ -51,7 +51,9 @@ function countArray()
                     $nestedArray[] = $evaluate;
                 }
             }
+            // adds nested array to the returned array of the function
             $returnArray[] = $nestedArray;
+            // resets the nested array for the next loop
             $nestedArray = [];
         }
     }
@@ -73,7 +75,7 @@ function createTable(){
         echo "</tr>";
         for ( $i = 0 ; $i < $count; $i++){
             // add names to first column
-            echo "<tr><td>".$nameArray[$i]."</td>";
+            echo "<tr><td><b>".$nameArray[$i]."</b></td>";
             for ( $j = 0 ; $j < $count; $j++){
                 // populate table with results in nested array
                 echo "<td>".$nestedArray[$i][$j]."</td>";
