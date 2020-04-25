@@ -26,8 +26,7 @@ function getNameArray(){
 }
 
 // returns a 2D Array. First loop iterates through each xml doc, the next queries each xml with each pid value
-function countArray()
-{
+function countArray(){
     $textInput = trim(end($_GET));
     $returnArray = [];
     $nestedArray = [];
